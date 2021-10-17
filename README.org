@@ -1,7 +1,13 @@
-#+TITLE: Donjons et Dragons
+#+TITLE: Dungeons & Dragons / Donjons & Dragons
 #+AUTHOR: Olivier Rey
 #+DATE: 2021-10-16
 #+STARTUP: content
+
+Dungeons & Dragons, Advanced Dungeons & Dragons, D&D, AD&D are registered trademarks from [[https://www.wizards.com/][Wizard of the Coast]].
+
+This repo is a fan works centered on the creation of D&D and its first editions of D&D (OD&D, D&D 1e, AD&D 1e). It is a selection of free materials available online.
+
+Most resources of this repo are in English but some parts are in French
 
 * Introduction
 
@@ -71,47 +77,6 @@ La tentative d'adapter le système D20 de D&D à d'autres univers, en particulie
 
 En effet, d'autres systèmes de jeu, comme le Basic RPS de Chaosium, semblent plus faciles à utiliser dans un univers contemporain. Cet univers se prête au final peu à un jeu centré sur les combats. Même dans les jeux de space opera, il faut vraiment un univers particulier type Star Wars, pour mettre les combats au centre du jeu. Il est possible que la gamme ait été abandonné pour cette raison. Sans combats récurrents entre PJ et PNJ, il n'est pas forcément utile d'équilibrer le jeu entre PJ et PNJ et donc de perpétuer la très lourde mécanique des niveaux.
 
-
-* Recommended reading by Gary Gygax, The Dragon #4, December 1976
-
-*** FANTASY/SWORDS & SORCERY
-From Gary Gygax
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| AUTHORS             | SPECIFIC WORK                 |
-|---------------------+-------------------------------|
-| Anderson, Poul      | Three Hearts and Three Lions  |
-| Blackwood, Algernon |                               |
-| Brackett, Leigh     |                               |
-| Burroughs, E.R.     | John Carter of Mars (etal)    |
-| Carter, Lin         | John Carter of Mars (etal)    |
-| deCamp & Pratt      | Incomplete Enchanter          |
-|                     | Castle of Iron (etal)         |
-| Farmer, P.J.        | Gates of Creation (etal)      |
-| Fox, G.F.           | Kother the Barbarian (etal)   |
-| Howard, R.E.        | Conan the Conqueror (etal)    |
-| Lanier, Sterling    | Hiero’s Journey               |
-| Leiber, Fritz       | Swords of Lankhmar (etal)     |
-| Lovecraft, H.P.     |                               |
-| Merritt, A.         | Creep Shadow, Creep           |
-|                     | Moon Pool                     |
-|                     | Face in the Abyss             |
-|                     | Dwellers in the Mirage (etal) |
-| Moorcock, Michael   | Stealer of Souls              |
-|                     | Stormbringer                  |
-| Saberhagen, Fred    | Changling Earth               |
-| St. Clair, Margaret |                               |
-| Tolkien, J.R.R.     | The Hobbit                    |
-|                     | Lord of the Rings (Trilogy)   |
-| Vance, Jack         | Eyes of Overworld             |
-|                     | The Dying Earth               |
-| Weinbaum, Stanley   |                               |
-| Wellman, M. W.      |                               |
-| Zelazny, Roger      | Jack of Shadows (etal)        |
-|                     | Lord of Light                 |
-|                     | Nine Princes of Amber series  |
-
-[[file:197612_RecommendedReading-TheDragon004.png]]
 
 * Investigation level
 

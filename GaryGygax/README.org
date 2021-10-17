@@ -1,6 +1,9 @@
-* Contents
+#+TITLE: GaryGygax interviews and articles
+#+AUTHOR: Olivier Rey
+#+DATE: 2021-10-16
+#+STARTUP: content
 
-This section contains interviews and articles from Gary Gygax.
+This section contains interviews and articles from Gary Gygax. It is based on free contents available online.
 
 ** Recommended reading by Gary Gygax, The Dragon #4, December 1976
 
@@ -42,11 +45,6 @@ From Gary Gygax
 |                     | Nine Princes of Amber series  |
 
 [[file:197612_RecommendedReading-TheDragon004.png]]
-
-** Investigation level
-
-- RPGA/Polyhedron: 002 ok
-- The Dragon: 020 OK
 
 
 
