@@ -83,5 +83,5 @@ En effet, d'autres systèmes de jeu, comme le Basic RPS de Chaosium, semblent pl
 - The Dragon: Up to 034 DONE
 - RPGA/Polyhedron: 002 ok
 
-[[file:logo-orey.png]]
+[[https://github.com/orey/jdr][file:logo-orey.png]]
 
