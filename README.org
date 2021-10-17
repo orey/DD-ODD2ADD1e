@@ -15,10 +15,10 @@ D&D possède un bon système de jeu qui a fait ses preuves dans une multitude de
 
 * Téléchargements disponibles
 
-- [[https://github.com/orey/jdr/blob/master/DandD/DandD_5e_BasicEditionLuluCover/Cover.pdf][Couverture pour D&D 5e Basic]], adaptée pour Lulu.
-- [[https://github.com/orey/jdr/tree/master/DandD/Articles][Articles choisis]] des vieux exemplaires de The Dragon disponibles sur archive.org (en anglais).
-- Articles intéressants de [[https://github.com/orey/jdr/tree/master/DandD/GaryGygax][Gary Gygax]] (en anglais).
-
+- [[https://github.com/orey/DandD/blob/master/DandD_5e_BasicEditionLuluCover/Cover.pdf][Couverture pour D&D 5e Basic]], adaptée pour Lulu.
+- [[https://github.com/orey/DandD/tree/master/Articles][Articles choisis]] des vieux exemplaires de The Dragon disponibles sur archive.org (en anglais).
+- Articles intéressants de [[https://github.com/orey/DandD/tree/master/GaryGygax][Gary Gygax]] (en anglais).
+- Des [[https://github.com/orey/DandD/tree/master/Scenarios][scenarios]].
 
 * Un jeu de wargamers
 
