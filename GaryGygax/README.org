@@ -1,0 +1,53 @@
+* Contents
+
+This section contains interviews and articles from Gary Gygax.
+
+** Recommended reading by Gary Gygax, The Dragon #4, December 1976
+
+*** FANTASY/SWORDS & SORCERY
+From Gary Gygax
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| AUTHORS             | SPECIFIC WORK                 |
+|---------------------+-------------------------------|
+| Anderson, Poul      | Three Hearts and Three Lions  |
+| Blackwood, Algernon |                               |
+| Brackett, Leigh     |                               |
+| Burroughs, E.R.     | John Carter of Mars (etal)    |
+| Carter, Lin         | John Carter of Mars (etal)    |
+| deCamp & Pratt      | Incomplete Enchanter          |
+|                     | Castle of Iron (etal)         |
+| Farmer, P.J.        | Gates of Creation (etal)      |
+| Fox, G.F.           | Kother the Barbarian (etal)   |
+| Howard, R.E.        | Conan the Conqueror (etal)    |
+| Lanier, Sterling    | Hiero’s Journey               |
+| Leiber, Fritz       | Swords of Lankhmar (etal)     |
+| Lovecraft, H.P.     |                               |
+| Merritt, A.         | Creep Shadow, Creep           |
+|                     | Moon Pool                     |
+|                     | Face in the Abyss             |
+|                     | Dwellers in the Mirage (etal) |
+| Moorcock, Michael   | Stealer of Souls              |
+|                     | Stormbringer                  |
+| Saberhagen, Fred    | Changling Earth               |
+| St. Clair, Margaret |                               |
+| Tolkien, J.R.R.     | The Hobbit                    |
+|                     | Lord of the Rings (Trilogy)   |
+| Vance, Jack         | Eyes of Overworld             |
+|                     | The Dying Earth               |
+| Weinbaum, Stanley   |                               |
+| Wellman, M. W.      |                               |
+| Zelazny, Roger      | Jack of Shadows (etal)        |
+|                     | Lord of Light                 |
+|                     | Nine Princes of Amber series  |
+
+[[file:197612_RecommendedReading-TheDragon004.png]]
+
+** Investigation level
+
+- RPGA/Polyhedron: 002 ok
+- The Dragon: 020 OK
+
+
+
+
