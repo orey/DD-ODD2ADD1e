@@ -80,8 +80,14 @@ En effet, d'autres systèmes de jeu, comme le Basic RPS de Chaosium, semblent pl
 
 * Investigation level
 
-- The Dragon: 001-050 DONE
-- RPGA/Polyhedron: 001-050 DONE
-
+- The Dragon
+    - 001-050 DONE
+    - 251-280 DONE
+- The Dragon Annual
+    - 01-06 DONE
+- RPGA/Polyhedron
+    - 001-050 DONE
+- Adventurer
+    - 01-11 DONE
 [[https://github.com/orey/jdr][file:logo-orey.png]]
 
