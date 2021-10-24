@@ -87,6 +87,7 @@ En effet, d'autres systèmes de jeu, comme le Basic RPS de Chaosium, semblent pl
     - 01-06 DONE
 - RPGA/Polyhedron
     - 001-050 DONE
+    - 051-080 DONE
 - Adventurer
     - 01-11 DONE
 [[https://github.com/orey/jdr][file:logo-orey.png]]
