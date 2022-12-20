@@ -1,0 +1,26 @@
+* Magie dans B/X Moldvay
+
+** La magie vancienne craint
+
+C'est un vieux sujet mais la magie vancienne est à la fois punitive à bas niveau et très automatique.
+
+Le tableur joint (et sa version PDF) propose un système de points basé sur l'énergie magique, le Mana. Chaque sort consomme un nombre de points de Mana égal à son niveau chez le clerc, le magicien ou l'elfe concerné.
+
+Le problème est, bien entendu, le nombre de points de Mana.
+
+** Détermination des points de Mana
+
+La colonne "Points de base" contient un calcul des "slots" relativement classique basé sur la somme des produits des sorts autorisés par leur niveau.
+
+Exemple : Un magicien niveau 3 possède 2 sorts de niveau 1 et 1 sort de niveau 2. Cela fait un total de points de base de 2x1 + 1x2 = 4.
+
+Il serait possible de dire que les points de Mana sont de 4. Cela ajouterait un peu de souplesse au système. Le magicien pourrait préparer 4 slots de niveau 1, ou 2 de niveau 1 et un de niveau 2 ou 2 de niveau 2. Mais cela reste tout de même très bas, comme capacité.
+
+La formule que je propose est la suivante :
+
+*Mana = Points de base + niveau + modificateur de caractéristique principale (Intelligence pour Magicien/Elfe et Sagesse pour Clerc)*
+
+Cela augmente sensiblement les capacités des personnages de faible niveau, et a tendance à devenir moins important avec la progression en niveaux.
+
+
+
