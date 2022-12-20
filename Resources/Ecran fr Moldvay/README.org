@@ -11,4 +11,6 @@ Il est composé de 7 pages :
 
 ** Base
 
-Cet écran se base sur l'*exceptionnelle* version revue et corrigée des règles françaises Moldvay par 
+Cet écran se base sur l'*exceptionnelle* version revue et corrigée des règles françaises Moldvay sur [[http://la-forge-de-papier.over-blog.com][la Forge de Papier]] : [[http://la-forge-de-papier.over-blog.com/2020/07/d-d-regles-de-base-version-moldvay.la-revision.html][version Moldvay révisée]] brillamment par Dvergguden.
+
+
