@@ -143,7 +143,7 @@ Je tente un petit classement ci-dessous des rétro-clones que j'ai pu analyser. 
 
 Parue en 2008, Nicolas Dessaux propose un premier retro-clone français à base de *D&D 0e* et de *Chainmail* avec l'utilisation de 2d6 au lieu de 1d20. Le système est simple et complet. La première édition française est, à mon humble avis, mieux que la seconde, et il est dommage de ne plus pouvoir la retrouver sur Lulu (seule la seconde version en français est disponible et la première version en anglais).
 
-Créativité : 3/5 - Qualité 4/5
+Créativité : 3/5 - Qualité : 4/5 - Gratuit
 
 *** Aventures fantastiques (FR)
 
@@ -154,11 +154,37 @@ Quelques innovations :
 - Les tables de rencontres suivant les natures de terrain sont les bienvenues,
 - Une table de conversion des CA avec Basic Fantasy et Labyrinth Lord.
 
-Créativité : 3/5 - Qualité 5/5
+Créativité : 3/5 - Qualité : 4/5 - Gratuit
 
-*** Basic Fantasy Roleplay
+*** Basic Fantasy Role-Playing Game (EN, FR, etc.)
 
+Quoique le jeu se réclame du SRD de la 3e/3.5e, le jeu semble plutôt un clone de D&D B/X. Le livre de base est complet et est traduit dans de nombreuses langues. Comme le proclame le site, BFRPG est un jeu supporté par une communauté. Aussi, un grand nombre de scénarios et d'extensions gratuites sont disponibles.
 
+A noter une CA ascendante un peu étrange démarrant à 11.
+
+[[https://www.basicfantasy.org][https://www.basicfantasy.org]]
+
+Créativité : 2/5 - Qualité : 4/5 - Gratuit
+
+*** OSRIC (EN)
+
+OSRIC est un monstre (412 pages) et un rétro-clone de AD&D 1e (avec quelques petites corrections de ci, de là et quelques abandons de petits sous-systèmes Gygaxiens). L'intention première du jeu était de pouvoir produire de nouveaux scénarios pour AD&D sans avoir des problèmes de copyright. Le jeu est un condensé des trois livres de AD&D 1e, très complet, et plus facile à lire que les originaux.
+
+La communauté a produit beaucoup de suppléments.
+
+[[https://osricrpg.com][https://osricrpg.com]]
+
+Créativité : 2/5 - Qualité : 5/5 - Gratuit
+
+*** Labyrinth Lord (EN)
+
+Labyrinth Lord est un clone de D&D B/X (avec des personnages pouvant aller jusqu'au niveau 20 et des sorts jusqu'au niveau 9). Un compagnon est disponible avec des règles complémentaires optionnelles (Labyrinth Lord Advanced Edition Companion).
+
+Créativité : 2/5 - Qualité : 4/5 - Payant
+
+*** Swords and Wizardry
+
+Disponible en trois éditions.
 
 
 
