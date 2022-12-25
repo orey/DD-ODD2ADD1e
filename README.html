@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2022-12-25 Sun 14:27 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Dungeons &amp; Dragons / Donjons &amp; Dragons</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Olivier Rey" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Dungeons &amp; Dragons / Donjons &amp; Dragons</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org5fcf7e1">1. Introduction</a></li>
+<li><a href="#orgcde5b0f">2. Téléchargements disponibles</a></li>
+<li><a href="#org2e9a0ec">3. Un jeu de wargamers</a></li>
+<li><a href="#orge766490">4. Equilibre du jeu et niveaux</a>
+<ul>
+<li><a href="#orge02978b">4.1. Conséquence 1 : équilibre et niveaux</a></li>
+<li><a href="#orga34d3bf">4.2. Conséquence 2 : le Gros-Bill</a></li>
+<li><a href="#org0067697">4.3. Conséquence 3 : jouer contre le MJ ou avec un MJ trop permissif</a></li>
+<li><a href="#org6727655">4.4. Conséquence 4 : une facilité pour jouer en conventions</a></li>
+<li><a href="#orgf6ac4d3">4.5. Conséquence 5 : la tentation constante de customiser le jeu et rompant l'équilibre</a></li>
+<li><a href="#org6adb9bf">4.6. Le mouvement OSR (Old-School Revival)</a></li>
+<li><a href="#org7fb49bf">4.7. Le D20 system moins adapté hors de l'Heroic Fantasy</a></li>
+</ul>
+</li>
+<li><a href="#org582755b">5. Investigation level</a></li>
+</ul>
+</div>
+</div>
+<p>
+Dungeons &amp; Dragons, Advanced Dungeons &amp; Dragons, D&amp;D, AD&amp;D are registered trademarks from <a href="https://www.wizards.com/">Wizard of the Coast</a>.
+</p>
+
+<p>
+This repo is a fan works centered on the creation of D&amp;D and its first editions of D&amp;D (OD&amp;D, D&amp;D 1e, AD&amp;D 1e). It is a selection of free materials available online.
+</p>
+
+<p>
+Most resources of this repo are in English but some parts are in French
+</p>
+
+<div id="outline-container-org5fcf7e1" class="outline-2">
+<h2 id="org5fcf7e1"><span class="section-number-2">1</span> Introduction</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+D&amp;D possède un système de jeu qui a fait ses preuves dans une multitude de versions :
+</p>
+<ul class="org-ul">
+<li>D&amp;D 0e (les trois premiers livres bruns originaux) ;</li>
+<li>AD&amp;D 1e, la version mythique écrite par Gary Gygax avec ses trois livres imposants et son style inimitable ;</li>
+<li>La version D&amp;D Holmes qui est une réécriture de l'original avec un souci de cohérence ;</li>
+<li>La version D&amp;D B/X (pour Basic/eXpert), respectivement éditées par Moldvay et Cook, étant une réécriture de Holmes avec une focalisation sur des joueurs plus jeunes ;</li>
+<li>La version BECMI (pour Basic, Expert, Compagnon, Master, Immortal) ;</li>
+<li>La version AD&amp;D 2e qui est une réécriture de la première édition de AD&amp;D ;</li>
+<li>La version D&amp;D 3/3.5 éditée par David Cook et servant de base au premier SRD de D&amp;D ;</li>
+<li>La version D&amp;D 4e, très décriée ;</li>
+<li>La version actuelle D&amp;D 5e.</li>
+</ul>
+
+<p>
+Cet espace est axé sur les premières versions de D&amp;D, depuis la 0e jusqu'à AD&amp;D 1e en passant par les trois versions D&amp;D (hé oui, jusqu'à la version 3, il existe 2 version de D&amp;D, la version D&amp;D et AD&amp;D).
+</p>
+
+<p>
+Le système de jeu de D&amp;D est assez particulier mais globalement basé sur le paradigme suivant : <code>D20 + modificateurs &gt;= Classe de difficulté</code> (par exemple, dépendant plus ou moins directement de la classe d'armure). Ce système a l'avantage de ne pas tordre les probabilités (contrairement au <a href="https://github.com/orey/jdr/tree/master/D6-System">système D6</a>).
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcde5b0f" class="outline-2">
+<h2 id="orgcde5b0f"><span class="section-number-2">2</span> Téléchargements disponibles</h2>
+<div class="outline-text-2" id="text-2">
+<ul class="org-ul">
+<li><a href="https://github.com/orey/DandD/blob/master/DandD_5e_BasicEditionLuluCover/Cover.pdf">Couverture pour D&amp;D 5e Basic</a>, adaptée pour Lulu.</li>
+<li><a href="https://github.com/orey/DandD/tree/master/Articles">Articles choisis</a> des vieux exemplaires de The Dragon disponibles sur archive.org (en anglais).</li>
+<li>Articles intéressants de <a href="https://github.com/orey/DandD/tree/master/GaryGygax">Gary Gygax</a> (en anglais).</li>
+<li>Des <a href="https://github.com/orey/DandD/tree/master/Scenarios">scenarios</a>.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org2e9a0ec" class="outline-2">
+<h2 id="org2e9a0ec"><span class="section-number-2">3</span> Un jeu de wargamers</h2>
+<div class="outline-text-2" id="text-3">
+<p>
+Le fait est qu'il faut voir D&amp;D comme un JDR fait par un wargamer (Gary Gygax) pour des joueurs à l'esprit wargamer.
+</p>
+
+<p>
+Le jeu est centré sur l'exploration de souterrains et de cavernes (des "dungeons" en anglais, et par extension des "donjons" pour les rôlistes français) et les combats qui s'ensuivent. Comme dans tous les wargames, les règles de combat peuvent être très complexes et la variété des types de personnages permet d'avoir un groupe d'aventuriers paré pour une aventure qui consistera en un affrontement d'un certain nombre de PNJ et de pièges de diverses natures.
+</p>
+
+<p>
+Quelques points très importants du jeu :
+</p>
+<ul class="org-ul">
+<li>Les PJ ont des "suiveurs" (hirelings) dans le jeu original ; ainsi un groupe d'aventuriers composé de 4 PJ est souvent un groupe d'une dizaine de personnages au moins, chaque PJ ayant avec lui un ou plusieurs PNJ ;</li>
+<li>Les figurines sont au centre du jeu pour mieux représenter les combats, notamment dans le cadre où le groupe est de taille importante.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orge766490" class="outline-2">
+<h2 id="orge766490"><span class="section-number-2">4</span> Equilibre du jeu et niveaux</h2>
+<div class="outline-text-2" id="text-4">
+<p>
+Cette mécanique de jeu a plusieurs conséquences.
+</p>
+</div>
+
+<div id="outline-container-orge02978b" class="outline-3">
+<h3 id="orge02978b"><span class="section-number-3">4.1</span> Conséquence 1 : équilibre et niveaux</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>
+Comme le jeu est centré sur les combats, l'équilibre du scénario devient un sujet (voir <a href="https://github.com/orey/jdr/blob/master/D%26D/D%26D%200e%20-%20Aides%20de%20jeu/197807-GameBalance.pdf">l'article de James Ward de 1978</a>) : est-ce que le groupe de PJ a une chance de survivre à l'ensemble de monstres et de pièges présents ?
+</p>
+
+<p>
+Pour tenter de modéliser cet équilibre, il est nécessaire de créer des niveaux, à la fois pour les personnages et pour les monstres. Ainsi, une certaine aventure aura un certain niveau et demandera un certain panel de PJ d'un certain niveau pour avoir une chance d'être réussie par les joueurs.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga34d3bf" class="outline-3">
+<h3 id="orga34d3bf"><span class="section-number-3">4.2</span> Conséquence 2 : le Gros-Bill</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+Dès lors, le joueur est amené à chercher à optimiser son personnage, dans le but de survivre et de gagner des avantages en augmentant de niveau. D&amp;D crée donc une catégorie de joueurs experts qui vont chercher quels types de personnages sont les plus puissants à un certain niveau. Ces derniers vont parfois profiter des failles du jeu (par exemple dans D&amp;D 3e) pour créer des personnages surpuissants. En France, la dénomination de ce genre de personnage est le "Gros-Bill".
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0067697" class="outline-3">
+<h3 id="org0067697"><span class="section-number-3">4.3</span> Conséquence 3 : jouer contre le MJ ou avec un MJ trop permissif</h3>
+<div class="outline-text-3" id="text-4-3">
+<p>
+Si les joueurs jouent des Gros-Bills, ils peuvent se mettre dans la position de jouer contre le MJ. Certains apprécient cette confrontation, mais elle est souvent nuisible à l'esprit du jeu.
+</p>
+
+<p>
+La conséquence inverse est aussi souvent pointée du doigt par Gary Gygax et ses acolytes : le MJ trop permissif, qui laisse ses joueurs monter en niveau et ne présente pas beaucoup de résistance dans les scénarios. Ce MJ est nommé en anglais un MJ "Monthy Hall".
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6727655" class="outline-3">
+<h3 id="org6727655"><span class="section-number-3">4.4</span> Conséquence 4 : une facilité pour jouer en conventions</h3>
+<div class="outline-text-3" id="text-4-4">
+<p>
+Les américains font beaucoup de conventions de JDR. Au sein de ces conventions, avec des règles très complètes comme celles de D&amp;D, ils peuvent "standardiser" les mécaniques de jeux et donc créer des compétitions basées sur un scénario et des personnages pré-tirés.
+</p>
+
+<p>
+Il est intéressant de noter que déjà en 1981, Gary Gygax mentionnait son besoin de standardiser D&amp;D avec la sortie de AD&amp;D 1e. En effet, OD&amp;D (ou D&amp;D 0e) était tellement permissif que les joueurs inventaient leurs propres règles, au point de rendre parfois leurs personnages tellement puissants que le jeu perdait de son intérêt. AD&amp;D a commencé à proposer des règles très lourdes sensées encadrer le jeu et éviter les "dérives".
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf6ac4d3" class="outline-3">
+<h3 id="orgf6ac4d3"><span class="section-number-3">4.5</span> Conséquence 5 : la tentation constante de customiser le jeu et rompant l'équilibre</h3>
+<div class="outline-text-3" id="text-4-5">
+<p>
+Le système de jeu de D&amp;D rendant facile la prolifération de suppléments (classes de personnages, "donjons" en tous genre, recueil de sorts, etc.), l'écosystème d'extension du jeu est très étendu. Il faut voir que même les spécialistes peuvent déstabiliser le jeu en créant une classe de personnage un peu trop puissante, sans le faire exprès (par exemple <a href="https://archive.org/details/DragonMagazine045_201903/Dragon%201-50/Dragon%20Magazine%20%23002/page/n27/mode/2up">l'alchimiste</a> dans The Dragon #2).
+</p>
+
+<p>
+D'une certaines façon, des univers de jeu plus encadrés (comme DragonLance par exemple) pourraient être vus comme un moyen de stopper la prolifération. Dans ces univers, tout n'est pas permis et tous les suppléments de l'univers (dont la qualité est parfois douteuse en termes d'équilibre de jeu) ne sont pas applicables.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6adb9bf" class="outline-3">
+<h3 id="org6adb9bf"><span class="section-number-3">4.6</span> Le mouvement OSR (Old-School Revival)</h3>
+<div class="outline-text-3" id="text-4-6">
+<p>
+Ce mouvement semble composé de plusieurs dimensions :
+</p>
+<ul class="org-ul">
+<li>Une volonté de retourner à des règles plus simples (comme D&amp;D 0e ou D&amp;D 1e), ouvrant la possibilité à des règles customisées par les MJ ;</li>
+<li>Un appétit pour les scénarios simples d'exploration (avec suivants) de "donjons" peuplés de monstres et de pièges ;</li>
+<li>Une volonté de retrouver un certain esprit bon-enfant des jeux des années 80, en particulier la possibilité que les PJ meurent dans une aventure.</li>
+</ul>
+
+<p>
+Ce mouvement a été favorisé par la mise sous licence OGL (Open Gaming Licence) en 2003 des règles de D&amp;D 3.5e par Wizards of the Coast. De très nombreux jeux ont été publiés dont la plupart, presque 20 plus tard, sont oubliés (à part PathFinder et DCC sans doute).
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7fb49bf" class="outline-3">
+<h3 id="org7fb49bf"><span class="section-number-3">4.7</span> Le D20 system moins adapté hors de l'Heroic Fantasy</h3>
+<div class="outline-text-3" id="text-4-7">
+<p>
+La tentative d'adapter le système D20 de D&amp;D à d'autres univers, en particulier D20 Modern de WotC, malgré un travail très intéressant, résulte en une hybridation un peu étrange. En conservant les niveaux et la magie (parfois sous la forme de pouvoirs psy), mais en favorisant l'ambiance et les enquêtes, la mécanique de jeu devient finalement peu adaptée et trop lourde par rapport au genre lui-même.
+</p>
+
+<p>
+En effet, d'autres systèmes de jeu, comme le Basic RPS de Chaosium, semblent plus faciles à utiliser dans un univers contemporain. Cet univers se prête au final peu à un jeu centré sur les combats. Même dans les jeux de space opera, il faut vraiment un univers particulier type Star Wars, pour mettre les combats au centre du jeu. Il est possible que la gamme ait été abandonné pour cette raison. Sans combats récurrents entre PJ et PNJ, il n'est pas forcément utile d'équilibrer le jeu entre PJ et PNJ et donc de perpétuer la très lourde mécanique des niveaux.
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org582755b" class="outline-2">
+<h2 id="org582755b"><span class="section-number-2">5</span> Investigation level</h2>
+<div class="outline-text-2" id="text-5">
+<ul class="org-ul">
+<li>The Dragon
+<ul class="org-ul">
+<li>001-050 DONE</li>
+<li>251-280 DONE</li>
+</ul></li>
+<li>The Dragon Annual
+<ul class="org-ul">
+<li>01-06 DONE</li>
+</ul></li>
+<li>RPGA/Polyhedron
+<ul class="org-ul">
+<li>001-050 DONE</li>
+<li>051-080 DONE</li>
+</ul></li>
+<li>Adventurer
+<ul class="org-ul">
+<li>01-11 DONE</li>
+</ul></li>
+</ul>
+
+<div class="figure">
+<p><a href="https://github.com/orey/jdr"><img src="logo-orey.png" alt="logo-orey.png" /></a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Date: 2021-10-16</p>
+<p class="author">Author: Olivier Rey</p>
+<p class="date">Created: 2022-12-25 Sun 14:27</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

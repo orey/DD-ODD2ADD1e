@@ -11,7 +11,20 @@ Most resources of this repo are in English but some parts are in French
 
 * Introduction
 
-D&D possède un bon système de jeu qui a fait ses preuves dans une multitude de versions. Son système est simple et basé sur le paradigme suivant : ~D20 + modificateurs >= Classe de difficulté~ (par exemple, dépendant plus ou moins directement de la classe d'armure). Ce système a l'avantage de ne pas tordre les probabilités (contrairement au [[https://github.com/orey/jdr/tree/master/D6-System][système D6]]).
+D&D possède un système de jeu qui a fait ses preuves dans une multitude de versions :
+- D&D 0e (les trois premiers livres bruns originaux) ;
+- AD&D 1e, la version mythique écrite par Gary Gygax avec ses trois livres imposants et son style inimitable ;
+- La version D&D Holmes qui est une réécriture de l'original avec un souci de cohérence ;
+- La version D&D B/X (pour Basic/eXpert), respectivement éditées par Moldvay et Cook, étant une réécriture de Holmes avec une focalisation sur des joueurs plus jeunes ;
+- La version BECMI (pour Basic, Expert, Compagnon, Master, Immortal) ;
+- La version AD&D 2e qui est une réécriture de la première édition de AD&D ;
+- La version D&D 3e/3.5e éditée par David Cook et servant de base au premier SRD de D&D ;
+- La version D&D 4e, très décriée ;
+- La version actuelle D&D 5e.
+
+Cet espace est axé sur les premières versions de D&D, depuis la 0e jusqu'à AD&D 1e en passant par les trois versions D&D (hé oui, jusqu'à la version 3, il existe 2 version de D&D, la version D&D et AD&D).
+
+Le système de jeu de D&D est assez particulier mais globalement basé sur le paradigme suivant : ~D20 + modificateurs >= Classe de difficulté~ (par exemple, un seuil en relation avec la Classe d'Armure (AC en anglais)). Ce système a l'avantage de ne pas tordre les probabilités (contrairement au [[https://github.com/orey/jdr/tree/master/D6-System][système D6]]).
 
 * Téléchargements disponibles
 
@@ -20,29 +33,33 @@ D&D possède un bon système de jeu qui a fait ses preuves dans une multitude de
 - Articles intéressants de [[https://github.com/orey/DandD/tree/master/GaryGygax][Gary Gygax]] (en anglais).
 - Des [[https://github.com/orey/DandD/tree/master/Scenarios][scenarios]].
 
-* Un jeu de wargamers
+* Un jeu issu des wargames
 
 Le fait est qu'il faut voir D&D comme un JDR fait par un wargamer (Gary Gygax) pour des joueurs à l'esprit wargamer.
 
-Le jeu est centré sur l'exploration de souterrains et de cavernes (des "dungeons" en anglais, et par extension des "donjons" pour les rôlistes français) et les combats qui s'ensuivent. Comme dans tous les wargames, les règles de combat peuvent être très complexes et la variété des types de personnages permet d'avoir un groupe d'aventuriers paré pour une aventure qui consistera en un affrontement d'un certain nombre de PNJ et de pièges de diverses natures.
+Le jeu initial est centré sur l'exploration de souterrains et de cavernes (des "dungeons" en anglais, et par extension des "donjons" pour les rôlistes français) et les combats qui s'ensuivent. Comme dans tous les wargames, les règles de combat peuvent être très complexes et la variété des types de personnages permet d'avoir un groupe d'aventuriers paré pour une aventure qui consistera en un affrontement d'un certain nombre de PNJ et de rencontres de diverses natures (ennemis, pièges, énigmes à résoudre, etc.).
 
 Quelques points très importants du jeu :
 - Les PJ ont des "suiveurs" (hirelings) dans le jeu original ; ainsi un groupe d'aventuriers composé de 4 PJ est souvent un groupe d'une dizaine de personnages au moins, chaque PJ ayant avec lui un ou plusieurs PNJ ;
-- Les figurines sont au centre du jeu pour mieux représenter les combats, notamment dans le cadre où le groupe est de taille importante.
+- Les figurines sont au centre du jeu pour mieux représenter les combats, notamment dans le cadre où le groupe est de taille importante ; avec le temps, elles deviennent optionnelles et sont plus un support pour visualiser les combats.
 
 * Equilibre du jeu et niveaux
 
-Cette mécanique de jeu a plusieurs conséquences.
+L'utilisation de niveaux a plusieurs conséquences.
 
 ** Conséquence 1 : équilibre et niveaux
 
 Comme le jeu est centré sur les combats, l'équilibre du scénario devient un sujet (voir [[https://github.com/orey/jdr/blob/master/D%2526D/D%2526D%25200e%2520-%2520Aides%2520de%2520jeu/197807-GameBalance.pdf][l'article de James Ward de 1978]]) : est-ce que le groupe de PJ a une chance de survivre à l'ensemble de monstres et de pièges présents ?
 
-Pour tenter de modéliser cet équilibre, il est nécessaire de créer des niveaux, à la fois pour les personnages et pour les monstres. Ainsi, une certaine aventure aura un certain niveau et demandera un certain panel de PJ d'un certain niveau pour avoir une chance d'être réussie par les joueurs.
+Pour tenter de modéliser cet équilibre, une façon intéressante est de créer des niveaux, à la fois pour les personnages et pour les monstres. Ainsi, une certaine aventure aura un certain niveau et demandera un certain panel de PJ d'un certain niveau pour avoir une chance d'être réussie par les joueurs. La plupart du temps, il faut aussi un panel de joueurs, par exemple un clerc ou un magicien capable de soigner les blessures des autres membres du groupe.
 
 ** Conséquence 2 : le Gros-Bill
 
-Dès lors, le joueur est amené à chercher à optimiser son personnage, dans le but de survivre et de gagner des avantages en augmentant de niveau. D&D crée donc une catégorie de joueurs experts qui vont chercher quels types de personnages sont les plus puissants à un certain niveau. Ces derniers vont parfois profiter des failles du jeu (par exemple dans D&D 3e) pour créer des personnages surpuissants. En France, la dénomination de ce genre de personnage est le "Gros-Bill".
+Dès lors, certains joueurs cherchent à optimiser leur personnage, dans de gagner des avantages en augmentant de niveau (au travers des points d'expérience). D&D crée donc une catégorie de joueurs experts qui vont chercher quels types de personnages sont les plus puissants à un certain niveau. Ces derniers vont parfois profiter des failles du jeu (par exemple dans D&D 3e), ou des failles du MD (qui peut être trop laxiste et attribuer de gros bénéfices à des joueurs peu méritants) pour créer des personnages surpuissants.
+
+En France, la dénomination de ce genre de personnage est le "Gros-Bill".
+
+Ce phénomène dessert D&D auprès d'autres rôlistes qui vont préférer se tourner vers des jeux qualifiés de moins "bourrins".
 
 ** Conséquence 3 : jouer contre le MJ ou avec un MJ trop permissif
 
@@ -52,31 +69,15 @@ La conséquence inverse est aussi souvent pointée du doigt par Gary Gygax et se
 
 ** Conséquence 4 : une facilité pour jouer en conventions
 
-Les américains font beaucoup de conventions de JDR. Au sein de ces conventions, avec des règles très complètes comme celles de D&D, ils peuvent "standardiser" les mécaniques de jeux et donc créer des compétitions basées sur un scénario et des personnages pré-tirés.
+Les américains font beaucoup de conventions de JDR. Au sein de ces conventions, avec des règles très complètes comme celles de D&D, il est possible d'utiliser les mécaniques standard de D&D pour créer des compétitions basées sur un scénario et des personnages prétirés. En effet, des groupes de joueurs différents avec les mêmes personnages prétirés peuvent aborder radicalement différemment un scénario assez basique d'exploration, surtout lorsque le temps est limité. Il est donc possible de les noter les uns par rapport aux autres.
 
-Il est intéressant de noter que déjà en 1981, Gary Gygax mentionnait son besoin de standardiser D&D avec la sortie de AD&D 1e. En effet, OD&D (ou D&D 0e) était tellement permissif que les joueurs inventaient leurs propres règles, au point de rendre parfois leurs personnages tellement puissants que le jeu perdait de son intérêt. AD&D a commencé à proposer des règles très lourdes sensées encadrer le jeu et éviter les "dérives".
+Il est intéressant de noter que déjà en 1981, Gary Gygax mentionnait son besoin de standardiser D&D avec la sortie de AD&D 1e. En effet, OD&D (ou D&D 0e) était tellement permissif que les joueurs inventaient leurs propres règles ("house rules" ou règles maison), au point de rendre parfois leurs personnages tellement puissants que le jeu perdait de son intérêt. AD&D a commencé à proposer des règles très complètes sensées encadrer le jeu et éviter les "dérives" et les divergences.
 
-** Conséquence 5 : la tentation constante de customiser le jeu et rompant l'équilibre
+** Conséquence 5 : un écosystème incroyable
 
-Le système de jeu de D&D rendant facile la prolifération de suppléments (classes de personnages, "donjons" en tous genre, recueil de sorts, etc.), l'écosystème d'extension du jeu est très étendu. Il faut voir que même les spécialistes peuvent déstabiliser le jeu en créant une classe de personnage un peu trop puissante, sans le faire exprès (par exemple [[https://archive.org/details/DragonMagazine045_201903/Dragon%25201-50/Dragon%2520Magazine%2520%2523002/page/n27/mode/2up][l'alchimiste]] dans The Dragon #2).
+Le système de jeu de D&D rendant facile la prolifération de suppléments (classes de personnages, "donjons" en tous genre et autres scénarios, recueil de sorts, de monstres, etc.), l'écosystème d'extensions du jeu D&D est devenu sans doute le plus étendu de l'histoire du JDR.
 
-D'une certaines façon, des univers de jeu plus encadrés (comme DragonLance par exemple) pourraient être vus comme un moyen de stopper la prolifération. Dans ces univers, tout n'est pas permis et tous les suppléments de l'univers (dont la qualité est parfois douteuse en termes d'équilibre de jeu) ne sont pas applicables.
-
-** Le mouvement OSR (Old-School Revival)
-
-Ce mouvement semble composé de plusieurs dimensions :
-- Une volonté de retourner à des règles plus simples (comme D&D 0e ou D&D 1e), ouvrant la possibilité à des règles customisées par les MJ ;
-- Un appétit pour les scénarios simples d'exploration (avec suivants) de "donjons" peuplés de monstres et de pièges ;
-- Une volonté de retrouver un certain esprit bon-enfant des jeux des années 80, en particulier la possibilité que les PJ meurent dans une aventure.
-
-Ce mouvement a été favorisé par la mise sous licence OGL (Open Gaming Licence) en 2003 des règles de D&D 3.5e par Wizards of the Coast. De très nombreux jeux ont été publiés dont la plupart, presque 20 plus tard, sont oubliés (à part PathFinder et DCC sans doute).
-
-** Le D20 system moins adapté hors de l'Heroic Fantasy
-
-La tentative d'adapter le système D20 de D&D à d'autres univers, en particulier D20 Modern de WotC, malgré un travail très intéressant, résulte en une hybridation un peu étrange. En conservant les niveaux et la magie (parfois sous la forme de pouvoirs psy), mais en favorisant l'ambiance et les enquêtes, la mécanique de jeu devient finalement peu adaptée et trop lourde par rapport au genre lui-même.
-
-En effet, d'autres systèmes de jeu, comme le Basic RPS de Chaosium, semblent plus faciles à utiliser dans un univers contemporain. Cet univers se prête au final peu à un jeu centré sur les combats. Même dans les jeux de space opera, il faut vraiment un univers particulier type Star Wars, pour mettre les combats au centre du jeu. Il est possible que la gamme ait été abandonné pour cette raison. Sans combats récurrents entre PJ et PNJ, il n'est pas forcément utile d'équilibrer le jeu entre PJ et PNJ et donc de perpétuer la très lourde mécanique des niveaux.
-
+D'une certaine façon, des univers de jeu plus encadrés (comme DragonLance par exemple) pourraient être vus comme un moyen de stopper la prolifération. Dans ces univers, tout n'est pas permis et tous les suppléments de l'univers (dont la qualité est parfois douteuse en termes d'équilibre de jeu) ne sont pas applicables.
 
 * Investigation level
 
@@ -90,5 +91,74 @@ En effet, d'autres systèmes de jeu, comme le Basic RPS de Chaosium, semblent pl
     - 051-080 DONE
 - Adventurer
     - 01-11 DONE
-[[https://github.com/orey/jdr][file:logo-orey.png]]
+
+* Le D20 system moins adapté hors de l'Heroic Fantasy ?
+
+On peut se poser la question.
+
+La tentative d'adapter le système D20 de D&D à d'autres univers, en particulier D20 Modern de WotC, malgré un travail très intéressant, résulte en une hybridation un peu étrange. En conservant les niveaux et la magie (parfois sous la forme de pouvoirs psy), mais en favorisant l'ambiance et les enquêtes, la mécanique de jeu devient finalement peu adaptée et semblent parfois trop lourde par rapport au genre lui-même.
+
+En effet, d'autres systèmes de jeu, comme le Basic RPS de Chaosium, ou pire le système Gumshoe, semblent plus faciles à utiliser dans un univers contemporain. Cet univers se prête au final peu à un jeu centré sur les combats.
+
+Reste le cas des jeux de SF. Le système de jeu de /Alternity/ était un système D20 intéressant quoique ne reprenant pas la mécanique des niveaux, mais il fut abandonné brutalement par WotC.
+
+Dans le créneau de la SF, Star Wars et Traveller ont longtemps régné et il a fallu attendre un certain renouveau Indie pour que d'autres jeux puissent émerger, à commencer par Starfinder (système à analyser).
+
+* Le mouvement OSR (Old-School Revival)
+
+** La licence OGL
+
+WotC, possédant les droits de D&D, ouvre une grande partie du contenu des précédentes éditions de D&D sous une licence open source, la licence OGL. Cette décision inouïe va bouleverser le monde du JDR et faire naître de multiples initiatives gratuites et payantes autour d'une partie plus ou moins large du contenu des éditions de D&D, depuis la 0e jusqu'à la 3e/3.5e.
+
+La société ayant hérité le plus de cette licence est Paizo qui, avec Pathfinder (un clone de D&D 3e) va faire perdurer les règles de la 3e en les modernisant, alors que WotC est empêtré dans la mauvaise réception de D&D 4e.
+
+** Le mouvement OSR (Old School Revival)
+
+Ce mouvement semble composé de plusieurs dimensions :
+- Une volonté de retourner à des règles plus simples (comme D&D 0e ou D&D 1e), ouvrant la possibilité à des règles customisées par les MD ;
+- Un appétit pour les scénarios simples d'exploration (avec suivants) de "donjons" peuplés de monstres et de pièges ;
+- Une volonté de retrouver un certain esprit bon-enfant des jeux des années 80, en particulier la possibilité que les PJ meurent dans une aventure.
+
+** Méthodologie du mouvement
+
+La plupart du temps, un auteur seul ou accompagné d'un petit groupe, va réinterpréter les règles de D&D et en faire un manuel dit "rétro-clone".
+
+A notre grande surprise, si le niveau de travail est souvent très important, le niveau de réinterprétation est lui tout à fait minime, ce qui ne laisse pas d'intriguer, surtout quand on sait que beaucoup de ces auteurs ont joué dans les années 80 avec des règles maison rendant leur version de D&D très différente de l'originale.
+
+D'une certaine façon, le mouvement OSR semble étonnamment /peu créatif/ notamment sur les sujets suivants :
+1. Classes de personnages : la plupart des jeux prennent soit les 3/4 classes originelles (guerrier, magicien, clerc et/ou voleur), soit les classes étendues de D&D ;
+2. Types de personnages : dans la quasi-totalité des cas, nous avons les humains, les nains, les elfes et les hobbits ;
+3. Progression des personnages : que ce soit le tableau de progression par classe de personnage ou le système de points d'expérience, les rétro-clones n'adaptent généralement pas les règles du passé aux contraintes d'aujourd'hui (à part DCC, mais nous y reviendrons) ;
+4. Magie : c'est vraiment l'endroit où les choses sont les plus stupéfiantes ; alors que la magie vancienne est quand même une drôle de chose, quasiment aucun rétro-clone ne remet en question ce paradigme que, personnellement, je trouve très contestable.
+
+Pourtant, quand certaines choses ne sont manifestement pas adaptées, les game designers n'hésitent pas à la changer : par exemple, quasiment tous sont d'accord avec le fait de passer en classe d'armure ascendante (alors que l'original est en classe d'armure descendante).
+
+Mais cela reste bien maigre comme créativité. Alors, évidemment, ces jeux portent le nom de clones. D'accord. Mais pourquoi alors en faire autant ? Et, plus de 20 après la licence OGL, que reste-t-il de tous ces rétro-clones ?
+
+Je tente un petit classement ci-dessous des rétro-clones que j'ai pu analyser. Attention, ces appréciations sont purement personnelles.
+
+** Quelques produits OSR
+
+*** Épées et sorcellerie (FR)
+
+Parue en 2008, Nicolas Dessaux propose un premier retro-clone français à base de *D&D 0e* et de *Chainmail* avec l'utilisation de 2d6 au lieu de 1d20. Le système est simple et complet. La première édition française est, à mon humble avis, mieux que la seconde, et il est dommage de ne plus pouvoir la retrouver sur Lulu (seule la seconde version en français est disponible et la première version en anglais).
+
+Créativité : 3/5 - Qualité 4/5
+
+*** Aventures fantastiques (FR)
+
+Un jeu plus complet de Nicolas Dessaux (encore lui) paru en 2017. Le jeu est plus complet (129 pages dont 41 pages de monstres) et plus dense. Les règles sont globalement celles de *D&D B/X* (Basic + Expert).
+
+Quelques innovations :
+- Les classes de personnages sont plus larges (Acrobate, Barbare, Druide, Moine, Prêtre, etc.),
+- Les tables de rencontres suivant les natures de terrain sont les bienvenues,
+- Une table de conversion des CA avec Basic Fantasy et Labyrinth Lord.
+
+Créativité : 3/5 - Qualité 5/5
+
+*** Basic Fantasy Roleplay
+
+
+
+
 
