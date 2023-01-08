@@ -192,5 +192,4 @@ Même si, /stricto sensu/, tous les détails de l'édition originale de D&D 0e n
 
 ** Le cas Dungeon Crawl Classics
 
-[to be done]
-
+Voir : [[https://orey.github.io/blog/blog/202301/]]
