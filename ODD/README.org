@@ -1,0 +1,27 @@
+* Original D&D library section
+
+** Contents
+
+This section contains files related to ODD.
+
+Note that all the OD&D original files are sold on various websites such as [[https://www.drivethrurpg.com][DriveThruRPG]] and are copyrighted by /Wizards of the Coast/.
+
+** References
+
+If this topic is of interest to you, you may really need to read the [[https://odd74.proboards.com/thread/11414/pre-publication-od-discussion][ODD74 forum]].
+
+If you look at information about the Holmes version of D&D, you can go on the [[https://sites.google.com/site/zenopusarchives/home?authuser=0][Zenopus Archive]].
+
+** Files
+
+| File                                                                   | Comment                                                                           |
+| (1976) Game Reference Sheet.pdf                                        | An early extension of ODD for DM                                                  |
+| (2007) Philotomy blog - Grey-elf.pdf                                   | A document trying to fill the gaps in the OD&D original rules                     |
+| (2008) Meepo's Holmes Companion.pdf                                    | An extension to the Holmes version of D&D for superior levels                     |
+| (2010) Compleat Chainmail - Using chainmail to resolve ODD combats.pdf | As ODD proposes 3 ways of solving combats, this document tries the Chainmail way. |
+| (2012) Balrog Reference Sheet.pdf                                      | Reference sheet                                                                   |
+| (2014) ODD Reference Sheet.pdf                                         | Reference sheet                                                                   |
+| (2016) Gygax ODD Additions.pdf                                         | An interesting compediu                                                           |
+| (2020) The elusive shift - preview - Jon Peterson.pdf                  |                                                                                   |
+| (2023) Univers ODD.pdf                                                 |                                                                                   |
+
