@@ -9,7 +9,7 @@ if "%1" == "" (
 
 git add *
 git commit -a -m "%*"
-git push origin main
+git push origin master
 
 :end
 echo Done
