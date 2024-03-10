@@ -1,0 +1,2004 @@
+Informations juridiques/1,Black,notBold,notItalic,open,FitWidth,87
+Manuel des joueurs/2,Black,notBold,notItalic,open,FitWidth,192
+	Races/2,Black,notBold,notItalic,closed,FitWidth,192
+		Traits raciaux/2,Black,notBold,notItalic,closed,FitWidth,230
+			Âge/2,Black,notBold,notItalic,open,FitWidth,323
+			Alignement/2,Black,notBold,notItalic,open,FitWidth,533
+			Augmentation de caractéristique/2,Black,notBold,notItalic,open,FitWidth,668
+			Catégorie de taille/2,Black,notBold,notItalic,open,FitWidth,726
+			Vitesse/2,Black,notBold,notItalic,open,FitWidth,220
+			Langues/2,Black,notBold,notItalic,open,FitWidth,294
+			Variantes raciales/2,Black,notBold,notItalic,open,FitWidth,354
+		Elfe/2,Black,notBold,notItalic,closed,FitWidth,491
+			Traits des elfes/2,Black,notBold,notItalic,closed,FitWidth,523
+				Haut-elfe/3,Black,notBold,notItalic,open,FitWidth,514
+		Halfelin/3,Black,notBold,notItalic,closed,FitWidth,83
+			Traits des halfelins/3,Black,notBold,notItalic,closed,FitWidth,119
+				Pied-léger/3,Black,notBold,notItalic,open,FitWidth,645
+		Humain/4,Black,notBold,notItalic,closed,FitWidth,117
+			Traits des humains/4,Black,notBold,notItalic,open,FitWidth,148
+		Nain/4,Black,notBold,notItalic,closed,FitWidth,547
+			Traits des nains/4,Black,notBold,notItalic,closed,FitWidth,578
+				Nain des collines/4,Black,notBold,notItalic,open,FitWidth,527
+		Demi-elfe/4,Black,notBold,notItalic,closed,FitWidth,682
+			Traits des demi-elfes/4,Black,notBold,notItalic,open,FitWidth,710
+		Demi-orc/5,Black,notBold,notItalic,closed,FitWidth,508
+			Traits des demi-orcs/5,Black,notBold,notItalic,open,FitWidth,534
+		Drakéide/6,Black,notBold,notItalic,closed,FitWidth,473
+			Traits des drakéides/6,Black,notBold,notItalic,closed,FitWidth,505
+				Table - Ascendance draconique/6,Black,notBold,notItalic,open,FitWidth,90
+		Gnome/7,Black,notBold,notItalic,closed,FitWidth,90
+			Traits des gnomes/7,Black,notBold,notItalic,closed,FitWidth,117
+				Gnome des roches/7,Black,notBold,notItalic,open,FitWidth,676
+		Tieffelin/7,Black,notBold,notItalic,closed,FitWidth,554
+			Traits des tieffelins/7,Black,notBold,notItalic,open,FitWidth,586
+	Classes/9,Black,notBold,notItalic,open,FitWidth,83
+		Barbare (Barbarian)/9,Black,notBold,notItalic,closed,FitWidth,83
+			Aptitudes de classe/9,Black,notBold,notItalic,closed,FitWidth,141
+				Points de vie/9,Black,notBold,notItalic,open,FitWidth,215
+				Maîtrises/9,Black,notBold,notItalic,open,FitWidth,331
+				Équipement/9,Black,notBold,notItalic,open,FitWidth,477
+				Table - Le barbare/9,Black,notBold,notItalic,open,FitWidth,633
+				Rage/9,Black,notBold,notItalic,open,FitWidth,501
+				Défense sans armure/10,Black,notBold,notItalic,open,FitWidth,197
+				Témérité/10,Black,notBold,notItalic,open,FitWidth,309
+				Sens du danger/10,Black,notBold,notItalic,open,FitWidth,480
+				Voie primitive/10,Black,notBold,notItalic,open,FitWidth,646
+				Amélioration de caractéristique/10,Black,notBold,notItalic,open,FitWidth,773
+				Attaque supplémentaire/10,Black,notBold,notItalic,open,FitWidth,130
+				Déplacement rapide/10,Black,notBold,notItalic,open,FitWidth,207
+				Instinct sauvage/10,Black,notBold,notItalic,open,FitWidth,274
+				Critique brutal/10,Black,notBold,notItalic,open,FitWidth,395
+				Rage implacable/10,Black,notBold,notItalic,open,FitWidth,534
+				Rage persistante/10,Black,notBold,notItalic,open,FitWidth,718
+				Puissance indomptable/10,Black,notBold,notItalic,open,FitWidth,803
+				Champion primitif/11,Black,notBold,notItalic,open,FitWidth,87
+			Voie du berserker/11,Black,notBold,notItalic,closed,FitWidth,184
+				Frénésie/11,Black,notBold,notItalic,open,FitWidth,324
+				Rage aveugle/11,Black,notBold,notItalic,open,FitWidth,476
+				Présence intimidante/11,Black,notBold,notItalic,open,FitWidth,566
+				Représailles/11,Black,notBold,notItalic,open,FitWidth,86
+		Barde (Bard)/12,Black,notBold,notItalic,closed,FitWidth,90
+			Aptitudes de classe/12,Black,notBold,notItalic,closed,FitWidth,146
+				Points de vie/12,Black,notBold,notItalic,open,FitWidth,212
+				Maîtrises/12,Black,notBold,notItalic,open,FitWidth,90
+				Équipement/12,Black,notBold,notItalic,open,FitWidth,212
+				Table - Le barde/12,Black,notBold,notItalic,open,FitWidth,359
+				Sorts/13,Black,notBold,notItalic,closed,FitWidth,88
+					Sorts mineurs/13,Black,notBold,notItalic,open,FitWidth,189
+					Emplacements de sort/13,Black,notBold,notItalic,open,FitWidth,292
+					Sorts connus du 1er niveau et plus/13,Black,notBold,notItalic,open,FitWidth,500
+					Caractéristique d’incantation/13,Black,notBold,notItalic,open,FitWidth,764
+					Incantation rituelle/13,Black,notBold,notItalic,open,FitWidth,304
+					Focaliseur d’incantation/13,Black,notBold,notItalic,open,FitWidth,380
+				Inspiration bardique/13,Black,notBold,notItalic,open,FitWidth,452
+				Touche-à-tout/14,Black,notBold,notItalic,open,FitWidth,87
+				Chant reposant/14,Black,notBold,notItalic,open,FitWidth,186
+				Collège bardique/14,Black,notBold,notItalic,open,FitWidth,399
+				Expertise/14,Black,notBold,notItalic,open,FitWidth,491
+				Amélioration de caractéristique/14,Black,notBold,notItalic,open,FitWidth,615
+				Source d’inspiration/14,Black,notBold,notItalic,open,FitWidth,761
+				Contre-charme/14,Black,notBold,notItalic,open,FitWidth,86
+				Secrets magiques/14,Black,notBold,notItalic,open,FitWidth,319
+				Inspiration supérieure/14,Black,notBold,notItalic,open,FitWidth,549
+			Collège du Savoir/14,Black,notBold,notItalic,closed,FitWidth,630
+				Maîtrises supplémentaires/15,Black,notBold,notItalic,open,FitWidth,321
+				Mots cinglants/15,Black,notBold,notItalic,open,FitWidth,399
+				Secrets magiques supplémentaires/15,Black,notBold,notItalic,open,FitWidth,663
+				Compétence hors pair/15,Black,notBold,notItalic,open,FitWidth,91
+		Clerc (Cleric)/16,Black,notBold,notItalic,closed,FitWidth,87
+			Aptitudes de classe/16,Black,notBold,notItalic,closed,FitWidth,144
+				Points de vie/16,Black,notBold,notItalic,open,FitWidth,215
+				Maîtrises/16,Black,notBold,notItalic,open,FitWidth,330
+				Équipement/16,Black,notBold,notItalic,open,FitWidth,174
+				Table - Le clerc/16,Black,notBold,notItalic,open,FitWidth,399
+				Sorts/17,Black,notBold,notItalic,closed,FitWidth,85
+					Sorts mineurs/17,Black,notBold,notItalic,open,FitWidth,159
+					Préparation et incantation des sorts/17,Black,notBold,notItalic,open,FitWidth,264
+					Caractéristique d’incantation/17,Black,notBold,notItalic,open,FitWidth,720
+					Incantation rituelle/17,Black,notBold,notItalic,open,FitWidth,206
+					Focaliseur d’incantation/17,Black,notBold,notItalic,open,FitWidth,280
+				Domaine divin/17,Black,notBold,notItalic,closed,FitWidth,351
+					Sorts de domaine/17,Black,notBold,notItalic,open,FitWidth,509
+				Conduit divin/17,Black,notBold,notItalic,closed,FitWidth,679
+					Conduit divin : Renvoi des morts-vivants/18,Black,notBold,notItalic,open,FitWidth,289
+				Amélioration de caractéristique/18,Black,notBold,notItalic,open,FitWidth,554
+				Destruction des morts-vivants/18,Black,notBold,notItalic,closed,FitWidth,697
+					Table - Destruction des morts-vivants/18,Black,notBold,notItalic,open,FitWidth,87
+				Intervention divine/18,Black,notBold,notItalic,open,FitWidth,226
+			Domaine de la Vie/18,Black,notBold,notItalic,closed,FitWidth,516
+				Table - Sorts du domaine de la Vie/18,Black,notBold,notItalic,open,FitWidth,759
+				Maîtrise supplémentaire/19,Black,notBold,notItalic,open,FitWidth,83
+				Disciple de la Vie/19,Black,notBold,notItalic,open,FitWidth,146
+				Conduit divin : Survivance/19,Black,notBold,notItalic,open,FitWidth,264
+				Guérisseur béni/19,Black,notBold,notItalic,open,FitWidth,491
+				Impact divin/19,Black,notBold,notItalic,open,FitWidth,609
+				Guérison suprême/19,Black,notBold,notItalic,open,FitWidth,741
+		Druide (Duid)/20,Black,notBold,notItalic,closed,FitWidth,83
+			Aptitudes de classe/20,Black,notBold,notItalic,closed,FitWidth,143
+				Points de vie/20,Black,notBold,notItalic,open,FitWidth,212
+				Maîtrises/20,Black,notBold,notItalic,open,FitWidth,332
+				Équipement/20,Black,notBold,notItalic,open,FitWidth,218
+				Table - Le druide/20,Black,notBold,notItalic,open,FitWidth,414
+				Druidique/21,Black,notBold,notItalic,open,FitWidth,82
+				Sorts/21,Black,notBold,notItalic,open,FitWidth,242
+					Sorts mineurs/21,Black,notBold,notItalic,open,FitWidth,330
+					Préparation et incantation des sorts/21,Black,notBold,notItalic,open,FitWidth,428
+					Caractéristique d’incantation/21,Black,notBold,notItalic,open,FitWidth,86
+					Incantation rituelle/21,Black,notBold,notItalic,open,FitWidth,370
+					Focaliseur d’incantation/21,Black,notBold,notItalic,open,FitWidth,447
+				Forme sauvage/21,Black,notBold,notItalic,open,FitWidth,518
+					Table - Formes sauvages/21,Black,notBold,notItalic,open,FitWidth,727
+				Cercle druidique/22,Black,notBold,notItalic,open,FitWidth,407
+				Amélioration de caractéristique/22,Black,notBold,notItalic,open,FitWidth,499
+				Jeunesse éternelle/22,Black,notBold,notItalic,open,FitWidth,641
+				Incantation animale/22,Black,notBold,notItalic,open,FitWidth,722
+				Archidruide/23,Black,notBold,notItalic,open,FitWidth,87
+			Cercle de la Terre/23,Black,notBold,notItalic,closed,FitWidth,241
+				Sort mineur supplémentaire/23,Black,notBold,notItalic,open,FitWidth,458
+				Ressourcement/23,Black,notBold,notItalic,open,FitWidth,534
+				Sorts de cercle/23,Black,notBold,notItalic,closed,FitWidth,91
+					Table - Arctique/23,Black,notBold,notItalic,open,FitWidth,323
+					Table - Désert/23,Black,notBold,notItalic,open,FitWidth,472
+					Table - Forêt/23,Black,notBold,notItalic,open,FitWidth,595
+					Table - Littoral/23,Black,notBold,notItalic,open,FitWidth,722
+					Table - Marais/24,Black,notBold,notItalic,open,FitWidth,80
+					Table - Montagne/24,Black,notBold,notItalic,open,FitWidth,207
+					Table - Plaine/24,Black,notBold,notItalic,open,FitWidth,314
+				Foulée tellurique/24,Black,notBold,notItalic,open,FitWidth,434
+				Protégé de dame Nature/24,Black,notBold,notItalic,open,FitWidth,616
+				Sanctuaire de dame Nature/24,Black,notBold,notItalic,open,FitWidth,90
+				Plantes et arbres sacrés/24,Black,notBold,notItalic,open,FitWidth,282
+				Les druides et les dieux/24,Black,notBold,notItalic,open,FitWidth,586
+		Ensorceleur (Sorcerer)/25,Black,notBold,notItalic,closed,FitWidth,85
+			Aptitudes de classe/25,Black,notBold,notItalic,closed,FitWidth,143
+				Points de vie/25,Black,notBold,notItalic,open,FitWidth,210
+				Maîtrises/25,Black,notBold,notItalic,open,FitWidth,87
+				Équipement/25,Black,notBold,notItalic,open,FitWidth,207
+				Table - L’ensorceleur/25,Black,notBold,notItalic,open,FitWidth,396
+				Sorts/26,Black,notBold,notItalic,closed,FitWidth,201
+					Sorts mineurs/26,Black,notBold,notItalic,open,FitWidth,202
+					Emplacements de sort/26,Black,notBold,notItalic,open,FitWidth,304
+					Sorts connus du 1er niveau et plus/26,Black,notBold,notItalic,open,FitWidth,510
+					Caractéristique d’incantation/26,Black,notBold,notItalic,open,FitWidth,93
+					Focaliseur d’incantation/26,Black,notBold,notItalic,open,FitWidth,388
+				Origine magique/26,Black,notBold,notItalic,open,FitWidth,458
+				Réserve arcanique/26,Black,notBold,notItalic,closed,FitWidth,572
+					Points de sorcellerie/26,Black,notBold,notItalic,open,FitWidth,683
+					Magie modulable/27,Black,notBold,notItalic,open,FitWidth,90
+						Table - Création d’emplacements de sort/27,Black,notBold,notItalic,open,FitWidth,340
+				Métamagie/27,Black,notBold,notItalic,closed,FitWidth,559
+					Sort accéléré/27,Black,notBold,notItalic,open,FitWidth,705
+					Sort ample/27,Black,notBold,notItalic,open,FitWidth,91
+					Sort étendu/27,Black,notBold,notItalic,open,FitWidth,196
+					Sort intensifié/27,Black,notBold,notItalic,open,FitWidth,284
+					Sort jumeau/27,Black,notBold,notItalic,open,FitWidth,404
+					Sort prévenant/27,Black,notBold,notItalic,open,FitWidth,580
+					Sort renforcé/27,Black,notBold,notItalic,open,FitWidth,741
+					Sort subtil/28,Black,notBold,notItalic,open,FitWidth,83
+				Amélioration de caractéristique/28,Black,notBold,notItalic,open,FitWidth,159
+				Restauration ensorcelée/28,Black,notBold,notItalic,open,FitWidth,302
+			Origines magiques/28,Black,notBold,notItalic,closed,FitWidth,374
+				Lignée draconique/28,Black,notBold,notItalic,open,FitWidth,437
+					Ancêtre draconique/28,Black,notBold,notItalic,open,FitWidth,639
+						Table - Ascendance draconique/28,Black,notBold,notItalic,open,FitWidth,87
+					Résistance draconique/28,Black,notBold,notItalic,open,FitWidth,366
+					Affinité élémentaire/28,Black,notBold,notItalic,open,FitWidth,542
+					Ailes draconiques/28,Black,notBold,notItalic,open,FitWidth,674
+					Présence draconique/29,Black,notBold,notItalic,open,FitWidth,86
+		Guerrier (Fighter)/30,Black,notBold,notItalic,closed,FitWidth,86
+			Aptitudes de classe/30,Black,notBold,notItalic,closed,FitWidth,140
+				Points de vie/30,Black,notBold,notItalic,open,FitWidth,212
+				Maîtrises/30,Black,notBold,notItalic,open,FitWidth,328
+				Équipement/30,Black,notBold,notItalic,open,FitWidth,463
+				Table - Le guerrier/30,Black,notBold,notItalic,open,FitWidth,664
+				Style de combat/30,Black,notBold,notItalic,closed,FitWidth,275
+					Archerie/30,Black,notBold,notItalic,open,FitWidth,385
+					Armes à deux mains/30,Black,notBold,notItalic,open,FitWidth,451
+					Combat à deux armes/30,Black,notBold,notItalic,open,FitWidth,580
+					Défense/30,Black,notBold,notItalic,open,FitWidth,657
+					Duel/30,Black,notBold,notItalic,open,FitWidth,718
+					Protection/30,Black,notBold,notItalic,open,FitWidth,794
+				Second souffle/31,Black,notBold,notItalic,open,FitWidth,128
+				Fougue/31,Black,notBold,notItalic,open,FitWidth,269
+				Archétype martial/31,Black,notBold,notItalic,open,FitWidth,449
+				Amélioration de caractéristique/31,Black,notBold,notItalic,open,FitWidth,561
+				Attaque supplémentaire/31,Black,notBold,notItalic,open,FitWidth,697
+				Inflexible/31,Black,notBold,notItalic,open,FitWidth,88
+			Archétypes martiaux/31,Black,notBold,notItalic,closed,FitWidth,250
+				Champion/31,Black,notBold,notItalic,closed,FitWidth,330
+					Critique amélioré/31,Black,notBold,notItalic,open,FitWidth,458
+					Athlète accompli/31,Black,notBold,notItalic,open,FitWidth,534
+					Style de combat supplémentaire/31,Black,notBold,notItalic,open,FitWidth,681
+					Critique supérieur/31,Black,notBold,notItalic,open,FitWidth,741
+					Survivant/31,Black,notBold,notItalic,open,FitWidth,803
+		Magicien (Wizard)/32,Black,notBold,notItalic,closed,FitWidth,141
+			Aptitudes de classe/32,Black,notBold,notItalic,closed,FitWidth,198
+				Points de vie/32,Black,notBold,notItalic,open,FitWidth,264
+				Maîtrises/32,Black,notBold,notItalic,open,FitWidth,90
+				Équipement/32,Black,notBold,notItalic,open,FitWidth,244
+				Table - Le magicien/32,Black,notBold,notItalic,open,FitWidth,413
+				Sorts/33,Black,notBold,notItalic,closed,FitWidth,85
+					Sorts mineurs/33,Black,notBold,notItalic,open,FitWidth,172
+					Grimoire/33,Black,notBold,notItalic,open,FitWidth,275
+					Préparation et incantation des sorts/33,Black,notBold,notItalic,open,FitWidth,381
+					Caractéristique d’incantation/33,Black,notBold,notItalic,open,FitWidth,80
+					Incantation rituelle/33,Black,notBold,notItalic,open,FitWidth,355
+					Focaliseur d’incantation/33,Black,notBold,notItalic,open,FitWidth,443
+					Apprentissage des sorts du 1er niveau et supérieur/33,Black,notBold,notItalic,open,FitWidth,520
+				Restauration magique/33,Black,notBold,notItalic,open,FitWidth,683
+				Tradition arcanique/34,Black,notBold,notItalic,open,FitWidth,170
+				Amélioration de caractéristique/34,Black,notBold,notItalic,open,FitWidth,297
+				Maîtrise des sorts/34,Black,notBold,notItalic,open,FitWidth,436
+				Sorts de prédilection/34,Black,notBold,notItalic,open,FitWidth,649
+			Traditions arcaniques/34,Black,notBold,notItalic,closed,FitWidth,88
+				École de l’Évocation/34,Black,notBold,notItalic,closed,FitWidth,407
+					Évocateur érudit/34,Black,notBold,notItalic,open,FitWidth,590
+					Façonneur de sorts/34,Black,notBold,notItalic,open,FitWidth,682
+					Sort mineur appuyé/35,Black,notBold,notItalic,open,FitWidth,87
+					Évocation améliorée/35,Black,notBold,notItalic,open,FitWidth,222
+					Surcharge magique/35,Black,notBold,notItalic,open,FitWidth,295
+					Votre grimoire/35,Black,notBold,notItalic,open,FitWidth,544
+		Moine (Monk)/36,Black,notBold,notItalic,open,FitWidth,87
+			Aptitudes de classe/36,Black,notBold,notItalic,open,FitWidth,146
+				Points de vie/36,Black,notBold,notItalic,open,FitWidth,211,89,0.0
+				Maîtrises/36,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Équipement/36,Black,notBold,notItalic,open,FitWidth,239,532,0.0
+				Table - Le moine/36,Black,notBold,notItalic,open,FitWidth,390,0,1.0
+				Défense sans armure/36,Black,notBold,notItalic,open,FitWidth,746,89,0.0
+				Arts martiaux/36,Black,notBold,notItalic,open,FitWidth,746,532,0.0
+				Le ki/37,Black,notBold,notItalic,closed,FitWidth,556,89,0.0
+					Défense patiente/37,Black,notBold,notItalic,open,FitWidth,217,532,0.0
+					Déluge de coups/37,Black,notBold,notItalic,open,FitWidth,277,532,0.0
+					Porté par le vent/37,Black,notBold,notItalic,open,FitWidth,366,532,0.0
+				Déplacement sans armure/37,Black,notBold,notItalic,open,FitWidth,455,532,0.0
+				Tradition monastique/37,Black,notBold,notItalic,open,FitWidth,610,532,0.0
+				Parade de projectiles/37,Black,notBold,notItalic,open,FitWidth,705,532,0.0
+				Amélioration de caractéristique/38,Black,notBold,notItalic,open,FitWidth,277,89,0.0
+				Chute ralentie/38,Black,notBold,notItalic,open,FitWidth,415,89,0.0
+				Attaque supplémentaire/38,Black,notBold,notItalic,open,FitWidth,511,89,0.0
+				Frappe étourdissante/38,Black,notBold,notItalic,open,FitWidth,592,89,0.0
+				Frappes de ki/38,Black,notBold,notItalic,open,FitWidth,731,89,0.0
+				Esquive totale/38,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Sérénité/38,Black,notBold,notItalic,open,FitWidth,245,532,0.0
+				Pureté physique/38,Black,notBold,notItalic,open,FitWidth,326,532,0.0
+				Langage du soleil et de la lune/38,Black,notBold,notItalic,open,FitWidth,407,532,0.0
+				Âme de diamant/38,Black,notBold,notItalic,open,FitWidth,501,532,0.0
+				Jeunesse éternelle/38,Black,notBold,notItalic,open,FitWidth,612,532,0.0
+				Désertion de l’âme/38,Black,notBold,notItalic,open,FitWidth,722,532,0.0
+				Perfection de l’être/39,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Traditions monastiques/39,Black,notBold,notItalic,open,FitWidth,157,89,0.0
+				Voie de la Paume/39,Black,notBold,notItalic,closed,FitWidth,347,89,0.0
+					Technique de la Paume/39,Black,notBold,notItalic,open,FitWidth,472,89,0.0
+					Plénitude physique/39,Black,notBold,notItalic,open,FitWidth,701,89,0.0
+					Ataraxie/39,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+					Paume vibratoire/39,Black,notBold,notItalic,open,FitWidth,239,532,0.0
+		Occultiste (Warlock)/40,Black,notBold,notItalic,closed,FitWidth,81,0,1.0
+			Aptitudes de classe/40,Black,notBold,notItalic,closed,FitWidth,131,89,0.0
+				Points de vie/40,Black,notBold,notItalic,open,FitWidth,211,89,0.0
+				Maîtrises/40,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Équipement/40,Black,notBold,notItalic,open,FitWidth,225,532,0.0
+				Table - L’occultiste/40,Black,notBold,notItalic,open,FitWidth,427,0,1.0
+				Protecteur d’outre-monde/41,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Magie de pacte/41,Black,notBold,notItalic,closed,FitWidth,216,89,0.0
+					Sorts mineurs/41,Black,notBold,notItalic,open,FitWidth,297,89,0.0
+					Emplacements de sort/41,Black,notBold,notItalic,open,FitWidth,400,89,0.0
+					Sorts connus du 1er niveau et plus/41,Black,notBold,notItalic,open,FitWidth,638,89,0.0
+					Caractéristique d’incantation/41,Black,notBold,notItalic,open,FitWidth,187,532,0.0
+					Focaliseur d’incantation/41,Black,notBold,notItalic,open,FitWidth,456,532,0.0
+				Manifestations occultes/41,Black,notBold,notItalic,open,FitWidth,515,532,0.0
+				Pacte/42,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+					Pacte de la chaîne/42,Black,notBold,notItalic,open,FitWidth,172,89,0.0
+					Pacte de la lame/42,Black,notBold,notItalic,open,FitWidth,364,89,0.0
+					Pacte du grimoire/42,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Amélioration de caractéristique/42,Black,notBold,notItalic,open,FitWidth,357,532,0.0
+				Arcanum mystique/42,Black,notBold,notItalic,open,FitWidth,497,532,0.0
+				Maître de l’occulte/42,Black,notBold,notItalic,open,FitWidth,726,532,0.0
+			Manifestations occultes/43,Black,notBold,notItalic,closed,FitWidth,128,89,0.0
+				Armure d’ombres/43,Black,notBold,notItalic,open,FitWidth,245,89,0.0
+				Avachissement/43,Black,notBold,notItalic,open,FitWidth,319,89,0.0
+				Buveuse de vie/43,Black,notBold,notItalic,open,FitWidth,415,89,0.0
+				Chaînes des Carcères/43,Black,notBold,notItalic,open,FitWidth,528,89,0.0
+				Décharge déchirante/43,Black,notBold,notItalic,open,FitWidth,668,89,0.0
+				Décharge répulsive/43,Black,notBold,notItalic,open,FitWidth,765,89,0.0
+				Lame assoiffée/43,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Lance occulte/43,Black,notBold,notItalic,open,FitWidth,184,532,0.0
+				Langage animal/43,Black,notBold,notItalic,open,FitWidth,265,532,0.0
+				Livre des secrets anciens/43,Black,notBold,notItalic,open,FitWidth,324,532,0.0
+				Maître des formes/43,Black,notBold,notItalic,open,FitWidth,717,532,0.0
+				Maître des ombres/44,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Mille visages/44,Black,notBold,notItalic,open,FitWidth,217,89,0.0
+				Mot d’effroi/44,Black,notBold,notItalic,open,FitWidth,277,89,0.0
+				Murmures de la tombe/44,Black,notBold,notItalic,open,FitWidth,388,89,0.0
+				Murmures impérieux/44,Black,notBold,notItalic,open,FitWidth,470,89,0.0
+				Œil du gardien des runes/44,Black,notBold,notItalic,open,FitWidth,581,89,0.0
+				Pas aérien/44,Black,notBold,notItalic,open,FitWidth,626,89,0.0
+				Perception transférée/44,Black,notBold,notItalic,open,FitWidth,722,89,0.0
+				Présence captivante/44,Black,notBold,notItalic,open,FitWidth,187,532,0.0
+				Royaumes lointains/44,Black,notBold,notItalic,open,FitWidth,246,532,0.0
+				Saut d’outre-monde/44,Black,notBold,notItalic,open,FitWidth,328,532,0.0
+				Sbires du chaos/44,Black,notBold,notItalic,open,FitWidth,410,532,0.0
+				Sculpteur de chair/44,Black,notBold,notItalic,open,FitWidth,521,532,0.0
+				Sombre présage/44,Black,notBold,notItalic,open,FitWidth,634,532,0.0
+				Vigueur fiélonne/44,Black,notBold,notItalic,open,FitWidth,745,532,0.0
+				Vision du diable/44,Black,notBold,notItalic,open,FitWidth,819,532,0.0
+				Vision occulte/45,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Vision sorcière/45,Black,notBold,notItalic,open,FitWidth,146,89,0.0
+				Visions embrumées/45,Black,notBold,notItalic,open,FitWidth,258,89,0.0
+				Voix du maître des chaînes/45,Black,notBold,notItalic,open,FitWidth,332,89,0.0
+				Voleur des cinq destinées/45,Black,notBold,notItalic,open,FitWidth,489,89,0.0
+			Protecteurs d’outre-monde/45,Black,notBold,notItalic,closed,FitWidth,577,89,0.0
+				Le Fiélon/45,Black,notBold,notItalic,closed,FitWidth,91,532,0.0
+					Liste de sorts étendue/45,Black,notBold,notItalic,closed,FitWidth,304,532,0.0
+						Table - Sorts étendus du Fiélon/45,Black,notBold,notItalic,open,FitWidth,393,0,1.0
+					Bénédiction du ténébreux/45,Black,notBold,notItalic,open,FitWidth,501,532,0.0
+					Chance du ténébreux/45,Black,notBold,notItalic,open,FitWidth,598,532,0.0
+					Résistance fiélonne/45,Black,notBold,notItalic,open,FitWidth,777,532,0.0
+					Traversée des enfers/46,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+					Votre pacte/46,Black,notBold,notItalic,open,FitWidth,313,532,0.0
+		Paladin (Paladin)/47,Black,notBold,notItalic,closed,FitWidth,82,0,1.0
+			Aptitudes de classe/47,Black,notBold,notItalic,closed,FitWidth,131,89,0.0
+				Points de vie/47,Black,notBold,notItalic,open,FitWidth,211,89,0.0
+				Maîtrises/47,Black,notBold,notItalic,open,FitWidth,330,89,0.0
+				Équipement/47,Black,notBold,notItalic,open,FitWidth,187,532,0.0
+				Table - Le paladin/47,Black,notBold,notItalic,open,FitWidth,374,0,1.0
+				Perception divine/47,Black,notBold,notItalic,open,FitWidth,741,89,0.0
+				Imposition des mains/48,Black,notBold,notItalic,open,FitWidth,143,89,0.0
+				Style de combat/48,Black,notBold,notItalic,closed,FitWidth,415,89,0.0
+					Armes à deux mains/48,Black,notBold,notItalic,open,FitWidth,527,89,0.0
+					Défense/48,Black,notBold,notItalic,open,FitWidth,659,89,0.0
+					Duel/48,Black,notBold,notItalic,open,FitWidth,718,89,0.0
+					Protection/48,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Sorts/48,Black,notBold,notItalic,closed,FitWidth,194,532,0.0
+					Préparation et incantation des sorts/48,Black,notBold,notItalic,open,FitWidth,275,532,0.0
+					Caractéristique d’incantation/48,Black,notBold,notItalic,open,FitWidth,734,532,0.0
+					Focaliseur d’incantation/49,Black,notBold,notItalic,open,FitWidth,247,89,0.0
+				Châtiment divin/49,Black,notBold,notItalic,open,FitWidth,307,89,0.0
+				Santé divine/49,Black,notBold,notItalic,open,FitWidth,491,89,0.0
+				Serment sacré/49,Black,notBold,notItalic,closed,FitWidth,557,89,0.0
+					Sorts de serment/49,Black,notBold,notItalic,open,FitWidth,726,89,0.0
+					Conduit divin/49,Black,notBold,notItalic,open,FitWidth,158,532,0.0
+				Amélioration de caractéristique/49,Black,notBold,notItalic,open,FitWidth,365,532,0.0
+				Attaque supplémentaire/49,Black,notBold,notItalic,open,FitWidth,505,532,0.0
+				Aura de protection/49,Black,notBold,notItalic,open,FitWidth,586,532,0.0
+				Aura de courage/49,Black,notBold,notItalic,open,FitWidth,725,532,0.0
+				Châtiment divin amélioré/50,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Contact purificateur/50,Black,notBold,notItalic,open,FitWidth,260,89,0.0
+			Serments sacrés/50,Black,notBold,notItalic,closed,FitWidth,400,89,0.0
+				Serment de Dévotion/50,Black,notBold,notItalic,closed,FitWidth,606,89,0.0
+					Préceptes de dévotion/50,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+					Sorts de serment/50,Black,notBold,notItalic,closed,FitWidth,398,532,0.0
+						Table - Sorts du Serment de Dévotion/50,Black,notBold,notItalic,open,FitWidth,453,0,1.0
+					Conduit divin/50,Black,notBold,notItalic,open,FitWidth,580,532,0.0
+					Aura de dévotion/51,Black,notBold,notItalic,open,FitWidth,365,89,0.0
+					Pureté de l’esprit/51,Black,notBold,notItalic,open,FitWidth,468,89,0.0
+					Nimbe sacré/51,Black,notBold,notItalic,open,FitWidth,528,89,0.0
+					Rompre votre serment/51,Black,notBold,notItalic,open,FitWidth,750,89,0.0
+		Rôdeur (Ranger)/52,Black,notBold,notItalic,closed,FitWidth,86,0,1.0
+			Aptitudes de classe/52,Black,notBold,notItalic,closed,FitWidth,131,89,0.0
+				Points de vie/52,Black,notBold,notItalic,open,FitWidth,211,89,0.0
+				Maîtrises/52,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Équipement/52,Black,notBold,notItalic,open,FitWidth,239,532,0.0
+				Table - Le rôdeur/52,Black,notBold,notItalic,open,FitWidth,407,0,1.0
+				Ennemi juré/52,Black,notBold,notItalic,open,FitWidth,760,89,0.0
+				Explorateur-né/53,Black,notBold,notItalic,open,FitWidth,202,89,0.0
+				Style de combat/53,Black,notBold,notItalic,closed,FitWidth,683,89,0.0
+					Archerie/53,Black,notBold,notItalic,open,FitWidth,793,89,0.0
+					Combat à deux armes/53,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+					Défense/53,Black,notBold,notItalic,open,FitWidth,162,532,0.0
+					Duel/53,Black,notBold,notItalic,open,FitWidth,221,532,0.0
+				Sorts/53,Black,notBold,notItalic,closed,FitWidth,295,532,0.0
+					Emplacements de sort/53,Black,notBold,notItalic,open,FitWidth,375,532,0.0
+					Sorts connus du 1er niveau et plus/53,Black,notBold,notItalic,open,FitWidth,583,532,0.0
+					Caractéristique d’incantation/54,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Archétype de rôdeur/54,Black,notBold,notItalic,open,FitWidth,374,89,0.0
+				Vigilance primitive/54,Black,notBold,notItalic,open,FitWidth,468,89,0.0
+				Amélioration de caractéristique/54,Black,notBold,notItalic,open,FitWidth,668,89,0.0
+				Attaque supplémentaire/54,Black,notBold,notItalic,open,FitWidth,808,89,0.0
+				Foulée tellurique/54,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Camouflage naturel/54,Black,notBold,notItalic,open,FitWidth,275,532,0.0
+				Disparition/54,Black,notBold,notItalic,open,FitWidth,533,532,0.0
+				Sens sauvages/54,Black,notBold,notItalic,open,FitWidth,629,532,0.0
+				Tueur implacable/55,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Archétypes de rôdeur/55,Black,notBold,notItalic,closed,FitWidth,245,89,0.0
+				Chasseur/55,Black,notBold,notItalic,closed,FitWidth,318,89,0.0
+					Proie du chasseur/55,Black,notBold,notItalic,open,FitWidth,472,89,0.0
+					Tactiques défensives/55,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+					Attaques multiples/55,Black,notBold,notItalic,open,FitWidth,284,532,0.0
+					Défense de chasseur supérieure/55,Black,notBold,notItalic,open,FitWidth,520,532,0.0
+		Roublard (Rogue)/56,Black,notBold,notItalic,closed,FitWidth,80,0,1.0
+			Aptitudes de classe/56,Black,notBold,notItalic,closed,FitWidth,131,89,0.0
+				Points de vie/56,Black,notBold,notItalic,open,FitWidth,211,89,0.0
+				Maîtrises/56,Black,notBold,notItalic,open,FitWidth,330,89,0.0
+				Équipement/56,Black,notBold,notItalic,open,FitWidth,492,89,0.0
+				Table - Le roublard/56,Black,notBold,notItalic,open,FitWidth,83,0,1.0
+				Expertise/56,Black,notBold,notItalic,open,FitWidth,596,532,0.0
+				Attaque sournoise/57,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Argot des voleurs/57,Black,notBold,notItalic,open,FitWidth,348,89,0.0
+				Ruse/57,Black,notBold,notItalic,open,FitWidth,607,89,0.0
+				Archétype de roublard/57,Black,notBold,notItalic,open,FitWidth,717,89,0.0
+				Amélioration de caractéristique/57,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Esquive instinctive/57,Black,notBold,notItalic,open,FitWidth,231,532,0.0
+				Esquive totale/57,Black,notBold,notItalic,open,FitWidth,326,532,0.0
+				Savoir-faire/57,Black,notBold,notItalic,open,FitWidth,481,532,0.0
+				Perception aveugle/57,Black,notBold,notItalic,open,FitWidth,605,532,0.0
+				Esprit fuyant/57,Black,notBold,notItalic,open,FitWidth,686,532,0.0
+				Insaisissable/57,Black,notBold,notItalic,open,FitWidth,766,532,0.0
+				Coup de chance/58,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Archétypes de roublard/58,Black,notBold,notItalic,closed,FitWidth,260,89,0.0
+				Voleur/58,Black,notBold,notItalic,closed,FitWidth,451,89,0.0
+					Mains lestes/58,Black,notBold,notItalic,open,FitWidth,650,89,0.0
+					Monte-en-l’air/58,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+					Furtivité suprême/58,Black,notBold,notItalic,open,FitWidth,225,532,0.0
+					Utilisation d’objets magiques/58,Black,notBold,notItalic,open,FitWidth,313,532,0.0
+					Réflexes de voleur/58,Black,notBold,notItalic,open,FitWidth,432,532,0.0
+	Au-delà du niveau 1/59,Black,notBold,notItalic,closed,FitWidth,85,0,1.0
+		Table - Progression des personnages/59,Black,notBold,notItalic,open,FitWidth,725,0,1.0
+		Multiclassage (Multiclassing)/59,Black,notBold,notItalic,closed,FitWidth,271,532,0.0
+			Prérequis/59,Black,notBold,notItalic,closed,FitWidth,662,532,0.0
+				Table - Prérequis de multiclassage/60,Black,notBold,notItalic,open,FitWidth,82,0,1.0
+			Points d’expérience/60,Black,notBold,notItalic,open,FitWidth,318,89,0.0
+			Points de vie et dés de vie/60,Black,notBold,notItalic,open,FitWidth,487,89,0.0
+			Bonus de maîtrise/60,Black,notBold,notItalic,open,FitWidth,746,89,0.0
+			Maîtrises/60,Black,notBold,notItalic,closed,FitWidth,91,532,0.0
+				Table - Maîtrises de multiclassage/60,Black,notBold,notItalic,open,FitWidth,183,0,1.0
+			Aptitudes de classe/60,Black,notBold,notItalic,closed,FitWidth,567,532,0.0
+				Attaque supplémentaire/60,Black,notBold,notItalic,open,FitWidth,706,532,0.0
+				Conduit divin/61,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Défense sans armure/61,Black,notBold,notItalic,open,FitWidth,340,89,0.0
+				Sorts/61,Black,notBold,notItalic,closed,FitWidth,413,89,0.0
+					Sorts connus et préparés/61,Black,notBold,notItalic,open,FitWidth,568,0,1.0
+					Emplacements de sort/61,Black,notBold,notItalic,open,FitWidth,90,0,1.0
+					Magie de pacte/61,Black,notBold,notItalic,open,FitWidth,533,0,1.0
+					Table - Incantateurs multiclassés : Emplacements par niveau de sort/61,Black,notBold,notItalic,open,FitWidth,688,0,1.0
+		Alignement/62,Black,notBold,notItalic,closed,FitWidth,317,89,0.0
+			Loyal bon/62,Black,notBold,notItalic,open,FitWidth,574,0,1.0
+			Neutre bon/62,Black,notBold,notItalic,open,FitWidth,633,0,1.0
+			Chaotique bon/62,Black,notBold,notItalic,open,FitWidth,691,0,1.0
+			Loyal neutre/62,Black,notBold,notItalic,open,FitWidth,751,0,1.0
+			Neutre/62,Black,notBold,notItalic,open,FitWidth,811,0,1.0
+			Chaotique neutre/62,Black,notBold,notItalic,open,FitWidth,88,0,1.0
+			Loyal mauvais/62,Black,notBold,notItalic,open,FitWidth,163,0,1.0
+			Neutre mauvais/62,Black,notBold,notItalic,open,FitWidth,239,0,1.0
+			Chaotique mauvais/62,Black,notBold,notItalic,open,FitWidth,312,0,1.0
+			L’alignement dans le multivers/62,Black,notBold,notItalic,open,FitWidth,380,532,0.0
+		Langues/63,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+			Table - Langues courantes/63,Black,notBold,notItalic,open,FitWidth,400,0,1.0
+			Table - Langues exotiques/63,Black,notBold,notItalic,open,FitWidth,571,0,1.0
+		Inspiration/63,Black,notBold,notItalic,closed,FitWidth,91,532,0.0
+			Recevoir l’inspiration/63,Black,notBold,notItalic,open,FitWidth,289,532,0.0
+			Recourir à l’inspiration/63,Black,notBold,notItalic,open,FitWidth,487,532,0.0
+		Historiques (Backgrounds)/63,Black,notBold,notItalic,closed,FitWidth,702,532,0.0
+			Maîtrises/64,Black,notBold,notItalic,open,FitWidth,306,89,0.0
+			Langues/64,Black,notBold,notItalic,open,FitWidth,484,89,0.0
+			Équipement/64,Black,notBold,notItalic,open,FitWidth,558,89,0.0
+			Suggestions de personnalité/64,Black,notBold,notItalic,open,FitWidth,646,89,0.0
+			Personnaliser un historique/64,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Acolyte/64,Black,notBold,notItalic,closed,FitWidth,372,532,0.0
+				Aptitude : Abri des croyants/65,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Suggestions de personnalité/65,Black,notBold,notItalic,open,FitWidth,417,89,0.0
+				Table - Traits de personnalité/65,Black,notBold,notItalic,open,FitWidth,559,0,1.0
+				Table - Idéal/65,Black,notBold,notItalic,open,FitWidth,90,0,1.0
+				Table - Obligation/65,Black,notBold,notItalic,open,FitWidth,330,0,1.0
+				Table - Faille/65,Black,notBold,notItalic,open,FitWidth,534,0,1.0
+	Équipement/66,Black,notBold,notItalic,closed,FitWidth,85,0,1.0
+		Table - Taux de conversion/66,Black,notBold,notItalic,open,FitWidth,727,0,1.0
+		Revente du trésor/66,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+		Armures/66,Black,notBold,notItalic,closed,FitWidth,688,532,0.0
+			Armures légères/67,Black,notBold,notItalic,open,FitWidth,572,89,0.0
+			Armures intermédiaires/67,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Armures lourdes/67,Black,notBold,notItalic,open,FitWidth,615,532,0.0
+			Table - Armures/68,Black,notBold,notItalic,open,FitWidth,284,0,1.0
+			Enfiler et ôter une armure/68,Black,notBold,notItalic,closed,FitWidth,581,89,0.0
+				Table - Enfiler et ôter une armure/68,Black,notBold,notItalic,open,FitWidth,715,0,1.0
+		Armes/68,Black,notBold,notItalic,closed,FitWidth,581,532,0.0
+			Maîtrise des armes/69,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Propriétés des armes/69,Black,notBold,notItalic,closed,FitWidth,408,89,0.0
+				Armes improvisées/70,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Armes en argent/70,Black,notBold,notItalic,open,FitWidth,447,89,0.0
+				Armes spéciales/70,Black,notBold,notItalic,open,FitWidth,173,532,0.0
+			Table - Armes/70,Black,notBold,notItalic,open,FitWidth,542,0,1.0
+		Équipement d’aventurier/72,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+			Acide/72,Black,notBold,notItalic,open,FitWidth,162,0,1.0
+			Antidote/72,Black,notBold,notItalic,open,FitWidth,279,0,1.0
+			Balance de marchand/72,Black,notBold,notItalic,open,FitWidth,340,0,1.0
+			Bélier portable/72,Black,notBold,notItalic,open,FitWidth,429,0,1.0
+			Billes/72,Black,notBold,notItalic,open,FitWidth,504,0,1.0
+			Boîte à amadou/72,Black,notBold,notItalic,open,FitWidth,621,0,1.0
+			Bougie/72,Black,notBold,notItalic,open,FitWidth,723,0,1.0
+			Cadenas/72,Black,notBold,notItalic,open,FitWidth,769,0,1.0
+			Carquois/72,Black,notBold,notItalic,open,FitWidth,87,0,1.0
+			Chaîne/72,Black,notBold,notItalic,open,FitWidth,121,0,1.0
+			Chausse-trappes/72,Black,notBold,notItalic,open,FitWidth,150,0,1.0
+			Corde/72,Black,notBold,notItalic,open,FitWidth,311,0,1.0
+			Eau bénite/72,Black,notBold,notItalic,open,FitWidth,357,0,1.0
+			Étui à cartes ou à parchemins/72,Black,notBold,notItalic,open,FitWidth,566,0,1.0
+			Étui pour carreaux d’arbalète/72,Black,notBold,notItalic,open,FitWidth,607,0,1.0
+			Feu grégeois/72,Black,notBold,notItalic,open,FitWidth,639,0,1.0
+			Focaliseur arcanique/72,Black,notBold,notItalic,open,FitWidth,799,0,1.0
+			Focaliseur druidique/73,Black,notBold,notItalic,open,FitWidth,134,0,1.0
+			Gamelle/73,Black,notBold,notItalic,open,FitWidth,237,0,1.0
+			Grimoire/73,Black,notBold,notItalic,open,FitWidth,312,0,1.0
+			Huile/73,Black,notBold,notItalic,open,FitWidth,357,0,1.0
+			Lampe/73,Black,notBold,notItalic,open,FitWidth,636,0,1.0
+			Lanterne à capote/73,Black,notBold,notItalic,open,FitWidth,697,0,1.0
+			Lanterne sourde/73,Black,notBold,notItalic,open,FitWidth,802,0,1.0
+			Livre/73,Black,notBold,notItalic,open,FitWidth,87,0,1.0
+			Longue-vue/73,Black,notBold,notItalic,open,FitWidth,197,0,1.0
+			Loupe/73,Black,notBold,notItalic,open,FitWidth,225,0,1.0
+			Matériel d’escalade/73,Black,notBold,notItalic,open,FitWidth,357,0,1.0
+			Matériel de pêche/73,Black,notBold,notItalic,open,FitWidth,491,0,1.0
+			Menottes/73,Black,notBold,notItalic,open,FitWidth,549,0,1.0
+			Palan/73,Black,notBold,notItalic,open,FitWidth,682,0,1.0
+			Pied-de-biche/73,Black,notBold,notItalic,open,FitWidth,742,0,1.0
+			Piège à mâchoires/73,Black,notBold,notItalic,open,FitWidth,787,0,1.0
+			Poison standard/74,Black,notBold,notItalic,open,FitWidth,269,0,1.0
+			Potion de guérison/74,Black,notBold,notItalic,open,FitWidth,402,0,1.0
+			Rations/74,Black,notBold,notItalic,open,FitWidth,461,0,1.0
+			Sacoche/74,Black,notBold,notItalic,open,FitWidth,506,0,1.0
+			Sacoche à composantes/74,Black,notBold,notItalic,open,FitWidth,596,0,1.0
+			Symbole sacré/74,Black,notBold,notItalic,open,FitWidth,698,0,1.0
+			Tente/74,Black,notBold,notItalic,open,FitWidth,121,0,1.0
+			Torche/74,Black,notBold,notItalic,open,FitWidth,150,0,1.0
+			Trousse de soins/74,Black,notBold,notItalic,open,FitWidth,225,0,1.0
+			Table - Équipement d’aventurier/74,Black,notBold,notItalic,open,FitWidth,319,0,1.0
+			Table - Contenance des récipients/75,Black,notBold,notItalic,open,FitWidth,268,0,1.0
+			Paquetages/75,Black,notBold,notItalic,closed,FitWidth,540,532,0.0
+				Paquetage d’artiste/75,Black,notBold,notItalic,open,FitWidth,646,0,1.0
+				Paquetage de cambrioleur/75,Black,notBold,notItalic,open,FitWidth,689,0,1.0
+				Paquetage de diplomate/75,Black,notBold,notItalic,open,FitWidth,773,0,1.0
+				Paquetage d’ecclésiastique/75,Black,notBold,notItalic,open,FitWidth,842,0,1.0
+				Paquetage d’érudit/76,Black,notBold,notItalic,open,FitWidth,117,0,1.0
+				Paquetage d’explorateur/76,Black,notBold,notItalic,open,FitWidth,174,0,1.0
+				Paquetage d’exploration souterraine/76,Black,notBold,notItalic,open,FitWidth,227,0,1.0
+		Outils/76,Black,notBold,notItalic,closed,FitWidth,306,89,0.0
+			Table - Outils/76,Black,notBold,notItalic,open,FitWidth,572,0,1.0
+		Montures et véhicules/77,Black,notBold,notItalic,closed,FitWidth,720,89,0.0
+			Table - Montures et autres animaux/77,Black,notBold,notItalic,open,FitWidth,715,0,1.0
+			Table - Harnachement et véhicules tractés/78,Black,notBold,notItalic,open,FitWidth,87,0,1.0
+			Table - Bateaux/78,Black,notBold,notItalic,open,FitWidth,360,0,1.0
+		Marchandises/78,Black,notBold,notItalic,closed,FitWidth,500,89,0.0
+			Table - Marchandises/78,Black,notBold,notItalic,open,FitWidth,86,0,1.0
+		Dépenses/78,Black,notBold,notItalic,closed,FitWidth,332,532,0.0
+			Train de vie/78,Black,notBold,notItalic,closed,FitWidth,509,532,0.0
+				Table - Train de vie/79,Black,notBold,notItalic,open,FitWidth,194,0,1.0
+				Mendiant/79,Black,notBold,notItalic,open,FitWidth,351,0,1.0
+				Misérable/79,Black,notBold,notItalic,open,FitWidth,529,0,1.0
+				Pauvre/79,Black,notBold,notItalic,open,FitWidth,708,0,1.0
+				Modeste/79,Black,notBold,notItalic,open,FitWidth,120,0,1.0
+				Confortable/79,Black,notBold,notItalic,open,FitWidth,254,0,1.0
+				Riche/79,Black,notBold,notItalic,open,FitWidth,357,0,1.0
+				Aristocratique/79,Black,notBold,notItalic,open,FitWidth,521,0,1.0
+				Autosuffisance/79,Black,notBold,notItalic,open,FitWidth,779,532,0.0
+			Repas, boisson et hébergement/80,Black,notBold,notItalic,closed,FitWidth,212,89,0.0
+				Table - Repas, boisson et hébergement/80,Black,notBold,notItalic,open,FitWidth,306,0,1.0
+			Services/80,Black,notBold,notItalic,closed,FitWidth,702,89,0.0
+				Table - Services/80,Black,notBold,notItalic,open,FitWidth,482,0,1.0
+			Services d’incantation/81,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+	Dons (Feats)/82,Black,notBold,notItalic,closed,FitWidth,90,0,1.0
+		Empoigneur/82,Black,notBold,notItalic,open,FitWidth,449,89,0.0
+	Utiliser les valeurs de caractéristique/83,Black,notBold,notItalic,closed,FitWidth,82,0,1.0
+		Valeurs et modificateurs de caractéristique/83,Black,notBold,notItalic,closed,FitWidth,534,89,0.0
+			Table - Valeurs et modificateurs de caractéristique/83,Black,notBold,notItalic,open,FitWidth,141,0,1.0
+		Avantage et désavantage/83,Black,notBold,notItalic,open,FitWidth,544,532,0.0
+		Bonus de maîtrise/84,Black,notBold,notItalic,open,FitWidth,439,89,0.0
+		Tests de caractéristique/84,Black,notBold,notItalic,closed,FitWidth,261,532,0.0
+			Table - Degrés de difficulté courants/84,Black,notBold,notItalic,open,FitWidth,496,0,1.0
+			Opposition/85,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Compétences/85,Black,notBold,notItalic,closed,FitWidth,542,89,0.0
+				Force/85,Black,notBold,notItalic,open,FitWidth,187,532,0.0
+				Dextérité/85,Black,notBold,notItalic,open,FitWidth,229,532,0.0
+				Intelligence/85,Black,notBold,notItalic,open,FitWidth,306,532,0.0
+				Sagesse/85,Black,notBold,notItalic,open,FitWidth,413,532,0.0
+				Charisme/85,Black,notBold,notItalic,open,FitWidth,520,532,0.0
+				Variante : compétences et caractéristiques inhabituelles/86,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Tests passifs/86,Black,notBold,notItalic,open,FitWidth,520,89,0.0
+			Coopération/86,Black,notBold,notItalic,closed,FitWidth,187,532,0.0
+				Test de groupe/86,Black,notBold,notItalic,open,FitWidth,475,532,0.0
+		Les caractéristiques, au cas par cas/87,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+			Force/87,Black,notBold,notItalic,closed,FitWidth,229,89,0.0
+				Tests de Force/87,Black,notBold,notItalic,open,FitWidth,294,89,0.0
+				Jets d’attaque et de dégâts/87,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Soulever et porter/87,Black,notBold,notItalic,open,FitWidth,229,532,0.0
+				Variante : Encombrement/87,Black,notBold,notItalic,open,FitWidth,598,532,0.0
+			Dextérité/88,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+				Tests de Dextérité/88,Black,notBold,notItalic,open,FitWidth,141,89,0.0
+				Jets d’attaque et de dégâts/88,Black,notBold,notItalic,open,FitWidth,788,89,0.0
+				Classe d’armure/88,Black,notBold,notItalic,open,FitWidth,173,532,0.0
+				Initiative/88,Black,notBold,notItalic,open,FitWidth,246,532,0.0
+				Se cacher/88,Black,notBold,notItalic,open,FitWidth,336,532,0.0
+			Constitution/89,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+				Tests de Constitution/89,Black,notBold,notItalic,open,FitWidth,157,89,0.0
+				Points de vie/89,Black,notBold,notItalic,open,FitWidth,431,89,0.0
+			Intelligence/89,Black,notBold,notItalic,closed,FitWidth,745,89,0.0
+				Tests d’Intelligence/89,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Caractéristique d’incantation/89,Black,notBold,notItalic,open,FitWidth,765,532,0.0
+			Sagesse/90,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+				Tests de Sagesse/90,Black,notBold,notItalic,open,FitWidth,157,89,0.0
+				Caractéristique d’incantation/90,Black,notBold,notItalic,open,FitWidth,207,532,0.0
+			Charisme/90,Black,notBold,notItalic,closed,FitWidth,301,532,0.0
+				Tests de Charisme/90,Black,notBold,notItalic,open,FitWidth,410,532,0.0
+				Caractéristique d’incantation/91,Black,notBold,notItalic,open,FitWidth,414,89,0.0
+		Jets de sauvegarde/91,Black,notBold,notItalic,open,FitWidth,508,89,0.0
+	L'aventure/92,Black,notBold,notItalic,closed,FitWidth,93,0,1.0
+		Le passage du temps/92,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		Déplacement/92,Black,notBold,notItalic,closed,FitWidth,504,89,0.0
+			Vitesse/92,Black,notBold,notItalic,closed,FitWidth,143,532,0.0
+				Allure de voyage/92,Black,notBold,notItalic,closed,FitWidth,298,532,0.0
+					Table - Allure de voyage/93,Black,notBold,notItalic,open,FitWidth,199,0,1.0
+				Terrain difficile/93,Black,notBold,notItalic,open,FitWidth,360,89,0.0
+			Déplacements spéciaux/93,Black,notBold,notItalic,closed,FitWidth,568,89,0.0
+				Grimper, nager et ramper/93,Black,notBold,notItalic,open,FitWidth,663,89,0.0
+				Sauter/93,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+		L’environnement/94,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+			Chutes/94,Black,notBold,notItalic,open,FitWidth,208,89,0.0
+			Asphyxie/94,Black,notBold,notItalic,open,FitWidth,347,89,0.0
+			Vision et éclairage/94,Black,notBold,notItalic,closed,FitWidth,606,89,0.0
+				Vision aveugle/94,Black,notBold,notItalic,open,FitWidth,499,532,0.0
+				Vision dans le noir/94,Black,notBold,notItalic,open,FitWidth,631,532,0.0
+				Vision lucide/95,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Nourriture et eau/95,Black,notBold,notItalic,closed,FitWidth,239,89,0.0
+				Nourriture/95,Black,notBold,notItalic,open,FitWidth,350,89,0.0
+				Eau/95,Black,notBold,notItalic,open,FitWidth,572,89,0.0
+			Interagir avec des objets/95,Black,notBold,notItalic,open,FitWidth,764,89,0.0
+		Repos/95,Black,notBold,notItalic,closed,FitWidth,484,532,0.0
+			Repos court/95,Black,notBold,notItalic,open,FitWidth,674,532,0.0
+			Repos long/96,Black,notBold,notItalic,open,FitWidth,261,89,0.0
+		Entre les aventures/96,Black,notBold,notItalic,closed,FitWidth,609,89,0.0
+			Train de vie/96,Black,notBold,notItalic,open,FitWidth,143,532,0.0
+			Activités d’intermède/96,Black,notBold,notItalic,closed,FitWidth,298,532,0.0
+				Artisanat/96,Black,notBold,notItalic,open,FitWidth,571,532,0.0
+				Exercer une profession/97,Black,notBold,notItalic,open,FitWidth,336,89,0.0
+				Formation/97,Black,notBold,notItalic,open,FitWidth,558,89,0.0
+				Mener des recherches/97,Black,notBold,notItalic,open,FitWidth,765,89,0.0
+				Récupérer/97,Black,notBold,notItalic,open,FitWidth,380,532,0.0
+	Combat/97,Black,notBold,notItalic,closed,FitWidth,596,0,1.0
+		L’ordre du combat/97,Black,notBold,notItalic,closed,FitWidth,592,532,0.0
+			Combat étape par étape/98,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Surprise/98,Black,notBold,notItalic,open,FitWidth,366,89,0.0
+			Initiative/98,Black,notBold,notItalic,open,FitWidth,698,89,0.0
+			Votre tour/98,Black,notBold,notItalic,closed,FitWidth,306,532,0.0
+				Actions bonus/98,Black,notBold,notItalic,open,FitWidth,638,532,0.0
+				Autres activités à votre tour/99,Black,notBold,notItalic,open,FitWidth,187,89,0.0
+			Réactions/99,Black,notBold,notItalic,open,FitWidth,602,89,0.0
+		Déplacement et position/99,Black,notBold,notItalic,closed,FitWidth,91,532,0.0
+			Scinder son déplacement/99,Black,notBold,notItalic,closed,FitWidth,348,532,0.0
+				Se déplacer entre les attaques/99,Black,notBold,notItalic,open,FitWidth,473,532,0.0
+				Combiner des vitesses différentes/99,Black,notBold,notItalic,open,FitWidth,636,532,0.0
+			Terrain difficile/100,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Être à terre/100,Black,notBold,notItalic,closed,FitWidth,335,89,0.0
+				Interagir avec l’environnement/100,Black,notBold,notItalic,open,FitWidth,652,89,0.0
+			Se déplacer au milieu d’autres créatures/100,Black,notBold,notItalic,open,FitWidth,265,532,0.0
+			Déplacement en vol/100,Black,notBold,notItalic,open,FitWidth,500,532,0.0
+			Taille des créatures/100,Black,notBold,notItalic,closed,FitWidth,655,532,0.0
+				Table - Catégories de taille/101,Black,notBold,notItalic,open,FitWidth,0,0,1.0
+				Espace/101,Black,notBold,notItalic,open,FitWidth,105,89,0.0
+				Se faufiler dans un espace réduit/101,Black,notBold,notItalic,open,FitWidth,497,89,0.0
+		Actions au combat/101,Black,notBold,notItalic,closed,FitWidth,676,89,0.0
+			Aider/101,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Attaquer/101,Black,notBold,notItalic,open,FitWidth,335,532,0.0
+			Chercher/101,Black,notBold,notItalic,open,FitWidth,533,532,0.0
+			Esquiver/101,Black,notBold,notItalic,open,FitWidth,643,532,0.0
+			Foncer/102,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Lancer un sort/102,Black,notBold,notItalic,open,FitWidth,304,89,0.0
+			Se cacher/102,Black,notBold,notItalic,open,FitWidth,504,89,0.0
+			Se désengager/102,Black,notBold,notItalic,open,FitWidth,629,89,0.0
+			Se tenir prêt/102,Black,notBold,notItalic,open,FitWidth,710,89,0.0
+			Utiliser un objet/102,Black,notBold,notItalic,open,FitWidth,453,532,0.0
+		Effectuer une attaque/102,Black,notBold,notItalic,closed,FitWidth,593,532,0.0
+			Jets d’attaque/103,Black,notBold,notItalic,closed,FitWidth,143,89,0.0
+				Modificateurs au jet/103,Black,notBold,notItalic,open,FitWidth,298,89,0.0
+				Résultat de 1 ou 20 sur le dé/103,Black,notBold,notItalic,open,FitWidth,624,89,0.0
+			Assaillants et cibles non visibles/103,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Attaques à distance/103,Black,notBold,notItalic,closed,FitWidth,394,532,0.0
+				Portée/103,Black,notBold,notItalic,open,FitWidth,519,532,0.0
+				Attaques à distance en combat rapproché/103,Black,notBold,notItalic,open,FitWidth,755,532,0.0
+			Attaques de corps à corps/104,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+				Attaques d’opportunité/104,Black,notBold,notItalic,open,FitWidth,527,89,0.0
+				Combat à deux armes/104,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Lutte/104,Black,notBold,notItalic,open,FitWidth,280,532,0.0
+				Oppositions en combat/104,Black,notBold,notItalic,open,FitWidth,754,532,0.0
+				Bousculer une créature/105,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		Abri/105,Black,notBold,notItalic,open,FitWidth,340,89,0.0
+		Dégâts et soins/105,Black,notBold,notItalic,closed,FitWidth,91,532,0.0
+			Points de vie/105,Black,notBold,notItalic,open,FitWidth,215,532,0.0
+			Jets de dégâts/105,Black,notBold,notItalic,open,FitWidth,487,532,0.0
+				Coups critiques/106,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Types de dégâts/106,Black,notBold,notItalic,open,FitWidth,340,89,0.0
+			Résistances et vulnérabilités aux dégâts/106,Black,notBold,notItalic,open,FitWidth,321,532,0.0
+			Soins/106,Black,notBold,notItalic,open,FitWidth,712,532,0.0
+			Tomber à 0 point de vie/107,Black,notBold,notItalic,open,FitWidth,275,89,0.0
+				Mort sur le coup/107,Black,notBold,notItalic,open,FitWidth,356,89,0.0
+				Perte de connaissance/107,Black,notBold,notItalic,open,FitWidth,548,89,0.0
+				Jets de sauvegarde contre la mort/107,Black,notBold,notItalic,open,FitWidth,653,89,0.0
+				Stabiliser une créature/107,Black,notBold,notItalic,open,FitWidth,424,532,0.0
+				Mort des monstres/107,Black,notBold,notItalic,open,FitWidth,691,532,0.0
+			Assommer une créature/108,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Points de vie temporaires/108,Black,notBold,notItalic,open,FitWidth,231,89,0.0
+		Combat monté/108,Black,notBold,notItalic,closed,FitWidth,91,532,0.0
+			Monter et descendre/108,Black,notBold,notItalic,open,FitWidth,266,532,0.0
+			Contrôler une monture/108,Black,notBold,notItalic,open,FitWidth,614,532,0.0
+		Combat subaquatique/109,Black,notBold,notItalic,open,FitWidth,232,89,0.0
+	Sorts/110,Black,notBold,notItalic,closed,FitWidth,87,0,1.0
+		Qu’est-ce qu’un sort ?/110,Black,notBold,notItalic,closed,FitWidth,271,89,0.0
+			Niveau de sort/110,Black,notBold,notItalic,open,FitWidth,640,89,0.0
+			Sorts connus et sorts préparés/110,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Emplacements de sort/110,Black,notBold,notItalic,closed,FitWidth,335,532,0.0
+				Lancer un sort à un niveau supérieur/111,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Incantation en armure/111,Black,notBold,notItalic,open,FitWidth,280,89,0.0
+			Sorts mineurs/111,Black,notBold,notItalic,open,FitWidth,366,89,0.0
+			Rituels/111,Black,notBold,notItalic,open,FitWidth,491,89,0.0
+		Lancer un sort/111,Black,notBold,notItalic,closed,FitWidth,749,89,0.0
+			Temps d’incantation/111,Black,notBold,notItalic,open,FitWidth,173,532,0.0
+				Action bonus/111,Black,notBold,notItalic,open,FitWidth,253,532,0.0
+				Réactions/111,Black,notBold,notItalic,open,FitWidth,402,532,0.0
+				Temps d’incantation supérieurs/111,Black,notBold,notItalic,open,FitWidth,520,532,0.0
+			Portée/111,Black,notBold,notItalic,open,FitWidth,727,532,0.0
+			Composantes/112,Black,notBold,notItalic,open,FitWidth,290,89,0.0
+				Verbale (V)/112,Black,notBold,notItalic,open,FitWidth,431,89,0.0
+				Somatique (S)/112,Black,notBold,notItalic,open,FitWidth,593,89,0.0
+				Matérielle (M)/112,Black,notBold,notItalic,open,FitWidth,697,89,0.0
+			Durée/112,Black,notBold,notItalic,open,FitWidth,232,532,0.0
+				Instantanée/112,Black,notBold,notItalic,open,FitWidth,342,532,0.0
+				Concentration/112,Black,notBold,notItalic,open,FitWidth,431,532,0.0
+			Cibles/113,Black,notBold,notItalic,open,FitWidth,202,89,0.0
+				Un chemin dégagé jusqu’à la cible/113,Black,notBold,notItalic,open,FitWidth,415,89,0.0
+				Se cibler/113,Black,notBold,notItalic,open,FitWidth,549,89,0.0
+			Zones d’effet/113,Black,notBold,notItalic,open,FitWidth,668,89,0.0
+				Cône/113,Black,notBold,notItalic,open,FitWidth,202,532,0.0
+				Cube/113,Black,notBold,notItalic,open,FitWidth,351,532,0.0
+				Cylindre/113,Black,notBold,notItalic,open,FitWidth,468,532,0.0
+				Ligne/113,Black,notBold,notItalic,open,FitWidth,662,532,0.0
+				Sphère/113,Black,notBold,notItalic,open,FitWidth,765,532,0.0
+			Jets de sauvegarde/114,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Jets d’attaque/114,Black,notBold,notItalic,open,FitWidth,260,89,0.0
+				Les écoles de magie/114,Black,notBold,notItalic,open,FitWidth,460,89,0.0
+			Combiner les effets magiques/114,Black,notBold,notItalic,open,FitWidth,444,532,0.0
+	Listes de sorts/115,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+		Sorts de barde/115,Black,notBold,notItalic,closed,FitWidth,126,89,0.0
+			Sorts mineurs (niveau 0)/115,Black,notBold,notItalic,open,FitWidth,155,89,0.0
+			1er niveau/115,Black,notBold,notItalic,open,FitWidth,322,89,0.0
+			2e niveau/115,Black,notBold,notItalic,open,FitWidth,648,89,0.0
+			3e niveau/115,Black,notBold,notItalic,open,FitWidth,173,532,0.0
+			4e niveau/115,Black,notBold,notItalic,open,FitWidth,424,532,0.0
+			5e niveau/115,Black,notBold,notItalic,open,FitWidth,587,532,0.0
+			6e niveau/116,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			7e niveau/116,Black,notBold,notItalic,open,FitWidth,221,89,0.0
+			8e niveau/116,Black,notBold,notItalic,open,FitWidth,399,89,0.0
+			9e niveau/116,Black,notBold,notItalic,open,FitWidth,503,89,0.0
+		Sorts de clerc/116,Black,notBold,notItalic,closed,FitWidth,577,89,0.0
+			Sorts mineurs (niveau 0)/116,Black,notBold,notItalic,open,FitWidth,605,89,0.0
+			1er niveau/116,Black,notBold,notItalic,open,FitWidth,742,89,0.0
+			2e niveau/116,Black,notBold,notItalic,open,FitWidth,202,532,0.0
+			3e niveau/116,Black,notBold,notItalic,open,FitWidth,484,532,0.0
+			4e niveau/116,Black,notBold,notItalic,open,FitWidth,794,532,0.0
+			5e niveau/117,Black,notBold,notItalic,open,FitWidth,158,89,0.0
+			6e niveau/117,Black,notBold,notItalic,open,FitWidth,380,89,0.0
+			7e niveau/117,Black,notBold,notItalic,open,FitWidth,558,89,0.0
+			8e niveau/117,Black,notBold,notItalic,open,FitWidth,706,89,0.0
+			9e niveau/117,Black,notBold,notItalic,open,FitWidth,795,89,0.0
+		Sorts de druide/117,Black,notBold,notItalic,closed,FitWidth,91,532,0.0
+			Sorts mineurs (niveau 0)/117,Black,notBold,notItalic,open,FitWidth,120,532,0.0
+			1er niveau/117,Black,notBold,notItalic,open,FitWidth,256,532,0.0
+			2e niveau/117,Black,notBold,notItalic,open,FitWidth,538,532,0.0
+			3e niveau/117,Black,notBold,notItalic,open,FitWidth,819,532,0.0
+			4e niveau/118,Black,notBold,notItalic,open,FitWidth,246,89,0.0
+			5e niveau/118,Black,notBold,notItalic,open,FitWidth,499,89,0.0
+			6e niveau/118,Black,notBold,notItalic,open,FitWidth,736,89,0.0
+			7e niveau/118,Black,notBold,notItalic,open,FitWidth,114,532,0.0
+			8e niveau/118,Black,notBold,notItalic,open,FitWidth,217,532,0.0
+			9e niveau/118,Black,notBold,notItalic,open,FitWidth,336,532,0.0
+		Sorts d’ensorceleur/118,Black,notBold,notItalic,closed,FitWidth,426,532,0.0
+			Sorts mineurs (niveau 0)/118,Black,notBold,notItalic,open,FitWidth,453,532,0.0
+			1er niveau/118,Black,notBold,notItalic,open,FitWidth,694,532,0.0
+			2e niveau/119,Black,notBold,notItalic,open,FitWidth,187,89,0.0
+			3e niveau/119,Black,notBold,notItalic,open,FitWidth,528,89,0.0
+			4e niveau/119,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			5e niveau/119,Black,notBold,notItalic,open,FitWidth,269,532,0.0
+			6e niveau/119,Black,notBold,notItalic,open,FitWidth,461,532,0.0
+			7e niveau/119,Black,notBold,notItalic,open,FitWidth,625,532,0.0
+			8e niveau/119,Black,notBold,notItalic,open,FitWidth,773,532,0.0
+			9e niveau/120,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		Sorts de magicien/120,Black,notBold,notItalic,closed,FitWidth,191,89,0.0
+			Sorts mineurs (niveau 0)/120,Black,notBold,notItalic,open,FitWidth,220,89,0.0
+			1er niveau/120,Black,notBold,notItalic,open,FitWidth,461,89,0.0
+			2e niveau/120,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			3e niveau/120,Black,notBold,notItalic,open,FitWidth,576,532,0.0
+			4e niveau/121,Black,notBold,notItalic,open,FitWidth,232,89,0.0
+			5e niveau/121,Black,notBold,notItalic,open,FitWidth,602,89,0.0
+			6e niveau/121,Black,notBold,notItalic,open,FitWidth,187,532,0.0
+			7e niveau/121,Black,notBold,notItalic,open,FitWidth,499,532,0.0
+			8e niveau/121,Black,notBold,notItalic,open,FitWidth,750,532,0.0
+			9e niveau/122,Black,notBold,notItalic,open,FitWidth,173,89,0.0
+		Sorts d’occultiste/122,Black,notBold,notItalic,closed,FitWidth,380,89,0.0
+			Sorts mineurs (niveau 0)/122,Black,notBold,notItalic,open,FitWidth,409,89,0.0
+			1er niveau/122,Black,notBold,notItalic,open,FitWidth,545,89,0.0
+			2e niveau/122,Black,notBold,notItalic,open,FitWidth,679,89,0.0
+			3e niveau/122,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			4e niveau/122,Black,notBold,notItalic,open,FitWidth,280,532,0.0
+			5e niveau/122,Black,notBold,notItalic,open,FitWidth,369,532,0.0
+			6e niveau/122,Black,notBold,notItalic,open,FitWidth,458,532,0.0
+			7e niveau/122,Black,notBold,notItalic,open,FitWidth,591,532,0.0
+			8e niveau/122,Black,notBold,notItalic,open,FitWidth,681,532,0.0
+			9e niveau/122,Black,notBold,notItalic,open,FitWidth,784,532,0.0
+		Sorts de paladin/123,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+			1er niveau/123,Black,notBold,notItalic,open,FitWidth,120,89,0.0
+			2e niveau/123,Black,notBold,notItalic,open,FitWidth,316,89,0.0
+			3e niveau/123,Black,notBold,notItalic,open,FitWidth,465,89,0.0
+			4e niveau/123,Black,notBold,notItalic,open,FitWidth,583,89,0.0
+			5e niveau/123,Black,notBold,notItalic,open,FitWidth,657,89,0.0
+		Sorts de rôdeur/123,Black,notBold,notItalic,closed,FitWidth,731,89,0.0
+			1er niveau/123,Black,notBold,notItalic,open,FitWidth,760,89,0.0
+			2e niveau/123,Black,notBold,notItalic,open,FitWidth,173,532,0.0
+			3e niveau/123,Black,notBold,notItalic,open,FitWidth,365,532,0.0
+			4e niveau/123,Black,notBold,notItalic,open,FitWidth,528,532,0.0
+			5e niveau/123,Black,notBold,notItalic,open,FitWidth,617,532,0.0
+	Description des sorts/124,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+		A/124,Black,notBold,notItalic,closed,FitWidth,126,0,1.0
+			Agrandissement/rapetissement (Enlarge/Reduce)/124,Black,notBold,notItalic,open,FitWidth,126,89,0.0
+			Aide (Aid)/124,Black,notBold,notItalic,open,FitWidth,756,89,0.0
+			Alarme (Alarm)/124,Black,notBold,notItalic,open,FitWidth,284,532,0.0
+			Allié planaire (Planar Ally)/124,Black,notBold,notItalic,open,FitWidth,654,532,0.0
+			Amélioration de caractéristique (Enhance Ability)/125,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Amitié avec les animaux (Animal Friendship)/125,Black,notBold,notItalic,open,FitWidth,547,532,0.0
+			Animation des morts (Animate Dead)/126,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Animation des objets (Animate Object)/126,Black,notBold,notItalic,open,FitWidth,754,89,0.0
+			Anticipation (Contingency)/127,Black,notBold,notItalic,open,FitWidth,277,89,0.0
+			Antidétection (Nondetection)/127,Black,notBold,notItalic,open,FitWidth,765,89,0.0
+			Apaisement des émotions (Calm Emotions)/127,Black,notBold,notItalic,open,FitWidth,225,532,0.0
+			Apparence trompeuse (Seeming)/127,Black,notBold,notItalic,open,FitWidth,625,532,0.0
+			Appel de destrier (Find Steed)/128,Black,notBold,notItalic,open,FitWidth,424,89,0.0
+			Appel de familier (Find Familiar)/128,Black,notBold,notItalic,open,FitWidth,306,532,0.0
+			Appel de la foudre (Call Lightning)/129,Black,notBold,notItalic,open,FitWidth,394,89,0.0
+			Arme magique (Magic Weapon)/129,Black,notBold,notItalic,open,FitWidth,158,532,0.0
+			Arme spirituelle (Spiritual Weapon)/129,Black,notBold,notItalic,open,FitWidth,380,532,0.0
+			Armure du mage (Mage Armor)/130,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Arrêt du temps (Time Stop)/130,Black,notBold,notItalic,open,FitWidth,295,89,0.0
+			Aspersion acide (Acid Splash)/130,Black,notBold,notItalic,open,FitWidth,606,89,0.0
+			Assassin imaginaire (Phantasmal Killer)/130,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Assistance (Guidance)/130,Black,notBold,notItalic,open,FitWidth,413,532,0.0
+			Augure (Augury)/130,Black,notBold,notItalic,open,FitWidth,621,532,0.0
+			Aura magique de l’arcaniste (Arcanist's Magic Aura)/131,Black,notBold,notItalic,open,FitWidth,350,89,0.0
+			Aura sacrée (Holy Aura)/131,Black,notBold,notItalic,open,FitWidth,143,532,0.0
+			Aversion/attirance (Antipathy/Sympathy)/131,Black,notBold,notItalic,open,FitWidth,514,532,0.0
+		B/132,Black,notBold,notItalic,closed,FitWidth,660,0,1.0
+			Bagou (Glibness)/132,Black,notBold,notItalic,open,FitWidth,660,89,0.0
+			Baies nourricières (Goodberry)/132,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Bannissement (Banishment)/132,Black,notBold,notItalic,open,FitWidth,340,532,0.0
+			Barrière de lames (Blade Barrier)/133,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Bénédiction (Bless)/133,Black,notBold,notItalic,open,FitWidth,443,89,0.0
+			Blessure (Inflict Wounds)/133,Black,notBold,notItalic,open,FitWidth,710,89,0.0
+			Bouche magique (Magic Mouth)/133,Black,notBold,notItalic,open,FitWidth,158,532,0.0
+			Bouclier (Shield)/133,Black,notBold,notItalic,open,FitWidth,706,532,0.0
+			Bouclier de feu (Fire Shield)/134,Black,notBold,notItalic,open,FitWidth,173,89,0.0
+			Bouclier de la foi (Shield of Faith)/134,Black,notBold,notItalic,open,FitWidth,514,89,0.0
+			Bouffée de poison (Poison Spray)/134,Black,notBold,notItalic,open,FitWidth,692,89,0.0
+			Boule de feu (Fireball)/134,Black,notBold,notItalic,open,FitWidth,143,532,0.0
+			Boule de feu à retardement (Delayed Blast Firewall)/134,Black,notBold,notItalic,open,FitWidth,484,532,0.0
+			Bourrasque (Gust of Wind)/135,Black,notBold,notItalic,open,FitWidth,306,89,0.0
+			Brume mortelle (Cloudkill)/135,Black,notBold,notItalic,open,FitWidth,677,89,0.0
+		C/135,Black,notBold,notItalic,closed,FitWidth,321,0,1.0
+			Cage de force (Forcecage)/135,Black,notBold,notItalic,open,FitWidth,321,532,0.0
+			Caresse du vampire (Vampiric Touch)/136,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Cécité/surdité (Blindness/Deafness)/136,Black,notBold,notItalic,open,FitWidth,399,89,0.0
+			Cercle de mort (Circle of Death)/136,Black,notBold,notItalic,open,FitWidth,696,89,0.0
+			Cercle de téléportation (Teleportation Circle)/136,Black,notBold,notItalic,open,FitWidth,202,532,0.0
+			Cercle magique (Magic Circle)/136,Black,notBold,notItalic,open,FitWidth,750,532,0.0
+			Chaîne d’éclairs (Chain Lightning)/137,Black,notBold,notItalic,open,FitWidth,511,89,0.0
+			Champ antimagie (Antimagic Field)/137,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Changement de forme (Shapechange)/138,Black,notBold,notItalic,open,FitWidth,365,89,0.0
+			Changement de plan (Plane Shift)/138,Black,notBold,notItalic,open,FitWidth,587,532,0.0
+			Charme-personne (Charm Person)/139,Black,notBold,notItalic,open,FitWidth,380,89,0.0
+			Châtiment révélateur (Branding Smite)/139,Black,notBold,notItalic,open,FitWidth,736,89,0.0
+			Chien de garde (Faithful Hound)/139,Black,notBold,notItalic,open,FitWidth,277,532,0.0
+			Clairvoyance (Clairvoyance)/139,Black,notBold,notItalic,open,FitWidth,706,532,0.0
+			Clignotement (Blink)/140,Black,notBold,notItalic,open,FitWidth,350,89,0.0
+			Clone (Clone)/140,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Coffre secret (Secret Chest)/140,Black,notBold,notItalic,open,FitWidth,580,532,0.0
+			Colonne de flamme (Flame Strike)/141,Black,notBold,notItalic,open,FitWidth,246,89,0.0
+			Communication à distance (Sending)/141,Black,notBold,notItalic,open,FitWidth,543,89,0.0
+			Communication avec les animaux (Speak with Animals)/141,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Communication avec les morts (Speak with Dead)/141,Black,notBold,notItalic,open,FitWidth,340,532,0.0
+			Communication avec les plantes (Speak with Plants)/141,Black,notBold,notItalic,open,FitWidth,740,532,0.0
+			Communion (Commune)/142,Black,notBold,notItalic,open,FitWidth,513,89,0.0
+			Communion avec la nature (Commune with Nature)/142,Black,notBold,notItalic,open,FitWidth,173,532,0.0
+			Compréhension des langues (Comprehend Languages)/142,Black,notBold,notItalic,open,FitWidth,617,532,0.0
+			Compulsion (Compulsion)/143,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Cône de froid (Cone fo Cold)/143,Black,notBold,notItalic,open,FitWidth,487,89,0.0
+			Confusion (Confusion)/143,Black,notBold,notItalic,open,FitWidth,783,89,0.0
+			Contact avec les plans (Contact Other Plane)/143,Black,notBold,notItalic,open,FitWidth,574,532,0.0
+			Contact glacial (Chill Touch)/144,Black,notBold,notItalic,open,FitWidth,217,89,0.0
+			Contagion (Contagion)/144,Black,notBold,notItalic,open,FitWidth,558,89,0.0
+			Contamination (Harm)/144,Black,notBold,notItalic,open,FitWidth,468,532,0.0
+			Contresort (Counterspell)/144,Black,notBold,notItalic,open,FitWidth,750,532,0.0
+			Contrôle de l’eau (Control Water)/145,Black,notBold,notItalic,open,FitWidth,290,89,0.0
+			Contrôle du climat (Control Weather)/145,Black,notBold,notItalic,open,FitWidth,691,532,0.0
+			Convocations instantanées (Instant Summons)/146,Black,notBold,notItalic,open,FitWidth,731,89,0.0
+			Coquille antivie (Antilife Shell)/146,Black,notBold,notItalic,open,FitWidth,394,532,0.0
+			Corde enchantée (Rope Trick)/146,Black,notBold,notItalic,open,FitWidth,706,532,0.0
+			Couleurs dansantes (Color Spray)/147,Black,notBold,notItalic,open,FitWidth,365,89,0.0
+			Coup au but (True Strike)/147,Black,notBold,notItalic,open,FitWidth,794,89,0.0
+			Création (Creation)/147,Black,notBold,notItalic,open,FitWidth,225,532,0.0
+			Création de mort-vivant (Create Undead)/147,Black,notBold,notItalic,open,FitWidth,745,532,0.0
+			Création de nourriture et d’eau (Create Food and Water)/148,Black,notBold,notItalic,open,FitWidth,616,89,0.0
+			Création ou destruction d’eau (Create or Destroy Water)/148,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Croissance d’épines (Spike Growth)/148,Black,notBold,notItalic,open,FitWidth,443,532,0.0
+			Croissance végétale (Plant Growth)/148,Black,notBold,notItalic,open,FitWidth,740,532,0.0
+			Crosse des druides (Shillelagh)/149,Black,notBold,notItalic,open,FitWidth,380,89,0.0
+		D/149,Black,notBold,notItalic,closed,FitWidth,646,0,1.0
+			Danse irrésistible (Irresistible Dance)/149,Black,notBold,notItalic,open,FitWidth,646,89,0.0
+			Déblocage (Knock)/149,Black,notBold,notItalic,open,FitWidth,232,532,0.0
+			Décharge occulte (Eldritch Blast)/149,Black,notBold,notItalic,open,FitWidth,543,532,0.0
+			Dédale (Maze)/150,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Déguisement (Disguise Self)/150,Black,notBold,notItalic,open,FitWidth,399,89,0.0
+			Délivrance des malédictions (Remove Curse)/150,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Demi-plan (Demiplane)/150,Black,notBold,notItalic,open,FitWidth,295,532,0.0
+			Désintégration (Desintegrate)/150,Black,notBold,notItalic,open,FitWidth,681,532,0.0
+			Détection de l’invisibilité (See Invisibility)/151,Black,notBold,notItalic,open,FitWidth,409,89,0.0
+			Détection de la magie (Detect Magic)/151,Black,notBold,notItalic,open,FitWidth,602,89,0.0
+			Détection des pensées (Detect Thoughts)/151,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Détection des pièges (Find Traps)/152,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Détection du mal et du bien (Detect Evil and Good)/152,Black,notBold,notItalic,open,FitWidth,428,89,0.0
+			Détection du poison et des maladies (Detect Poison and Disease)/152,Black,notBold,notItalic,open,FitWidth,710,89,0.0
+			Discours captivant (Enthrall)/152,Black,notBold,notItalic,open,FitWidth,187,532,0.0
+			Disque flottant (Floating Disk)/152,Black,notBold,notItalic,open,FitWidth,499,532,0.0
+			Dissimulation suprême (Sequester)/153,Black,notBold,notItalic,open,FitWidth,143,89,0.0
+			Dissipation de la magie (Dispel Magic)/153,Black,notBold,notItalic,open,FitWidth,558,89,0.0
+			Dissipation du mal et du bien (Dispel Evil and Good)/153,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Divination (Divination)/153,Black,notBold,notItalic,open,FitWidth,591,532,0.0
+			Doigt de mort (Finger of Death)/154,Black,notBold,notItalic,open,FitWidth,232,89,0.0
+			Domination d’animal (Dominate Beast)/154,Black,notBold,notItalic,open,FitWidth,499,89,0.0
+			Domination de monstre (Dominate Monster)/154,Black,notBold,notItalic,open,FitWidth,350,532,0.0
+			Domination de personne (Dominate Person)/155,Black,notBold,notItalic,open,FitWidth,143,89,0.0
+			Don des langues (Tongues)/155,Black,notBold,notItalic,open,FitWidth,780,89,0.0
+			Double illusoire (Mislead)/155,Black,notBold,notItalic,open,FitWidth,225,532,0.0
+			Doux repos (Gentle Repose)/155,Black,notBold,notItalic,open,FitWidth,566,532,0.0
+			Druidisme (Druidcraft)/156,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		E/156,Black,notBold,notItalic,closed,FitWidth,479,0,1.0
+			Éclair (Lightning Bolt)/156,Black,notBold,notItalic,open,FitWidth,479,89,0.0
+			Éclat du soleil (Sunburst)/156,Black,notBold,notItalic,open,FitWidth,794,89,0.0
+			Embruns prismatiques (Prismatic Spray)/156,Black,notBold,notItalic,open,FitWidth,357,532,0.0
+			Emprisonnement (Imprisonment)/157,Black,notBold,notItalic,open,FitWidth,261,89,0.0
+			Enchevêtrement (Entangle)/157,Black,notBold,notItalic,open,FitWidth,676,532,0.0
+			Ennemi subconscient (Weird)/158,Black,notBold,notItalic,open,FitWidth,232,89,0.0
+			Entrave planaire (Planar Binding)/158,Black,notBold,notItalic,open,FitWidth,573,89,0.0
+			Épée arcanique (Arcane Sword)/158,Black,notBold,notItalic,open,FitWidth,468,532,0.0
+			Esprit faible (Feeblemind)/159,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Esprit impénétrable (Mind Blank)/159,Black,notBold,notItalic,open,FitWidth,462,89,0.0
+			Esprits gardiens (Spirit Guardians)/159,Black,notBold,notItalic,open,FitWidth,699,89,0.0
+			Éveil (Awaken)/159,Black,notBold,notItalic,open,FitWidth,424,532,0.0
+		F/160,Black,notBold,notItalic,closed,FitWidth,91,0,1.0
+			Fabrication (Fabricate)/160,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Façonnage de la pierre (Stone Shape)/160,Black,notBold,notItalic,open,FitWidth,547,89,0.0
+			Faveur divine (Divine favor)/160,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Festin des héros (Heroes' Feast)/160,Black,notBold,notItalic,open,FitWidth,250,532,0.0
+			Feuille morte (Feather Fall)/160,Black,notBold,notItalic,open,FitWidth,606,532,0.0
+			Flamme sacrée (Sacred Flame)/161,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Flamme éternelle (Continual Flame)/161,Black,notBold,notItalic,open,FitWidth,324,89,0.0
+			Flammes (Produce Flame)/161,Black,notBold,notItalic,open,FitWidth,547,89,0.0
+			Fléau (Bane)/161,Black,notBold,notItalic,open,FitWidth,143,532,0.0
+			Fléau d’insectes (Insect Plague)/161,Black,notBold,notItalic,open,FitWidth,424,532,0.0
+			Flèche acide (Acid Arrow)/162,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Flétrissement (Blight)/162,Black,notBold,notItalic,open,FitWidth,413,89,0.0
+			Flou (Blur)/162,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Forme éthérée (Etherealness)/162,Black,notBold,notItalic,open,FitWidth,324,532,0.0
+			Forme gazeuse (Gaseous Form)/163,Black,notBold,notItalic,open,FitWidth,232,89,0.0
+			Fou rire (Hideous Laughter)/163,Black,notBold,notItalic,open,FitWidth,691,89,0.0
+			Foulée brumeuse (Misty Step)/163,Black,notBold,notItalic,open,FitWidth,290,532,0.0
+			Fracassement (Shatter)/163,Black,notBold,notItalic,open,FitWidth,455,532,0.0
+			Fusion dans la pierre (Meld into Stone)/164,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		G/164,Black,notBold,notItalic,closed,FitWidth,654,0,1.0
+			Gardien de la foi (Guardian of Faith)/164,Black,notBold,notItalic,open,FitWidth,654,89,0.0
+			Glissement de terrain (Move Earth)/164,Black,notBold,notItalic,open,FitWidth,202,532,0.0
+			Globe d’invulnérabilité (Globe of Invulnerability)/164,Black,notBold,notItalic,open,FitWidth,780,532,0.0
+			Glyphe de garde (Glyph of Warding)/165,Black,notBold,notItalic,open,FitWidth,343,89,0.0
+			Graisse (Grease)/165,Black,notBold,notItalic,open,FitWidth,735,532,0.0
+			Grande foulée (Longstrider)/166,Black,notBold,notItalic,open,FitWidth,246,89,0.0
+			Guérison (Heal)/166,Black,notBold,notItalic,open,FitWidth,452,89,0.0
+			Guérison de groupe (Mass heal)/166,Black,notBold,notItalic,open,FitWidth,702,89,0.0
+		H/166,Black,notBold,notItalic,closed,FitWidth,158,0,1.0
+			Hâte (Haste)/166,Black,notBold,notItalic,open,FitWidth,158,532,0.0
+			Héroïsme (Heroism)/166,Black,notBold,notItalic,open,FitWidth,455,532,0.0
+		I/167,Black,notBold,notItalic,closed,FitWidth,0,0,1.0
+			Identification (Identify)/166,Black,notBold,notItalic,open,FitWidth,736,532,0.0
+			Illusion mineure (Minor Illusion)/167,Black,notBold,notItalic,open,FitWidth,277,89,0.0
+			Illusion programmée (Programmed Illusion)/167,Black,notBold,notItalic,open,FitWidth,750,89,0.0
+			Image majeure (Major image)/167,Black,notBold,notItalic,open,FitWidth,572,532,0.0
+			Image miroir (Mirror Image)/168,Black,notBold,notItalic,open,FitWidth,439,89,0.0
+			Image projetée (Project Image)/168,Black,notBold,notItalic,open,FitWidth,217,532,0.0
+			Image silencieuse (Silent Image)/168,Black,notBold,notItalic,open,FitWidth,734,532,0.0
+			Immobilisation de monstre (Hold Monster)/169,Black,notBold,notItalic,open,FitWidth,394,89,0.0
+			Immobilisation de personne (Hold Person)/169,Black,notBold,notItalic,open,FitWidth,706,89,0.0
+			Injonction (Command)/169,Black,notBold,notItalic,open,FitWidth,277,532,0.0
+			Insecte géant (Giant Insect)/170,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Interdiction (Forbiddance)/170,Black,notBold,notItalic,open,FitWidth,458,89,0.0
+			Inversion de la gravité (Reverse Gravity)/170,Black,notBold,notItalic,open,FitWidth,217,532,0.0
+			Invisibilité (Invisibility)/170,Black,notBold,notItalic,open,FitWidth,587,532,0.0
+			Invisibilité suprême (Greater Invisibility)/171,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Invocation d’animaux (Conjure Animals)/171,Black,notBold,notItalic,open,FitWidth,265,89,0.0
+			Invocation d’élémentaire (Conjure Elemental)/171,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Invocation d’élémentaires mineurs (Conjure Minor Elemental)/171,Black,notBold,notItalic,open,FitWidth,665,532,0.0
+			Invocation d’êtres sylvestres (Conjure Woodland Beings)/172,Black,notBold,notItalic,open,FitWidth,490,89,0.0
+			Invocation de céleste (Conjure Celestial)/172,Black,notBold,notItalic,open,FitWidth,277,532,0.0
+			Invocation de fée (Conjure Fey)/172,Black,notBold,notItalic,open,FitWidth,633,532,0.0
+		L/173,Black,notBold,notItalic,closed,FitWidth,380,0,1.0
+			Lame de feu (Flame Blade)/173,Black,notBold,notItalic,open,FitWidth,380,89,0.0
+			Lenteur (Slow)/173,Black,notBold,notItalic,open,FitWidth,721,89,0.0
+			Lévitation (Levitate)/173,Black,notBold,notItalic,open,FitWidth,461,532,0.0
+			Liberté de mouvement (Freedom of Movement)/174,Black,notBold,notItalic,open,FitWidth,128,89,0.0
+			Lien de protection (Warding Bond)/174,Black,notBold,notItalic,open,FitWidth,439,89,0.0
+			Lien télépathique (Telepathic Bond)/174,Black,notBold,notItalic,open,FitWidth,766,89,0.0
+			Localisation d’animaux ou de plantes (Locate Animals or Plants)/174,Black,notBold,notItalic,open,FitWidth,277,532,0.0
+			Localisation d’objet (Locate Object)/174,Black,notBold,notItalic,open,FitWidth,484,532,0.0
+			Localisation de créature (Locate Creature)/175,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Lueur d’espoir (Beacon of Hope)/175,Black,notBold,notItalic,open,FitWidth,458,89,0.0
+			Lueurs féeriques (Faerie Fire)/175,Black,notBold,notItalic,open,FitWidth,665,89,0.0
+			Lumière (Light)/175,Black,notBold,notItalic,open,FitWidth,158,532,0.0
+			Lumière du jour (Daylight)/175,Black,notBold,notItalic,open,FitWidth,455,532,0.0
+			Lumières dansantes (Dancing Lights)/175,Black,notBold,notItalic,open,FitWidth,780,532,0.0
+		M/176,Black,notBold,notItalic,closed,FitWidth,328,0,1.0
+			Main arcanique (Arcane Hand)/176,Black,notBold,notItalic,open,FitWidth,328,89,0.0
+			Main du mage (Mage Hand)/176,Black,notBold,notItalic,open,FitWidth,513,532,0.0
+			Mains brûlantes (Burning Hands)/177,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Malédiction (Bestow Curse)/177,Black,notBold,notItalic,open,FitWidth,384,89,0.0
+			Manoir somptueux (Magnificient Mansion)/177,Black,notBold,notItalic,open,FitWidth,246,532,0.0
+			Marche sur l’onde (Water Walk)/178,Black,notBold,notItalic,open,FitWidth,173,89,0.0
+			Marque du chasseur (Hunter's Mark)/178,Black,notBold,notItalic,open,FitWidth,470,89,0.0
+			Mauvais œil (Eyebite)/178,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Message (Message)/178,Black,notBold,notItalic,open,FitWidth,591,532,0.0
+			Messager animal (Animal Messenger)/179,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Métal brûlant (Heat Metal)/179,Black,notBold,notItalic,open,FitWidth,562,89,0.0
+			Métamorphose (Polymorph)/179,Black,notBold,notItalic,open,FitWidth,187,532,0.0
+			Métamorphose animale (Animal Shapes)/179,Black,notBold,notItalic,open,FitWidth,794,532,0.0
+			Métamorphose suprême (True Polymorph)/180,Black,notBold,notItalic,open,FitWidth,563,89,0.0
+			Mirage (Mirage Arcane)/181,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Modification d’apparence (Alter Self)/181,Black,notBold,notItalic,open,FitWidth,576,89,0.0
+			Modification de mémoire (Modify Memory)/181,Black,notBold,notItalic,open,FitWidth,439,532,0.0
+			Monture fantôme (Phantom Steed)/182,Black,notBold,notItalic,open,FitWidth,484,89,0.0
+			Moquerie cruelle (Vicious Mockery)/182,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Mot de guérison (Healing Word)/182,Black,notBold,notItalic,open,FitWidth,369,532,0.0
+			Mot de guérison de groupe (Mass Healing Word)/182,Black,notBold,notItalic,open,FitWidth,621,532,0.0
+			Mot de pouvoir étourdissant (Power Word Stun)/183,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Mot de pouvoir mortel (Power Word Kill)/183,Black,notBold,notItalic,open,FitWidth,324,89,0.0
+			Mot de retour (Word of Recall)/183,Black,notBold,notItalic,open,FitWidth,518,89,0.0
+			Motif hypnotique (Hypnotic Pattern)/183,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Mur d’épines (Wall of Thorns)/183,Black,notBold,notItalic,open,FitWidth,399,532,0.0
+			Mur de feu (Wall of Fire)/184,Black,notBold,notItalic,open,FitWidth,158,89,0.0
+			Mur de force (Wall of Force)/184,Black,notBold,notItalic,open,FitWidth,617,89,0.0
+			Mur de glace (Wall of Ice)/184,Black,notBold,notItalic,open,FitWidth,261,532,0.0
+			Mur de pierre (Wall of Stone)/185,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Mur de vent (Wind Wall)/185,Black,notBold,notItalic,open,FitWidth,783,89,0.0
+			Mur prismatique (Prismatic Wall)/185,Black,notBold,notItalic,open,FitWidth,491,532,0.0
+			Mythes et légendes (Legend Lore)/186,Black,notBold,notItalic,open,FitWidth,290,532,0.0
+		N/187,Black,notBold,notItalic,closed,FitWidth,0,0,1.0
+			Nappe de brouillard (Fog Cloud)/186,Black,notBold,notItalic,open,FitWidth,736,532,0.0
+			Nuage incendiaire (Incendiary Cloud)/187,Black,notBold,notItalic,open,FitWidth,246,89,0.0
+			Nuage nauséabond (Stinking Cloud)/187,Black,notBold,notItalic,open,FitWidth,602,89,0.0
+			Nuée de météores (Meteor Swarm)/187,Black,notBold,notItalic,open,FitWidth,217,532,0.0
+		O/187,Black,notBold,notItalic,closed,FitWidth,528,0,1.0
+			Œil du mage (Arcane Eye)/187,Black,notBold,notItalic,open,FitWidth,528,532,0.0
+			Orientation (Find the Path)/188,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		P/188,Black,notBold,notItalic,closed,FitWidth,487,0,1.0
+			Parole divine (Divine Word)/188,Black,notBold,notItalic,open,FitWidth,487,89,0.0
+			Passage par les arbres (Tree Stride)/188,Black,notBold,notItalic,open,FitWidth,187,532,0.0
+			Passage sans trace (Pass without Trace)/188,Black,notBold,notItalic,open,FitWidth,617,532,0.0
+			Passe-muraille (Passwall)/189,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Pattes d’araignée (Spider Climb)/189,Black,notBold,notItalic,open,FitWidth,399,89,0.0
+			Peau d’écorce (Barkskin)/189,Black,notBold,notItalic,open,FitWidth,621,89,0.0
+			Peau de pierre (Stoneskin)/189,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Petite hutte (Tiny Hut)/189,Black,notBold,notItalic,open,FitWidth,309,532,0.0
+			Pétrification (Flesh to Stone)/189,Black,notBold,notItalic,open,FitWidth,710,532,0.0
+			Poigne électrique (Shocking Grasp)/190,Black,notBold,notItalic,open,FitWidth,424,89,0.0
+			Portail (Gate)/190,Black,notBold,notItalic,open,FitWidth,706,89,0.0
+			Porte dimensionnelle (Dimension Door)/190,Black,notBold,notItalic,open,FitWidth,453,532,0.0
+			Possession (Magic Jar)/191,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Prémonition (Foresight)/191,Black,notBold,notItalic,open,FitWidth,277,532,0.0
+			Prestidigitation (Prestidigitation)/191,Black,notBold,notItalic,open,FitWidth,528,532,0.0
+			Prière de guérison (Prayer of Healing)/192,Black,notBold,notItalic,open,FitWidth,251,89,0.0
+			Projectile magique (Magic Missile)/192,Black,notBold,notItalic,open,FitWidth,519,89,0.0
+			Projection astrale (Astral Projection)/192,Black,notBold,notItalic,open,FitWidth,785,89,0.0
+			Protection contre l’énergie (Protection from Energy)/193,Black,notBold,notItalic,open,FitWidth,173,89,0.0
+			Protection contre la mort (Death Ward)/193,Black,notBold,notItalic,open,FitWidth,351,89,0.0
+			Protection contre le mal et le bien (Protection from Evil and Good)/193,Black,notBold,notItalic,open,FitWidth,617,89,0.0
+			Protection contre le poison (Protection from Poison)/193,Black,notBold,notItalic,open,FitWidth,158,532,0.0
+			Protections et sceaux (Guards and Wards)/193,Black,notBold,notItalic,open,FitWidth,380,532,0.0
+			Purification de la nourriture et de l’eau (Purify Food and Drink)/194,Black,notBold,notItalic,open,FitWidth,646,89,0.0
+		Q/194,Black,notBold,notItalic,closed,FitWidth,91,0,1.0
+			Quête (Geas)/194,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+		R/194,Black,notBold,notItalic,closed,FitWidth,591,0,1.0
+			Rappel à la vie (Raise Dead)/194,Black,notBold,notItalic,open,FitWidth,591,532,0.0
+			Rayon affaiblissant (Ray of Enfeeblement)/195,Black,notBold,notItalic,open,FitWidth,306,89,0.0
+			Rayon ardent (Scorching Ray)/195,Black,notBold,notItalic,open,FitWidth,558,89,0.0
+			Rayon de givre (Ray of Frost)/195,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Rayon de lune (Moonbeam)/195,Black,notBold,notItalic,open,FitWidth,324,532,0.0
+			Rayon de soleil (Sunbeam)/196,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Rayon traçant (Guiding Bolt)/196,Black,notBold,notItalic,open,FitWidth,443,89,0.0
+			Régénération (Regenerate)/196,Black,notBold,notItalic,open,FitWidth,710,89,0.0
+			Réincarnation (Reincarnate)/196,Black,notBold,notItalic,open,FitWidth,246,532,0.0
+			Réparation (Mending)/197,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Repli expéditif (Expeditious Retreat)/197,Black,notBold,notItalic,open,FitWidth,355,89,0.0
+			Représailles infernales (Hellish Rebuke)/197,Black,notBold,notItalic,open,FitWidth,533,89,0.0
+			Résistance (Resistance)/197,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Respiration aquatique (Water Breathing)/197,Black,notBold,notItalic,open,FitWidth,280,532,0.0
+			Restauration partielle (Lesser Restoration)/197,Black,notBold,notItalic,open,FitWidth,487,532,0.0
+			Restauration suprême (Greater Restoration)/197,Black,notBold,notItalic,open,FitWidth,652,532,0.0
+			Résurrection (Resurrection)/198,Black,notBold,notItalic,open,FitWidth,216,89,0.0
+			Résurrection suprême (True Resurrection)/198,Black,notBold,notItalic,open,FitWidth,723,89,0.0
+			Retour à la vie (Revivify)/198,Black,notBold,notItalic,open,FitWidth,321,532,0.0
+		S/198,Black,notBold,notItalic,closed,FitWidth,528,0,1.0
+			Sanctification (Hallow)/198,Black,notBold,notItalic,open,FitWidth,528,532,0.0
+			Sanctuaire (Sanctuary)/199,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Sanctuaire privé (Pricate Sanctum)/199,Black,notBold,notItalic,open,FitWidth,369,532,0.0
+			Saut (Jump)/200,Black,notBold,notItalic,open,FitWidth,187,89,0.0
+			Scrutation (Scrying)/200,Black,notBold,notItalic,open,FitWidth,351,89,0.0
+			Serviteur invisible (Unseen Servant)/200,Black,notBold,notItalic,open,FitWidth,277,532,0.0
+			Silence (Silence)/200,Black,notBold,notItalic,open,FitWidth,691,532,0.0
+			Simulacre (Simulacrum)/201,Black,notBold,notItalic,open,FitWidth,173,89,0.0
+			Simulacre de vie (False Life)/201,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Soins (Cure Wounds)/201,Black,notBold,notItalic,open,FitWidth,328,532,0.0
+			Soins de groupe (Mass Cure Wounds)/201,Black,notBold,notItalic,open,FitWidth,566,532,0.0
+			Sommeil (Sleep)/202,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Songe (Dream)/202,Black,notBold,notItalic,open,FitWidth,576,89,0.0
+			Souhait (Wish)/202,Black,notBold,notItalic,open,FitWidth,484,532,0.0
+			Sphère de feu (Flaming Shere)/203,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Sphère glacée (Freezing Sphere)/203,Black,notBold,notItalic,open,FitWidth,562,532,0.0
+			Sphère résiliente (Resilient Sphere)/204,Black,notBold,notItalic,open,FitWidth,394,89,0.0
+			Stabilisation (Spare the Dying)/204,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Suggestion (Suggestion)/204,Black,notBold,notItalic,open,FitWidth,258,532,0.0
+			Suggestion de groupe (Mass Suggestion)/205,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Symbole (Symbol)/205,Black,notBold,notItalic,open,FitWidth,710,89,0.0
+		T/206,Black,notBold,notItalic,closed,FitWidth,602,0,1.0
+			Télékinésie (Telekinesis)/206,Black,notBold,notItalic,open,FitWidth,602,89,0.0
+			Téléportation (Teleportation)/206,Black,notBold,notItalic,open,FitWidth,557,532,0.0
+			Tempête de feu (Fire Storm)/207,Black,notBold,notItalic,open,FitWidth,409,532,0.0
+			Tempête de grêle (Ice Storm)/207,Black,notBold,notItalic,open,FitWidth,721,532,0.0
+			Tempête de neige (Sleet Storm)/208,Black,notBold,notItalic,open,FitWidth,306,89,0.0
+			Tempête vengeresse (Storm of Vengeance)/208,Black,notBold,notItalic,open,FitWidth,662,89,0.0
+			Ténèbres (Darkness)/208,Black,notBold,notItalic,open,FitWidth,631,532,0.0
+			Tentacules noirs (Black Tentacles)/209,Black,notBold,notItalic,open,FitWidth,232,89,0.0
+			Terrain hallucinatoire (Hallucinatory Terrain)/209,Black,notBold,notItalic,open,FitWidth,633,89,0.0
+			Terreur (Fear)/209,Black,notBold,notItalic,open,FitWidth,321,532,0.0
+			Texte illusoire (Illusory Script)/209,Black,notBold,notItalic,open,FitWidth,633,532,0.0
+			Thaumaturgie (Thaumaturgy)/210,Black,notBold,notItalic,open,FitWidth,246,89,0.0
+			Toile d’araignée (Web)/210,Black,notBold,notItalic,open,FitWidth,707,89,0.0
+			Trait de feu (Fire Bolt)/210,Black,notBold,notItalic,open,FitWidth,484,532,0.0
+			Tremblement de terre (Earthquake)/210,Black,notBold,notItalic,open,FitWidth,721,532,0.0
+		V/211,Black,notBold,notItalic,closed,FitWidth,91,0,1.0
+			Vague tonnante (Thunderwave)/211,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Vent divin (Wind Walk)/211,Black,notBold,notItalic,open,FitWidth,432,532,0.0
+			Verrou magique (Arcane Lock)/212,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Vision dans le noir (Darkvision)/212,Black,notBold,notItalic,open,FitWidth,428,89,0.0
+			Vision suprême (True Seeing)/212,Black,notBold,notItalic,open,FitWidth,621,89,0.0
+			Voie végétale (Transport via Plants)/212,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Vol (Fly)/212,Black,notBold,notItalic,open,FitWidth,323,532,0.0
+		Z/212,Black,notBold,notItalic,closed,FitWidth,572,0,1.0
+			Zone de vérité (Zone of Truth)/212,Black,notBold,notItalic,open,FitWidth,572,532,0.0
+Guide du maître/214,Black,notBold,notItalic,closed,FitWidth,91,0,1.0
+	Pièges/214,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+		Les pièges en jeu/214,Black,notBold,notItalic,closed,FitWidth,460,89,0.0
+			Déclenchement d’un piège/214,Black,notBold,notItalic,open,FitWidth,554,89,0.0
+			Détection et désarmement d’un piège/214,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Effets des pièges/215,Black,notBold,notItalic,closed,FitWidth,424,89,0.0
+				Table - DD de sauvegarde et bonus d’attaque des pièges/215,Black,notBold,notItalic,open,FitWidth,85,0,1.0
+				Table - Gravité des dégâts par niveau/215,Black,notBold,notItalic,open,FitWidth,206,0,1.0
+			Pièges complexes/215,Black,notBold,notItalic,open,FitWidth,321,532,0.0
+		Exemples de pièges/215,Black,notBold,notItalic,closed,FitWidth,639,532,0.0
+			Aiguille empoisonnée/215,Black,notBold,notItalic,open,FitWidth,720,532,0.0
+			Effondrement de plafond/216,Black,notBold,notItalic,open,FitWidth,246,89,0.0
+			Filet suspendu/216,Black,notBold,notItalic,open,FitWidth,669,89,0.0
+			Fléchettes empoisonnées/216,Black,notBold,notItalic,open,FitWidth,350,532,0.0
+			Fosses/217,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Sphère d’annihilation/217,Black,notBold,notItalic,open,FitWidth,187,532,0.0
+			Sphère roulante/217,Black,notBold,notItalic,open,FitWidth,520,532,0.0
+			Statue au souffle de feu/218,Black,notBold,notItalic,open,FitWidth,321,89,0.0
+	Maladies/218,Black,notBold,notItalic,closed,FitWidth,654,89,0.0
+		Exemples de maladies/218,Black,notBold,notItalic,closed,FitWidth,424,532,0.0
+			Fièvre rieuse/218,Black,notBold,notItalic,open,FitWidth,534,532,0.0
+			Peste des égouts/219,Black,notBold,notItalic,open,FitWidth,336,89,0.0
+			Pourriture oculaire/219,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+	Folie/220,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+		Sombrer dans la folie/220,Black,notBold,notItalic,open,FitWidth,265,89,0.0
+		Effets de la folie/220,Black,notBold,notItalic,closed,FitWidth,492,89,0.0
+			Table - Folies passagères/220,Black,notBold,notItalic,open,FitWidth,756,0,1.0
+			Table - Folies persistantes/220,Black,notBold,notItalic,open,FitWidth,399,0,1.0
+			Table - Folies à durée illimitée/221,Black,notBold,notItalic,open,FitWidth,275,0,1.0
+		Guérir de la folie/221,Black,notBold,notItalic,open,FitWidth,716,89,0.0
+	Objets/222,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+		Profil des objets/222,Black,notBold,notItalic,closed,FitWidth,356,89,0.0
+			Table - Classe d’armure des objets/222,Black,notBold,notItalic,open,FitWidth,542,0,1.0
+			Table - Points de vie des objets/222,Black,notBold,notItalic,open,FitWidth,83,0,1.0
+	Poisons/223,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+		Table - Poisons/223,Black,notBold,notItalic,open,FitWidth,648,0,1.0
+		Exemples de poisons/223,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+	Objets magiques/225,Black,notBold,notItalic,closed,FitWidth,88,0,1.0
+		Harmonisation/225,Black,notBold,notItalic,open,FitWidth,227,89,0.0
+		Porter et manier des objets magiques/225,Black,notBold,notItalic,closed,FitWidth,290,532,0.0
+			Plusieurs objets du même type/226,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			Objets appariés/226,Black,notBold,notItalic,open,FitWidth,260,89,0.0
+		Activer un objet magique/226,Black,notBold,notItalic,closed,FitWidth,385,89,0.0
+			Mot de commande/226,Black,notBold,notItalic,open,FitWidth,591,89,0.0
+			Objets à utilisation unique/226,Black,notBold,notItalic,open,FitWidth,701,89,0.0
+			Sorts/226,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Charges/226,Black,notBold,notItalic,open,FitWidth,497,532,0.0
+		Les objets magiques de A à Z/227,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+			A/227,Black,notBold,notItalic,closed,FitWidth,201,0,1.0
+				Amulettes/227,Black,notBold,notItalic,closed,FitWidth,201,0,1.0
+					Amulette d’antidétection/227,Black,notBold,notItalic,open,FitWidth,201,89,0.0
+					Amulette de bonne santé/227,Black,notBold,notItalic,open,FitWidth,327,89,0.0
+					Amulette de cicatrisation/227,Black,notBold,notItalic,open,FitWidth,438,89,0.0
+					Amulette de protection contre le poison/227,Black,notBold,notItalic,open,FitWidth,593,89,0.0
+					Amulette de santé/227,Black,notBold,notItalic,open,FitWidth,735,89,0.0
+					Amulette des plans/227,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Anneaux/227,Black,notBold,notItalic,closed,FitWidth,302,0,1.0
+					Anneau d’action libre/227,Black,notBold,notItalic,open,FitWidth,302,532,0.0
+					Anneau d’esquive totale/227,Black,notBold,notItalic,open,FitWidth,414,532,0.0
+					Anneau d’influence animale/227,Black,notBold,notItalic,open,FitWidth,554,532,0.0
+					Anneau d’invisibilité/227,Black,notBold,notItalic,open,FitWidth,746,532,0.0
+					Anneau de barrière mentale/228,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+					Anneau de chaleur constante/228,Black,notBold,notItalic,open,FitWidth,420,89,0.0
+					Anneau de convocation de djinn/228,Black,notBold,notItalic,open,FitWidth,532,89,0.0
+					Anneau de feu d’étoiles/228,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+					Anneau de feuille morte/229,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+					Anneau de maîtrise élémentaire/229,Black,notBold,notItalic,open,FitWidth,184,89,0.0
+					Anneau de marche sur l’eau/229,Black,notBold,notItalic,open,FitWidth,759,532,0.0
+					Anneau de nage/230,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+					Anneau de protection/230,Black,notBold,notItalic,open,FitWidth,169,89,0.0
+					Anneau de rayons X/230,Black,notBold,notItalic,open,FitWidth,251,89,0.0
+					Anneau de régénération/230,Black,notBold,notItalic,open,FitWidth,525,89,0.0
+					Anneau de renvoi des sorts/230,Black,notBold,notItalic,open,FitWidth,696,89,0.0
+					Anneau de résistance/230,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+					Anneau de saut/230,Black,notBold,notItalic,open,FitWidth,351,532,0.0
+					Anneau de stockage de sort/230,Black,notBold,notItalic,open,FitWidth,456,532,0.0
+					Anneau de télékinésie/231,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+					Anneau de triple souhait/231,Black,notBold,notItalic,open,FitWidth,184,89,0.0
+					Anneau du bélier/231,Black,notBold,notItalic,open,FitWidth,311,89,0.0
+				Arc du serment/231,Black,notBold,notItalic,open,FitWidth,598,89,0.0
+				Arme vicieuse/231,Black,notBold,notItalic,open,FitWidth,246,532,0.0
+				Arme +1, +2 ou +3/231,Black,notBold,notItalic,open,FitWidth,343,532,0.0
+				Armures/231,Black,notBold,notItalic,closed,FitWidth,455,0,1.0
+					Armure d’adamantium/231,Black,notBold,notItalic,open,FitWidth,455,532,0.0
+					Armure d’écailles de dragon/231,Black,notBold,notItalic,open,FitWidth,581,532,0.0
+					Armure d’invulnérabilité/232,Black,notBold,notItalic,open,FitWidth,285,89,0.0
+					Armure de cuir clouté enchantée/232,Black,notBold,notItalic,open,FitWidth,448,89,0.0
+					Armure de mithral/232,Black,notBold,notItalic,open,FitWidth,649,89,0.0
+					Armure de résistance/232,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+					Armure de vulnérabilité/232,Black,notBold,notItalic,open,FitWidth,297,532,0.0
+					Armure démoniaque/232,Black,notBold,notItalic,open,FitWidth,578,532,0.0
+					Armure +1, +2 ou +3/233,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			B/233,Black,notBold,notItalic,closed,FitWidth,184,0,1.0
+				Baguettes/233,Black,notBold,notItalic,closed,FitWidth,184,0,1.0
+					Baguette d’éclairs/233,Black,notBold,notItalic,open,FitWidth,184,89,0.0
+					Baguette de boules de feu/233,Black,notBold,notItalic,open,FitWidth,428,89,0.0
+					Baguette de détection de l’ennemi/233,Black,notBold,notItalic,open,FitWidth,673,89,0.0
+					Baguette de détection de la magie/233,Black,notBold,notItalic,open,FitWidth,217,532,0.0
+					Baguette de métamorphose/233,Black,notBold,notItalic,open,FitWidth,343,532,0.0
+					Baguette de paralysie/233,Black,notBold,notItalic,open,FitWidth,529,532,0.0
+					Baguette de projectiles magiques/234,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+					Baguette de terreur/234,Black,notBold,notItalic,open,FitWidth,304,89,0.0
+					Baguette des entraves/234,Black,notBold,notItalic,open,FitWidth,754,89,0.0
+					Baguette des merveilles/234,Black,notBold,notItalic,open,FitWidth,277,532,0.0
+					Baguette des secrets/235,Black,notBold,notItalic,open,FitWidth,369,532,0.0
+					Baguette des toiles/235,Black,notBold,notItalic,open,FitWidth,547,532,0.0
+					Baguette du mage de guerre +1, +2 ou +3/235,Black,notBold,notItalic,open,FitWidth,732,532,0.0
+				Balai volant/236,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Bandeau d’intelligence/236,Black,notBold,notItalic,open,FitWidth,376,89,0.0
+				Bateau pliable/236,Black,notBold,notItalic,open,FitWidth,487,89,0.0
+				Bâtons/236,Black,notBold,notItalic,closed,FitWidth,261,0,1.0
+					Bâton d’envoûtement/236,Black,notBold,notItalic,open,FitWidth,261,532,0.0
+					Bâton de feu/236,Black,notBold,notItalic,open,FitWidth,625,532,0.0
+					Bâton de flétrissement/237,Black,notBold,notItalic,open,FitWidth,158,89,0.0
+					Bâton de givre/237,Black,notBold,notItalic,open,FitWidth,403,89,0.0
+					Bâton de guérison/237,Black,notBold,notItalic,open,FitWidth,662,89,0.0
+					Bâton de surpuissance/237,Black,notBold,notItalic,open,FitWidth,173,532,0.0
+					Bâton de tonnerre et de foudre/238,Black,notBold,notItalic,open,FitWidth,188,89,0.0
+					Bâton des forêts/238,Black,notBold,notItalic,open,FitWidth,780,89,0.0
+					Bâton du grand essaim/238,Black,notBold,notItalic,open,FitWidth,557,532,0.0
+					Bâton du python/239,Black,notBold,notItalic,open,FitWidth,187,89,0.0
+					Bâton du thaumaturge/239,Black,notBold,notItalic,open,FitWidth,566,89,0.0
+					Bâton percussif/240,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Baume revigorant/240,Black,notBold,notItalic,open,FitWidth,317,89,0.0
+				Bottes/240,Black,notBold,notItalic,closed,FitWidth,503,0,1.0
+					Bottes ailées/240,Black,notBold,notItalic,open,FitWidth,503,89,0.0
+					Bottes de lévitation/240,Black,notBold,notItalic,open,FitWidth,717,89,0.0
+					Bottes de rapidité/240,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+					Bottes de sept lieues/240,Black,notBold,notItalic,open,FitWidth,302,532,0.0
+					Bottes des terres gelées/240,Black,notBold,notItalic,open,FitWidth,472,532,0.0
+					Bottes elfiques/240,Black,notBold,notItalic,open,FitWidth,708,532,0.0
+				Boucliers/240,Black,notBold,notItalic,closed,FitWidth,503,0,1.0
+					Bouclier animé/241,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+					Bouclier antiprojectiles/241,Black,notBold,notItalic,open,FitWidth,288,89,0.0
+					Bouclier d’attraction des projectiles/241,Black,notBold,notItalic,open,FitWidth,458,89,0.0
+					Bouclier gardesort/241,Black,notBold,notItalic,open,FitWidth,673,89,0.0
+					Bouclier +1, +2 ou +3/241,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Boule de cristal/241,Black,notBold,notItalic,open,FitWidth,217,532,0.0
+				Bouteille du mauvais génie/242,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Bracelets d’archer/242,Black,notBold,notItalic,open,FitWidth,480,89,0.0
+				Bracelets de défense/242,Black,notBold,notItalic,open,FitWidth,614,89,0.0
+				Brasero de contrôle des élémentaires du feu/242,Black,notBold,notItalic,open,FitWidth,710,89,0.0
+				Broche de défense/242,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			C/242,Black,notBold,notItalic,closed,FitWidth,184,0,1.0
+				Capes/242,Black,notBold,notItalic,closed,FitWidth,184,0,1.0
+					Cape de déplacement/242,Black,notBold,notItalic,open,FitWidth,184,532,0.0
+					Cape de l’arachnide/242,Black,notBold,notItalic,open,FitWidth,369,532,0.0
+					Cape de la chauve-souris/242,Black,notBold,notItalic,open,FitWidth,710,532,0.0
+					Cape de la raie manta/243,Black,notBold,notItalic,open,FitWidth,217,89,0.0
+					Cape de prestidigitateur/243,Black,notBold,notItalic,open,FitWidth,328,89,0.0
+					Cape de protection/243,Black,notBold,notItalic,open,FitWidth,558,89,0.0
+					Cape de vol/243,Black,notBold,notItalic,open,FitWidth,655,89,0.0
+					Cape elfique/243,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Carafe intarissable/243,Black,notBold,notItalic,open,FitWidth,258,532,0.0
+				Carillon d’ouverture/243,Black,notBold,notItalic,open,FitWidth,657,532,0.0
+				Carquois efficace/244,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Ceinturon de force de géant/244,Black,notBold,notItalic,open,FitWidth,332,89,0.0
+				Ceinturon des nains/244,Black,notBold,notItalic,open,FitWidth,630,89,0.0
+				Chapeau de déguisement/244,Black,notBold,notItalic,open,FitWidth,208,532,0.0
+				Chapelet mystique/244,Black,notBold,notItalic,open,FitWidth,338,532,0.0
+				Chaussons de l’araignée/245,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Chemise de mailles elfique/245,Black,notBold,notItalic,open,FitWidth,273,89,0.0
+				Cierge d’invocation/245,Black,notBold,notItalic,open,FitWidth,399,89,0.0
+				Cimeterre de célérité/245,Black,notBold,notItalic,open,FitWidth,173,532,0.0
+				Colle universelle/245,Black,notBold,notItalic,open,FitWidth,284,532,0.0
+				Collier d’adaptation/245,Black,notBold,notItalic,open,FitWidth,499,532,0.0
+				Collier de boules de feu/245,Black,notBold,notItalic,open,FitWidth,669,532,0.0
+				Cor de dévastation/246,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Cor du Valhalla/246,Black,notBold,notItalic,open,FitWidth,361,89,0.0
+				Corde d’ascension/246,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Corde d’enchevêtrement/246,Black,notBold,notItalic,open,FitWidth,495,532,0.0
+				Cube de force/247,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Cube des plans/247,Black,notBold,notItalic,open,FitWidth,174,532,0.0
+			D/247,Black,notBold,notItalic,closed,FitWidth,471,0,1.0
+				Dague venimeuse/247,Black,notBold,notItalic,open,FitWidth,471,532,0.0
+				Diadème de destruction/247,Black,notBold,notItalic,open,FitWidth,686,532,0.0
+			E/248,Black,notBold,notItalic,closed,FitWidth,91,0,1.0
+				Encensoir de contrôle des élémentaires de l’air/248,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Epées/248,Black,notBold,notItalic,closed,FitWidth,292,0,1.0
+					Épée acérée/248,Black,notBold,notItalic,open,FitWidth,292,89,0.0
+					Épée ardente/248,Black,notBold,notItalic,open,FitWidth,595,89,0.0
+					Épée dansante/248,Black,notBold,notItalic,open,FitWidth,780,89,0.0
+					Épée mordante/248,Black,notBold,notItalic,open,FitWidth,394,532,0.0
+					Épée radieuse/248,Black,notBold,notItalic,open,FitWidth,683,532,0.0
+					Épée voleuse de vie/249,Black,notBold,notItalic,open,FitWidth,290,89,0.0
+					Épée vorpale/249,Black,notBold,notItalic,open,FitWidth,432,89,0.0
+				Éventail enchanté/249,Black,notBold,notItalic,open,FitWidth,736,89,0.0
+			F/249,Black,notBold,notItalic,closed,FitWidth,158,0,1.0
+				Fer gelé/249,Black,notBold,notItalic,open,FitWidth,158,532,0.0
+				Fers de rapidité/249,Black,notBold,notItalic,open,FitWidth,388,532,0.0
+				Fers du zéphyr/249,Black,notBold,notItalic,open,FitWidth,499,532,0.0
+				Figurine merveilleuse/249,Black,notBold,notItalic,closed,FitWidth,715,532,0.0
+					Mouche géante/251,Black,notBold,notItalic,open,FitWidth,369,89,0.0
+				Flasque de fer/251,Black,notBold,notItalic,open,FitWidth,557,89,0.0
+				Flèche tueuse/251,Black,notBold,notItalic,open,FitWidth,626,532,0.0
+				Flûte des égouts/252,Black,notBold,notItalic,open,FitWidth,187,89,0.0
+				Flûte terrifiante/252,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Forteresse instantanée/252,Black,notBold,notItalic,open,FitWidth,391,532,0.0
+			G/253,Black,notBold,notItalic,closed,FitWidth,246,0,1.0
+				Gantelets de puissance d’ogre/253,Black,notBold,notItalic,open,FitWidth,246,89,0.0
+				Gants de nage et d’escalade/253,Black,notBold,notItalic,open,FitWidth,372,89,0.0
+				Gants piégeurs de projectiles/253,Black,notBold,notItalic,open,FitWidth,499,89,0.0
+				Gardienne/253,Black,notBold,notItalic,open,FitWidth,699,89,0.0
+				Gemme d’illumination/253,Black,notBold,notItalic,open,FitWidth,158,532,0.0
+				Gemme élémentaire/253,Black,notBold,notItalic,open,FitWidth,638,532,0.0
+				Gemme de vision/254,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			H/254,Black,notBold,notItalic,closed,FitWidth,242,0,1.0
+				Hache du berserker/254,Black,notBold,notItalic,open,FitWidth,242,89,0.0
+				Harnois éthéré/254,Black,notBold,notItalic,open,FitWidth,710,89,0.0
+				Harnois nain/254,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Havresac magique/254,Black,notBold,notItalic,open,FitWidth,213,532,0.0
+				Heaume de compréhension des langues/255,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Heaume de télépathie/255,Black,notBold,notItalic,open,FitWidth,184,89,0.0
+				Heaume de téléportation/255,Black,notBold,notItalic,open,FitWidth,458,89,0.0
+				Heaume scintillant/255,Black,notBold,notItalic,open,FitWidth,585,89,0.0
+				Huile d’affûtage/255,Black,notBold,notItalic,open,FitWidth,548,532,0.0
+				Huile d’insaisissabilité/255,Black,notBold,notItalic,open,FitWidth,720,532,0.0
+				Huile éthérée/256,Black,notBold,notItalic,open,FitWidth,158,89,0.0
+			J/256,Black,notBold,notItalic,closed,FitWidth,343,0,1.0
+				Jatte de contrôle des élémentaires de l’eau/256,Black,notBold,notItalic,open,FitWidth,343,89,0.0
+				Javeline de foudre/256,Black,notBold,notItalic,open,FitWidth,529,89,0.0
+			L/256,Black,notBold,notItalic,closed,FitWidth,91,0,1.0
+				Lame porte-bonheur/256,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Lanterne de révélation/256,Black,notBold,notItalic,open,FitWidth,395,532,0.0
+				Lentilles de netteté/256,Black,notBold,notItalic,open,FitWidth,566,532,0.0
+				Liens de fer/256,Black,notBold,notItalic,open,FitWidth,707,532,0.0
+				Lunettes du nyctalope/257,Black,notBold,notItalic,open,FitWidth,336,89,0.0
+			M/257,Black,notBold,notItalic,closed,FitWidth,447,0,1.0
+				Manteau de résistance aux sorts/257,Black,notBold,notItalic,open,FitWidth,447,89,0.0
+				Manuel d’exercices physiques/257,Black,notBold,notItalic,open,FitWidth,529,89,0.0
+				Manuel de vitalité/257,Black,notBold,notItalic,open,FitWidth,699,89,0.0
+				Manuel de vivacité/257,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Manuel des golems/257,Black,notBold,notItalic,open,FitWidth,273,532,0.0
+				Marteau de lancer nain/257,Black,notBold,notItalic,open,FitWidth,698,532,0.0
+				Marteau de tonnerre/258,Black,notBold,notItalic,open,FitWidth,158,89,0.0
+				Masse d’anéantissement/258,Black,notBold,notItalic,open,FitWidth,625,89,0.0
+				Masse destructrice/258,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Masse terrifiante/258,Black,notBold,notItalic,open,FitWidth,288,532,0.0
+				Médaillon des pensées/258,Black,notBold,notItalic,open,FitWidth,621,532,0.0
+				Menottes dimensionnelles/259,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Miroir d’emprisonnement/259,Black,notBold,notItalic,open,FitWidth,361,89,0.0
+				Munitions +1, +2 ou +3/259,Black,notBold,notItalic,open,FitWidth,424,532,0.0
+			P/259,Black,notBold,notItalic,closed,FitWidth,566,0,1.0
+				Parchemin de sort/259,Black,notBold,notItalic,open,FitWidth,566,532,0.0
+				Perle de force/260,Black,notBold,notItalic,open,FitWidth,505,89,0.0
+				Perle de thaumaturgie/260,Black,notBold,notItalic,open,FitWidth,187,532,0.0
+				Philtre d’amour/260,Black,notBold,notItalic,open,FitWidth,359,532,0.0
+				Pierre de contrôle des élémentaires de la terre/260,Black,notBold,notItalic,open,FitWidth,543,532,0.0
+				Pierre de Ioun/260,Black,notBold,notItalic,open,FitWidth,703,532,0.0
+				Pierre porte-bonheur/261,Black,notBold,notItalic,open,FitWidth,706,532,0.0
+				Pigments merveilleux/262,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Plume magique/262,Black,notBold,notItalic,open,FitWidth,643,89,0.0
+				Potions/263,Black,notBold,notItalic,closed,FitWidth,290,0,1.0
+					Potion d’agrandissement/263,Black,notBold,notItalic,open,FitWidth,290,89,0.0
+					Potion d’amitié avec les animaux/263,Black,notBold,notItalic,open,FitWidth,462,89,0.0
+					Potion d’escalade/263,Black,notBold,notItalic,open,FitWidth,602,89,0.0
+					Potion d’héroïsme/263,Black,notBold,notItalic,open,FitWidth,773,89,0.0
+					Potion d’invisibilité/263,Black,notBold,notItalic,open,FitWidth,128,532,0.0
+					Potion de clairvoyance/263,Black,notBold,notItalic,open,FitWidth,284,532,0.0
+					Potion de diminution/263,Black,notBold,notItalic,open,FitWidth,395,532,0.0
+					Potion de force de géant/263,Black,notBold,notItalic,open,FitWidth,566,532,0.0
+					Potion de forme gazeuse/264,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+					Potion de guérison/264,Black,notBold,notItalic,open,FitWidth,229,89,0.0
+					Potion de lecture des pensées/264,Black,notBold,notItalic,open,FitWidth,463,89,0.0
+					Potion de résistance/264,Black,notBold,notItalic,open,FitWidth,582,89,0.0
+					Potion de respiration aquatique/264,Black,notBold,notItalic,open,FitWidth,777,89,0.0
+					Potion de vitesse/264,Black,notBold,notItalic,open,FitWidth,128,532,0.0
+					Potion de vol/264,Black,notBold,notItalic,open,FitWidth,240,532,0.0
+					Potion toxique/264,Black,notBold,notItalic,open,FitWidth,426,532,0.0
+				Poudre à éternuer/264,Black,notBold,notItalic,open,FitWidth,699,532,0.0
+				Poudre dessiccative/265,Black,notBold,notItalic,open,FitWidth,202,89,0.0
+				Poussière de disparition/265,Black,notBold,notItalic,open,FitWidth,506,89,0.0
+				Puits des mondes/265,Black,notBold,notItalic,open,FitWidth,706,89,0.0
+				Puits portable/265,Black,notBold,notItalic,open,FitWidth,158,532,0.0
+			R/266,Black,notBold,notItalic,closed,FitWidth,0,0,1.0
+				Regard charmeur/265,Black,notBold,notItalic,open,FitWidth,742,532,0.0
+				Robe aux étoiles/266,Black,notBold,notItalic,open,FitWidth,128,89,0.0
+				Robe de camelot/266,Black,notBold,notItalic,open,FitWidth,447,89,0.0
+				Robe de l’archimage/266,Black,notBold,notItalic,open,FitWidth,314,532,0.0
+				Robe de vision totale/266,Black,notBold,notItalic,open,FitWidth,646,532,0.0
+				Robe prismatique/267,Black,notBold,notItalic,open,FitWidth,277,89,0.0
+			S/267,Black,notBold,notItalic,closed,FitWidth,551,0,1.0
+				Sacs/267,Black,notBold,notItalic,closed,FitWidth,551,0,1.0
+					Sac à malices/267,Black,notBold,notItalic,open,FitWidth,551,89,0.0
+					Sac de haricots magiques/267,Black,notBold,notItalic,open,FitWidth,626,532,0.0
+					Sac dévoreur/268,Black,notBold,notItalic,open,FitWidth,244,532,0.0
+					Sac sans fond/268,Black,notBold,notItalic,open,FitWidth,747,532,0.0
+				Scarabée de protection/269,Black,notBold,notItalic,open,FitWidth,409,89,0.0
+				Sceptres/269,Black,notBold,notItalic,closed,FitWidth,659,0,1.0
+					Sceptre d’absorption/269,Black,notBold,notItalic,open,FitWidth,659,89,0.0
+					Sceptre de puissance seigneuriale/269,Black,notBold,notItalic,open,FitWidth,394,532,0.0
+					Sceptre de sécurité/270,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+					Sceptre de suzeraineté/270,Black,notBold,notItalic,open,FitWidth,587,532,0.0
+					Sceptre inamovible/271,Black,notBold,notItalic,open,FitWidth,480,89,0.0
+					Sceptre de vigilance/271,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Solvant universel/271,Black,notBold,notItalic,open,FitWidth,710,89,0.0
+				Sphère d’annihilation/271,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Submersible du Crabe/272,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+			T/272,Black,notBold,notItalic,closed,FitWidth,521,0,1.0
+				Talisman de la sphère/272,Black,notBold,notItalic,open,FitWidth,521,532,0.0
+				Talisman du bien ultime/272,Black,notBold,notItalic,open,FitWidth,699,532,0.0
+				Talisman du mal absolu/273,Black,notBold,notItalic,open,FitWidth,350,89,0.0
+				Tapis volant/273,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Tarot fantasmagorique/273,Black,notBold,notItalic,open,FitWidth,398,532,0.0
+				Tarot merveilleux/274,Black,notBold,notItalic,closed,FitWidth,601,89,0.0
+					Avatar de la mort/275,Black,notBold,notItalic,open,FitWidth,336,532,0.0
+				Traité d’autorité et d’influence/276,Black,notBold,notItalic,open,FitWidth,543,532,0.0
+				Traité de compréhension/276,Black,notBold,notItalic,open,FitWidth,713,532,0.0
+				Traité de perspicacité/277,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Trident de domination aquatique/277,Black,notBold,notItalic,open,FitWidth,258,89,0.0
+				Tueuse de dragons/277,Black,notBold,notItalic,open,FitWidth,414,89,0.0
+				Tueuse de géants/277,Black,notBold,notItalic,open,FitWidth,569,89,0.0
+			U/278,Black,notBold,notItalic,closed,FitWidth,0,0,1.0
+				Urne fumigène/277,Black,notBold,notItalic,open,FitWidth,755,89,0.0
+			V/277,Black,notBold,notItalic,closed,FitWidth,277,0,1.0
+				Vengeresse sacrée/277,Black,notBold,notItalic,open,FitWidth,277,532,0.0
+				Voleuse de vie/277,Black,notBold,notItalic,open,FitWidth,520,532,0.0
+			Y/278,Black,notBold,notItalic,closed,FitWidth,0,0,1.0
+				Yeux de lynx/277,Black,notBold,notItalic,open,FitWidth,736,532,0.0
+		Les objets magiques intelligents/278,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+			La création d’objets magiques intelligents/278,Black,notBold,notItalic,closed,FitWidth,495,89,0.0
+				Caractéristiques/278,Black,notBold,notItalic,open,FitWidth,611,89,0.0
+				Modes de communication/278,Black,notBold,notItalic,closed,FitWidth,730,89,0.0
+					Table - Mode de communication/279,Black,notBold,notItalic,open,FitWidth,83,0,1.0
+				Sens/279,Black,notBold,notItalic,closed,FitWidth,216,89,0.0
+					Table - Sens/279,Black,notBold,notItalic,open,FitWidth,322,0,1.0
+				Alignement/279,Black,notBold,notItalic,closed,FitWidth,396,89,0.0
+					Table - Alignement/279,Black,notBold,notItalic,open,FitWidth,500,0,1.0
+				Dessein spécial/279,Black,notBold,notItalic,closed,FitWidth,592,89,0.0
+					Table - Dessein/279,Black,notBold,notItalic,open,FitWidth,775,0,1.0
+			Conflits/279,Black,notBold,notItalic,open,FitWidth,432,532,0.0
+		Les artefacts/280,Black,notBold,notItalic,closed,FitWidth,277,89,0.0
+			L’orbe des dragons/280,Black,notBold,notItalic,open,FitWidth,312,89,0.0
+Manuel des Monstres/281,Black,notBold,notItalic,open,FitWidth,87,0,1.0
+	Monstres/281,Black,notBold,notItalic,closed,FitWidth,87,0,1.0
+		Catégorie de taille/281,Black,notBold,notItalic,closed,FitWidth,198,89,0.0
+			Table - Catégories de taille/281,Black,notBold,notItalic,open,FitWidth,333,0,1.0
+			Modifier des créatures/281,Black,notBold,notItalic,open,FitWidth,538,89,0.0
+		Type/281,Black,notBold,notItalic,closed,FitWidth,726,89,0.0
+			Aberrations/281,Black,notBold,notItalic,open,FitWidth,150,0,1.0
+			Artificiels/281,Black,notBold,notItalic,open,FitWidth,254,0,1.0
+			Bêtes/281,Black,notBold,notItalic,open,FitWidth,402,0,1.0
+			Célestes/281,Black,notBold,notItalic,open,FitWidth,535,0,1.0
+			Dragons/281,Black,notBold,notItalic,open,FitWidth,654,0,1.0
+			Elémentaires/281,Black,notBold,notItalic,open,FitWidth,802,0,1.0
+			Fées/282,Black,notBold,notItalic,open,FitWidth,152,0,1.0
+			Fiélons/282,Black,notBold,notItalic,open,FitWidth,269,0,1.0
+			Géants/282,Black,notBold,notItalic,open,FitWidth,417,0,1.0
+			Humanoïdes/282,Black,notBold,notItalic,open,FitWidth,566,0,1.0
+			Monstruosités/282,Black,notBold,notItalic,open,FitWidth,787,0,1.0
+			Morts-vivants/283,Black,notBold,notItalic,open,FitWidth,152,0,1.0
+			Plantes/283,Black,notBold,notItalic,open,FitWidth,253,0,1.0
+			Vases/283,Black,notBold,notItalic,open,FitWidth,359,0,1.0
+			Sous-types/283,Black,notBold,notItalic,open,FitWidth,453,89,0.0
+		Alignement/283,Black,notBold,notItalic,open,FitWidth,646,89,0.0
+		Classe d’armure/283,Black,notBold,notItalic,open,FitWidth,306,532,0.0
+		Points de vie/283,Black,notBold,notItalic,closed,FitWidth,461,532,0.0
+			Table - Dés de vie par taille/283,Black,notBold,notItalic,open,FitWidth,640,0,1.0
+		Vitesse/284,Black,notBold,notItalic,closed,FitWidth,143,89,0.0
+			Escalade/284,Black,notBold,notItalic,open,FitWidth,312,89,0.0
+			Fouissement/284,Black,notBold,notItalic,open,FitWidth,417,89,0.0
+			Nage/284,Black,notBold,notItalic,open,FitWidth,520,89,0.0
+			Vol/284,Black,notBold,notItalic,open,FitWidth,595,89,0.0
+		Valeurs de caractéristique/284,Black,notBold,notItalic,open,FitWidth,727,89,0.0
+		Jets de sauvegarde/284,Black,notBold,notItalic,closed,FitWidth,91,532,0.0
+			Table - Bonus de maîtrise par facteur de puissance/284,Black,notBold,notItalic,open,FitWidth,332,0,1.0
+		Compétences/284,Black,notBold,notItalic,open,FitWidth,646,532,0.0
+		Vulnérabilités, résistances et immunités/285,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		Sens/285,Black,notBold,notItalic,closed,FitWidth,266,89,0.0
+			Perception des vibrations/285,Black,notBold,notItalic,open,FitWidth,362,89,0.0
+			Vision aveugle/285,Black,notBold,notItalic,open,FitWidth,540,89,0.0
+			Vision dans le noir/285,Black,notBold,notItalic,open,FitWidth,747,89,0.0
+			Maîtrises d’armure, d’arme et d’outils/285,Black,notBold,notItalic,open,FitWidth,128,532,0.0
+			Vision lucide/285,Black,notBold,notItalic,open,FitWidth,326,532,0.0
+		Langues/285,Black,notBold,notItalic,closed,FitWidth,477,532,0.0
+			Télépathie/285,Black,notBold,notItalic,open,FitWidth,587,532,0.0
+		Facteur de puissance (FP)/286,Black,notBold,notItalic,closed,FitWidth,246,89,0.0
+			Points d’expérience/286,Black,notBold,notItalic,open,FitWidth,609,89,0.0
+				Table - Points d’expérience par facteur de puissance/287,Black,notBold,notItalic,open,FitWidth,81,0,1.0
+		Traits spéciaux/287,Black,notBold,notItalic,closed,FitWidth,389,89,0.0
+			Sorts innés/287,Black,notBold,notItalic,open,FitWidth,499,89,0.0
+			Sorts/287,Black,notBold,notItalic,open,FitWidth,780,89,0.0
+			Psionique/287,Black,notBold,notItalic,open,FitWidth,439,532,0.0
+		Actions/287,Black,notBold,notItalic,closed,FitWidth,587,532,0.0
+			Attaques de corps à corps et à distance/287,Black,notBold,notItalic,open,FitWidth,697,532,0.0
+			Attaques multiples/288,Black,notBold,notItalic,open,FitWidth,306,89,0.0
+			Munitions/288,Black,notBold,notItalic,open,FitWidth,409,89,0.0
+		Réactions/288,Black,notBold,notItalic,open,FitWidth,514,89,0.0
+		Usage limité/288,Black,notBold,notItalic,closed,FitWidth,624,89,0.0
+			Règles de lutte pour les monstres/288,Black,notBold,notItalic,open,FitWidth,365,532,0.0
+		Équipement/288,Black,notBold,notItalic,open,FitWidth,548,532,0.0
+	Créatures légendaires/289,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+		Actions légendaires/289,Black,notBold,notItalic,open,FitWidth,259,89,0.0
+		L’antre d’une créature légendaire/289,Black,notBold,notItalic,closed,FitWidth,458,89,0.0
+			Actions d’antre/289,Black,notBold,notItalic,open,FitWidth,583,89,0.0
+			Effets régionaux/289,Black,notBold,notItalic,open,FitWidth,746,89,0.0
+	Monstres (A)/290,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+		Aboleth (Aboleth)/290,Black,notBold,notItalic,open,FitWidth,145,89,0.0
+		Âme-en-peine (Wraith)/290,Black,notBold,notItalic,open,FitWidth,723,532,0.0
+		Anges (Angels)/291,Black,notBold,notItalic,closed,FitWidth,751,89,0.0
+			Déva (Deva)/291,Black,notBold,notItalic,open,FitWidth,779,89,0.0
+			Planétar (Planetar)/292,Black,notBold,notItalic,open,FitWidth,187,89,0.0
+			Solar (Solar)/292,Black,notBold,notItalic,open,FitWidth,294,532,0.0
+		Ankheg (Ankheg)/293,Black,notBold,notItalic,open,FitWidth,202,532,0.0
+		Azer (Azer)/294,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+	Monstres (B)/294,Black,notBold,notItalic,closed,FitWidth,673,89,0.0
+		Babélien (Gibbering Mouther)/294,Black,notBold,notItalic,open,FitWidth,735,89,0.0
+		Basilic (Basilik)/295,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		Béhir (Behir)/295,Black,notBold,notItalic,open,FitWidth,765,89,0.0
+		Bulette (Bulette)/296,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+	Monstres (C)/296,Black,notBold,notItalic,closed,FitWidth,737,89,0.0
+		Centaure (Centaur)/296,Black,notBold,notItalic,open,FitWidth,799,89,0.0
+		Champignons (Fungi)/296,Black,notBold,notItalic,closed,FitWidth,554,532,0.0
+			Criard (Shrieker)/296,Black,notBold,notItalic,open,FitWidth,582,532,0.0
+			Thallophyte violette (Violet Fungus)/297,Black,notBold,notItalic,open,FitWidth,210,89,0.0
+		Chimère (Chimera)/297,Black,notBold,notItalic,open,FitWidth,676,89,0.0
+		Cockatrice (Cockatrice)/297,Black,notBold,notItalic,open,FitWidth,476,532,0.0
+		Couatl (Couatl)/298,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		Cthuul (Chuul)/298,Black,notBold,notItalic,open,FitWidth,391,532,0.0
+	Monstres (D)/299,Black,notBold,notItalic,closed,FitWidth,299,89,0.0
+		Demi-dragon (archétype) (Half-Dragon template)/299,Black,notBold,notItalic,closed,FitWidth,361,89,0.0
+			Table - Couleur Résistance aux dégâts/299,Black,notBold,notItalic,open,FitWidth,600,0,1.0
+			Table - Catégorie de taille/299,Black,notBold,notItalic,open,FitWidth,784,0,1.0
+			Vétéran demi-dragon rouge (Half-Red Dragon Veteran)/299,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+		Démons (Demons)/299,Black,notBold,notItalic,closed,FitWidth,699,532,0.0
+			Balor (Balor)/299,Black,notBold,notItalic,open,FitWidth,729,532,0.0
+			Dretch (Dretch)/300,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Glabrezu (Glabrezu)/300,Black,notBold,notItalic,open,FitWidth,730,532,0.0
+			Hezrou (Hezrou)/301,Black,notBold,notItalic,open,FitWidth,706,89,0.0
+			Marilith (Marilith)/301,Black,notBold,notItalic,open,FitWidth,574,532,0.0
+			Nalfeshnie (Nalfeshnie)/302,Black,notBold,notItalic,open,FitWidth,616,89,0.0
+			Quasit (Quasit)/302,Black,notBold,notItalic,open,FitWidth,619,532,0.0
+			Vrock (Vrock)/303,Black,notBold,notItalic,open,FitWidth,696,89,0.0
+		Diables (Devils)/303,Black,notBold,notItalic,closed,FitWidth,749,532,0.0
+			Diable barbelé (Barbed Devil)/303,Black,notBold,notItalic,open,FitWidth,777,532,0.0
+			Diable barbu (Bearded Devil)/304,Black,notBold,notItalic,open,FitWidth,739,89,0.0
+			Diable cornu (Horned Devil)/304,Black,notBold,notItalic,open,FitWidth,809,532,0.0
+			Diable des chaînes (Chain Devil)/305,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Diable gelé (Ice Devil)/306,Black,notBold,notItalic,open,FitWidth,350,89,0.0
+			Diable osseux (Bone Devil)/306,Black,notBold,notItalic,open,FitWidth,626,532,0.0
+			Diablotin (Imp)/307,Black,notBold,notItalic,open,FitWidth,515,89,0.0
+			Diantrefosse (Pit Fiend)/307,Black,notBold,notItalic,open,FitWidth,515,532,0.0
+			Érinye (Erinyes)/308,Black,notBold,notItalic,open,FitWidth,780,89,0.0
+			Lémure (Lemure)/308,Black,notBold,notItalic,open,FitWidth,778,532,0.0
+		Dinosaures (Dinosaurs)/309,Black,notBold,notItalic,closed,FitWidth,484,89,0.0
+			Plésiosaure (Plesiosaurus)/309,Black,notBold,notItalic,open,FitWidth,511,89,0.0
+			Tricératops (Triceratops)/309,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Tyrannosaure (Tyrannosaurus Rex)/309,Black,notBold,notItalic,open,FitWidth,581,532,0.0
+		Doppelganger (Doppleganger)/310,Black,notBold,notItalic,open,FitWidth,326,89,0.0
+		Dragons chromatiques (Dragons, Chromatic)/310,Black,notBold,notItalic,closed,FitWidth,345,532,0.0
+			Dragon blanc (White Dragon)/310,Black,notBold,notItalic,closed,FitWidth,374,532,0.0
+				Dragon blanc vénérable (Ancient White Dragon)/310,Black,notBold,notItalic,open,FitWidth,419,532,0.0
+				Dragon blanc adulte (Adult White Dragon)/311,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Jeune dragon blanc (Young White Dragon)/312,Black,notBold,notItalic,open,FitWidth,534,89,0.0
+				Dragonnet blanc (White Dragon Wyrmling)/312,Black,notBold,notItalic,open,FitWidth,438,532,0.0
+			Dragon bleu (Blue Dragon)/313,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+				Dragon bleu vénérable (Ancient Blue Dragon)/313,Black,notBold,notItalic,open,FitWidth,140,89,0.0
+				Dragon bleu adulte (Adult Blue Dragon)/313,Black,notBold,notItalic,open,FitWidth,496,532,0.0
+				Jeune dragon bleu (Young Blue Dragon)/314,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Dragonnet bleu (Blue Dragon Wyrmling)/314,Black,notBold,notItalic,open,FitWidth,653,532,0.0
+			Dragon noir (Black Dragon)/315,Black,notBold,notItalic,closed,FitWidth,357,89,0.0
+				Dragon noir vénérable (Ancient Black Dragon)/315,Black,notBold,notItalic,open,FitWidth,407,89,0.0
+				Dragon noir adulte (Adult Black Dragon)/315,Black,notBold,notItalic,open,FitWidth,804,532,0.0
+				Jeune dragon noir (Young Black Dragon)/316,Black,notBold,notItalic,open,FitWidth,390,532,0.0
+				Dragonnet noir (Black Dragon Wyrmling)/317,Black,notBold,notItalic,open,FitWidth,253,89,0.0
+			Dragon rouge (Red Dragon)/317,Black,notBold,notItalic,closed,FitWidth,91,532,0.0
+				Dragon rouge vénérable (Ancient Red Dragon)/317,Black,notBold,notItalic,open,FitWidth,140,532,0.0
+				Dragon rouge adulte (Adult Red Dragon)/318,Black,notBold,notItalic,open,FitWidth,480,89,0.0
+				Jeune dragon rouge (Young Red Dragon)/319,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+				Dragonnet rouge (Red Dragon Wyrmling)/319,Black,notBold,notItalic,open,FitWidth,638,89,0.0
+			Dragon vert (Green Dragon)/319,Black,notBold,notItalic,closed,FitWidth,307,532,0.0
+				Dragon vert vénérable (Ancient Green Dragon)/319,Black,notBold,notItalic,open,FitWidth,356,532,0.0
+				Dragon vert adulte (Adult Green Dragon)/320,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+				Jeune dragon vert (Young Green Dragon)/321,Black,notBold,notItalic,open,FitWidth,549,89,0.0
+				Dragonnet vert (Green Dragon Wyrmling)/321,Black,notBold,notItalic,open,FitWidth,403,532,0.0
+		Dragons métalliques (Dragons, Metallic)/322,Black,notBold,notItalic,closed,FitWidth,202,89,0.0
+			Dragon d’airain (Brass Dragon)/322,Black,notBold,notItalic,closed,FitWidth,231,89,0.0
+				Dragon d’airain vénérable (Ancient Brass Dragon)/322,Black,notBold,notItalic,open,FitWidth,277,89,0.0
+				Dragon d’airain adulte (Adult Brass Dragon)/323,Black,notBold,notItalic,open,FitWidth,218,89,0.0
+				Jeune dragon d’airain (Young Brass Dragon)/323,Black,notBold,notItalic,open,FitWidth,758,532,0.0
+				Dragonnet d’airain (Brass Dragon Wyrmling)/324,Black,notBold,notItalic,open,FitWidth,708,89,0.0
+			Dragon d’argent (Silver Dragon)/324,Black,notBold,notItalic,closed,FitWidth,609,532,0.0
+				Dragon d’argent vénérable (Ancient Silver Dragon)/324,Black,notBold,notItalic,open,FitWidth,658,532,0.0
+				Dragon d’argent adulte (Adult Silver Dragon)/325,Black,notBold,notItalic,open,FitWidth,643,532,0.0
+				Jeune dragon d’argent (Young Silver Dragon)/326,Black,notBold,notItalic,open,FitWidth,607,532,0.0
+				Dragonnet d’argent (Silver Dragon Wyrmling)/327,Black,notBold,notItalic,open,FitWidth,557,89,0.0
+			Dragon de bronze (Bronze Dragon)/327,Black,notBold,notItalic,closed,FitWidth,422,532,0.0
+				Dragon de bronze vénérable (Ancient Bronze Dragon)/327,Black,notBold,notItalic,open,FitWidth,471,532,0.0
+				Dragon de bronze adulte (Adult Bronze Dragon)/328,Black,notBold,notItalic,open,FitWidth,480,532,0.0
+				Jeune dragon de bronze (Young Bronze Dragon)/329,Black,notBold,notItalic,open,FitWidth,480,532,0.0
+				Dragonnet de bronze (Bronze Dragon Wyrmling)/330,Black,notBold,notItalic,open,FitWidth,475,89,0.0
+			Dragon de cuivre (Copper Dragon)/330,Black,notBold,notItalic,closed,FitWidth,390,532,0.0
+				Dragon de cuivre vénérable (Ancient Copper Dragon)/330,Black,notBold,notItalic,open,FitWidth,439,532,0.0
+				Dragon de cuivre adulte (Adult Copper Dragon)/331,Black,notBold,notItalic,open,FitWidth,588,532,0.0
+				Jeune dragon de cuivre (Young Copper Dragon)/332,Black,notBold,notItalic,open,FitWidth,390,532,0.0
+				Dragonnet de cuivre (Copper Dragon Wyrmling)/333,Black,notBold,notItalic,open,FitWidth,426,89,0.0
+			Dragon d’or (Gold Dragon)/333,Black,notBold,notItalic,closed,FitWidth,391,532,0.0
+				Dragon d’or vénérable (Ancient Gold Dragon)/333,Black,notBold,notItalic,open,FitWidth,441,532,0.0
+				Dragon d’or adulte (Adult Gold Dragon)/334,Black,notBold,notItalic,open,FitWidth,542,532,0.0
+				Jeune dragon d’or (Young Gold Dragon)/335,Black,notBold,notItalic,open,FitWidth,622,532,0.0
+				Dragonnet d’or (Gold Dragon Wyrmling)/336,Black,notBold,notItalic,open,FitWidth,622,89,0.0
+		Dragon-tortue (Dragon Turtle)/336,Black,notBold,notItalic,open,FitWidth,542,532,0.0
+		Drider (Drider)/337,Black,notBold,notItalic,open,FitWidth,518,89,0.0
+		Dryade (Dryad)/337,Black,notBold,notItalic,open,FitWidth,573,532,0.0
+		Duergar (Duergar)/338,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+	Monstres (E)/339,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+		Élémentaires (Elementals)/339,Black,notBold,notItalic,open,FitWidth,138,89,0.0
+			Élémentaire de l’air (Air Elemental)/339,Black,notBold,notItalic,open,FitWidth,167,89,0.0
+			Élémentaire de l’eau (Water Elemental)/339,Black,notBold,notItalic,open,FitWidth,160,532,0.0
+			Élémentaire du feu (Fire Elemental)/340,Black,notBold,notItalic,open,FitWidth,253,89,0.0
+			Élémentaire de la terre (Earth Elemental)/340,Black,notBold,notItalic,open,FitWidth,275,532,0.0
+		Elfe drow (Elf, Drow)/341,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		Enlaceur (Roper)/341,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+		Esprit follet (Sprite)/342,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		Ettercap (Ettercap)/342,Black,notBold,notItalic,open,FitWidth,739,89,0.0
+		Ettin (Ettin)/343,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+	Monstres (F)/343,Black,notBold,notItalic,closed,FitWidth,607,89,0.0
+		Fantôme (Ghost)/343,Black,notBold,notItalic,open,FitWidth,669,89,0.0
+		Feu follet (Will-o'-Wisp)/344,Black,notBold,notItalic,open,FitWidth,314,89,0.0
+	Monstres (G)/344,Black,notBold,notItalic,closed,FitWidth,338,532,0.0
+		Garde animé (Shield Gardian)/344,Black,notBold,notItalic,open,FitWidth,400,532,0.0
+		Gargouille (Gargoyle)/345,Black,notBold,notItalic,open,FitWidth,558,89,0.0
+		Géants (Giants)/345,Black,notBold,notItalic,closed,FitWidth,307,532,0.0
+			Géant des collines (Hill Giant)/345,Black,notBold,notItalic,open,FitWidth,336,532,0.0
+			Géant du feu (Fire Giant)/345,Black,notBold,notItalic,open,FitWidth,747,532,0.0
+			Géant du givre (Frost Giant)/346,Black,notBold,notItalic,open,FitWidth,434,89,0.0
+			Géant des nuages (Cloud Giant)/346,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+			Géant des pierres (Stone Giant)/346,Black,notBold,notItalic,open,FitWidth,745,532,0.0
+			Géant des tempêtes (Storm Giant)/347,Black,notBold,notItalic,open,FitWidth,628,89,0.0
+		Génies (Genies)/347,Black,notBold,notItalic,closed,FitWidth,634,532,0.0
+			Djinn (Djinni)/347,Black,notBold,notItalic,open,FitWidth,663,532,0.0
+			Éfrit (Efreeti)/348,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+		Gnoll (Gnoll)/349,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		Gnome des profondeurs (svirfneblin) (Deep Gnome)/349,Black,notBold,notItalic,open,FitWidth,630,89,0.0
+		Gobelours (Bugbear)/349,Black,notBold,notItalic,open,FitWidth,519,532,0.0
+		Gobelin (Goblin)/350,Black,notBold,notItalic,open,FitWidth,245,89,0.0
+		Golems (Golems)/350,Black,notBold,notItalic,closed,FitWidth,692,89,0.0
+			Golem d’argile (Clay Golem)/350,Black,notBold,notItalic,open,FitWidth,720,89,0.0
+			Golem de chair (Flesh Golmem)/351,Black,notBold,notItalic,open,FitWidth,176,89,0.0
+			Golem de fer (Iron Golem)/351,Black,notBold,notItalic,open,FitWidth,407,532,0.0
+			Golem de pierre (Stone Golem)/352,Black,notBold,notItalic,open,FitWidth,442,89,0.0
+		Gorgone (Gorgon)/352,Black,notBold,notItalic,open,FitWidth,384,532,0.0
+		Goules (Ghouls)/353,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+			Blême (Ghast)/353,Black,notBold,notItalic,open,FitWidth,120,89,0.0
+			Goule (Ghoul)/353,Black,notBold,notItalic,open,FitWidth,778,89,0.0
+		Grick (Grick)/353,Black,notBold,notItalic,open,FitWidth,626,532,0.0
+		Griffon (Griffon)/354,Black,notBold,notItalic,open,FitWidth,338,89,0.0
+		Guenaudes (Hags)/354,Black,notBold,notItalic,closed,FitWidth,91,532,0.0
+			Guenaude marine (Sea Hag)/354,Black,notBold,notItalic,open,FitWidth,120,532,0.0
+			Guenaude nocturne (tormante) (Night Hag)/355,Black,notBold,notItalic,open,FitWidth,318,89,0.0
+			Guenaude verte (Green Hag)/355,Black,notBold,notItalic,open,FitWidth,606,532,0.0
+	Monstres (H)/356,Black,notBold,notItalic,closed,FitWidth,720,89,0.0
+		Harpie (Harpy)/356,Black,notBold,notItalic,open,FitWidth,782,89,0.0
+		Hibours (ours-hibou) (Owlbear)/356,Black,notBold,notItalic,open,FitWidth,771,532,0.0
+		Hippogriffe (Hippogriff)/357,Black,notBold,notItalic,open,FitWidth,466,89,0.0
+		Hobgobelin (Hobgoblin)/357,Black,notBold,notItalic,open,FitWidth,157,532,0.0
+		(Homonculus)/357,Black,notBold,notItalic,open,FitWidth,624,532,0.0
+		Horriflamme (destrier noir) (Nightmare)/358,Black,notBold,notItalic,open,FitWidth,331,89,0.0
+		Hydre (Hydra)/358,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+	Monstres (I)/386,Black,notBold,notItalic,closed,FitWidth,607
+		Incube/Succube (Incubus/Succubus)/386,Black,notBold,notItalic,closed,FitWidth,607
+	Monstres (K)/359,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+		Kobold (Kobold)/359,Black,notBold,notItalic,open,FitWidth,138,89,0.0
+		Kraken (Kraken)/359,Black,notBold,notItalic,open,FitWidth,646,89,0.0
+	Monstres (L)/360,Black,notBold,notItalic,closed,FitWidth,684,89,0.0
+		Lamie (Lamia)/360,Black,notBold,notItalic,open,FitWidth,746,89,0.0
+		Liche (Lich)/360,Black,notBold,notItalic,open,FitWidth,686,532,0.0
+		Licorne (Unicorn)/361,Black,notBold,notItalic,open,FitWidth,712,532,0.0
+		Lycanthropes (Lycanthropes)/362,Black,notBold,notItalic,closed,FitWidth,345,532,0.0
+			Loup-garou (Werewolf)/362,Black,notBold,notItalic,open,FitWidth,372,532,0.0
+			Ours-garou (Werebear)/363,Black,notBold,notItalic,open,FitWidth,422,89,0.0
+			Rat-garou (Wererat)/363,Black,notBold,notItalic,open,FitWidth,465,532,0.0
+			Sanglier-garou (Wereboar)/364,Black,notBold,notItalic,open,FitWidth,504,89,0.0
+			Tigre-garou (Weretiger)/364,Black,notBold,notItalic,open,FitWidth,643,532,0.0
+	Monstres (M)/365,Black,notBold,notItalic,closed,FitWidth,91,532,0.0
+		Magmatique (Magmin)/365,Black,notBold,notItalic,open,FitWidth,138,532,0.0
+		Mante obscure (Darkmantle)/365,Black,notBold,notItalic,open,FitWidth,742,532,0.0
+		Manteleur (Cloaker)/366,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+		Manticore (Manticore)/367,Black,notBold,notItalic,open,FitWidth,519,89,0.0
+		Méduse (Medusa)/367,Black,notBold,notItalic,open,FitWidth,256,532,0.0
+		Méphites (Mephits)/368,Black,notBold,notItalic,closed,FitWidth,423,89,0.0
+			Méphite gelé (Ice Mephit)/368,Black,notBold,notItalic,open,FitWidth,451,89,0.0
+			Méphite magmatique (Magma Mephit)/368,Black,notBold,notItalic,open,FitWidth,335,532,0.0
+			Méphite poussiéreux (Dust Mephit)/369,Black,notBold,notItalic,open,FitWidth,260,89,0.0
+			Méphite vaporeux (Steam Mephit)/369,Black,notBold,notItalic,open,FitWidth,237,532,0.0
+		Merrow (Merrow)/370,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		Mimique (Mimic)/370,Black,notBold,notItalic,open,FitWidth,634,89,0.0
+		Minotaure (Minotaur)/370,Black,notBold,notItalic,open,FitWidth,592,532,0.0
+		Molosse infernal (Hell Hound)/371,Black,notBold,notItalic,open,FitWidth,468,89,0.0
+		Momies (Mummies)/371,Black,notBold,notItalic,closed,FitWidth,260,532,0.0
+			Momie (Mummy)/371,Black,notBold,notItalic,open,FitWidth,288,532,0.0
+			Momie auguste (Mummy Lord)/372,Black,notBold,notItalic,open,FitWidth,299,89,0.0
+	Monstres (N)/373,Black,notBold,notItalic,closed,FitWidth,653,89,0.0
+		Nagas (Nagas)/373,Black,notBold,notItalic,closed,FitWidth,715,89,0.0
+			Naga corrupteur (Spirit Naga)/373,Black,notBold,notItalic,open,FitWidth,744,89,0.0
+			Naga gardien (Guardian Naga)/373,Black,notBold,notItalic,open,FitWidth,754,532,0.0
+		Nécronte (nécrophage) (Wight)/374,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+	Monstres (O)/375,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+		Objets animés (Animated Objects)/375,Black,notBold,notItalic,closed,FitWidth,138,89,0.0
+			Armure animée (Animated Armor)/375,Black,notBold,notItalic,open,FitWidth,167,89,0.0
+			Épée volante (Flying Sward)/375,Black,notBold,notItalic,open,FitWidth,729,89,0.0
+			Tapis étrangleur (Rug of Smothering)/375,Black,notBold,notItalic,open,FitWidth,486,532,0.0
+		Ogre (Ogre)/376,Black,notBold,notItalic,open,FitWidth,365,89,0.0
+		Ombre (Shadow)/376,Black,notBold,notItalic,open,FitWidth,723,89,0.0
+		Oni (Oni)/376,Black,notBold,notItalic,open,FitWidth,683,532,0.0
+		Orc (Orc)/377,Black,notBold,notItalic,open,FitWidth,696,89,0.0
+		Otyugh (Otyugh)/377,Black,notBold,notItalic,open,FitWidth,341,532,0.0
+		Oxydeur (Rust Monster)/378,Black,notBold,notItalic,open,FitWidth,429,89,0.0
+	Monstres (P)/378,Black,notBold,notItalic,closed,FitWidth,399,532,0.0
+		Pégase (Pegasus)/378,Black,notBold,notItalic,open,FitWidth,461,532,0.0
+		Pseudodragon (Pseudodragon)/379,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+	Monstres (R)/379,Black,notBold,notItalic,closed,FitWidth,91,532,0.0
+		Rakshasa (Rakshasa)/379,Black,notBold,notItalic,open,FitWidth,138,532,0.0
+		Remorhaz (Remorhaz)/380,Black,notBold,notItalic,open,FitWidth,172,89,0.0
+		Rukh (Roc)/380,Black,notBold,notItalic,open,FitWidth,172,532,0.0
+	Monstres (S)/380,Black,notBold,notItalic,closed,FitWidth,703,532,0.0
+		Sahuagin (Sahuagin)/380,Black,notBold,notItalic,open,FitWidth,765,532,0.0
+		Salamandre (Salamander)/381,Black,notBold,notItalic,open,FitWidth,687,89,0.0
+		Satyre (Satyr)/381,Black,notBold,notItalic,open,FitWidth,679,532,0.0
+		Saurial (homme-lézard) (Lizard folk)/382,Black,notBold,notItalic,open,FitWidth,380,89,0.0
+		Sphinx (Sphinxes)/382,Black,notBold,notItalic,closed,FitWidth,157,532,0.0
+			Androsphinx (Androsphinx)/382,Black,notBold,notItalic,open,FitWidth,184,532,0.0
+			Gynosphinx (sphinge) (Gynosphinx)/383,Black,notBold,notItalic,open,FitWidth,157,532,0.0
+		Squelettes (Skeletons)/384,Black,notBold,notItalic,closed,FitWidth,539,89,0.0
+			Destrier squelette (Warhorse Skeleton)/384,Black,notBold,notItalic,open,FitWidth,567,89,0.0
+			Minotaure squelette (Monotaur Skeleton)/384,Black,notBold,notItalic,open,FitWidth,179,532,0.0
+			Squelette (Skeleton)/384,Black,notBold,notItalic,open,FitWidth,726,532,0.0
+		Spectre (Specter)/385,Black,notBold,notItalic,open,FitWidth,371,89,0.0
+		Sylvanien (Treant)/385,Black,notBold,notItalic,open,FitWidth,256,532,0.0
+		Strige (Stirge)/386,Black,notBold,notItalic,open,FitWidth,176,89,0.0
+		Succube/incube (Succubus/Incubus)/386,Black,notBold,notItalic,open,FitWidth,607,89,0.0
+	Monstres (T)/387,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+		Tarasque (Tarrasque)/387,Black,notBold,notItalic,open,FitWidth,153,89,0.0
+		Tertre errant (Shambling Mound)/388,Black,notBold,notItalic,open,FitWidth,350,89,0.0
+		Thalasséen (homme-poisson) (Merfolk)/388,Black,notBold,notItalic,open,FitWidth,299,532,0.0
+		Torve (Grimlock)/388,Black,notBold,notItalic,open,FitWidth,711,532,0.0
+		Traqueur invisible (Invisible Stalker)/389,Black,notBold,notItalic,open,FitWidth,486,89,0.0
+		Troll (Troll)/389,Black,notBold,notItalic,open,FitWidth,322,532,0.0
+	Monstres (V)/390,Black,notBold,notItalic,closed,FitWidth,91,89,0.0
+		Vampires (Vampires)/390,Black,notBold,notItalic,closed,FitWidth,153,89,0.0
+			Vampire (Vampire)/390,Black,notBold,notItalic,open,FitWidth,182,89,0.0
+			Vampirien (Vampire Spawn)/391,Black,notBold,notItalic,open,FitWidth,191,532,0.0
+		Vases (Oozes)/392,Black,notBold,notItalic,closed,FitWidth,386,89,0.0
+			Cube gélatineux (Gelatinous Cube)/392,Black,notBold,notItalic,open,FitWidth,415,89,0.0
+			Gelée ocre (Ochre Jelly)/392,Black,notBold,notItalic,open,FitWidth,727,532,0.0
+			Pouding noir (Black Pudding)/393,Black,notBold,notItalic,open,FitWidth,626,89,0.0
+			Vase grise (Grey Ooze)/393,Black,notBold,notItalic,open,FitWidth,774,532,0.0
+		Ver pourpre (Purple Worm)/394,Black,notBold,notItalic,open,FitWidth,720,89,0.0
+		Vouivre (Wyvern)/394,Black,notBold,notItalic,open,FitWidth,730,532,0.0
+	Monstres (X)/395,Black,notBold,notItalic,closed,FitWidth,477,89,0.0
+		Xorn (Xorn)/395,Black,notBold,notItalic,open,FitWidth,539,89,0.0
+	Monstres (Z)/395,Black,notBold,notItalic,closed,FitWidth,386,532,0.0
+		Zombis (Zombies)/395,Black,notBold,notItalic,closed,FitWidth,448,532,0.0
+			Ogre zombi (Ogre Zombie)/395,Black,notBold,notItalic,open,FitWidth,477,532,0.0
+		Zombi (Zombie)/396,Black,notBold,notItalic,closed,FitWidth,179
+Annexe MdJ-A : Etats/397,Black,notBold,notItalic,closed,FitWidth,86
+	À terre/397,Black,notBold,notItalic,open,FitWidth,404
+	Agrippé/397,Black,notBold,notItalic,open,FitWidth,538
+	Assourdi/397,Black,notBold,notItalic,open,FitWidth,706
+	Aveuglé/397,Black,notBold,notItalic,open,FitWidth,801
+	Charmé/397,Black,notBold,notItalic,open,FitWidth,141
+	Effrayé/397,Black,notBold,notItalic,open,FitWidth,263
+	Empoisonné/397,Black,notBold,notItalic,open,FitWidth,366
+	Entravé/397,Black,notBold,notItalic,open,FitWidth,432
+	Épuisement/397,Black,notBold,notItalic,open,FitWidth,561
+	Étourdi/398,Black,notBold,notItalic,open,FitWidth,241
+	Inconscient/398,Black,notBold,notItalic,open,FitWidth,367
+	Invisible/398,Black,notBold,notItalic,open,FitWidth,557
+	Neutralisé/398,Black,notBold,notItalic,open,FitWidth,737
+	Paralysé/398,Black,notBold,notItalic,open,FitWidth,799
+	Pétrifié/398,Black,notBold,notItalic,open,FitWidth,159
+Annexe MdJ-B : Panthéons historiques et mythologiques/399,Black,notBold,notItalic,closed,FitWidth,88
+	Le panthéon celte/399,Black,notBold,notItalic,closed,FitWidth,378
+		Table - Divinités celtes/400,Black,notBold,notItalic,closed,FitWidth,80
+	Le panthéon grec/399,Black,notBold,notItalic,closed,FitWidth,646
+		Table - Divinités grecques/400,Black,notBold,notItalic,closed,FitWidth,380
+	Le panthéon égyptien/399,Black,notBold,notItalic,closed,FitWidth,95
+		Table - Divinités égyptiennes/401,Black,notBold,notItalic,closed,FitWidth,80
+	Le panthéon nordique/399,Black,notBold,notItalic,closed,FitWidth,345
+		Table - Divinités nordiques/401,Black,notBold,notItalic,closed,FitWidth,409
+Annexe MdJ-C : Les plans d'existence/402,Black,notBold,notItalic,closed,FitWidth,77
+	Le Plan Matériel/402,Black,notBold,notItalic,open,FitWidth,466
+	Par-delà la matière/402,Black,notBold,notItalic,closed,FitWidth,97
+		Voyage planaire/402,Black,notBold,notItalic,open,FitWidth,223
+		Plans transitifs/403,Black,notBold,notItalic,open,FitWidth,90
+		Plans Intérieurs/403,Black,notBold,notItalic,open,FitWidth,598
+		Plans Extérieurs/403,Black,notBold,notItalic,closed,FitWidth,226
+			Plans Extérieurs/404,Black,notBold,notItalic,open,FitWidth,160
+			Demi-plans/404,Black,notBold,notItalic,open,FitWidth,393
+Annexe MdM-A : Créatures diverses/405,Black,notBold,notItalic,closed,FitWidth,80
+	A/405,Black,notBold,notItalic,closed,FitWidth,220
+		Aigle (Eagle)/405,Black,notBold,notItalic,open,FitWidth,220
+		Aigle géant (Giant Eagle)/405,Black,notBold,notItalic,open,FitWidth,601
+		Araignée (Spider)/405,Black,notBold,notItalic,open,FitWidth,393
+		Araignée de phase (Phase Spider)/406,Black,notBold,notItalic,open,FitWidth,205
+		Araignée géante (Giant Spider)/406,Black,notBold,notItalic,open,FitWidth,208
+		Araignée-loup géante (Giant Wolf Spider)/407,Black,notBold,notItalic,open,FitWidth,381
+		Arbre éveillé (Awakened Tree)/407,Black,notBold,notItalic,open,FitWidth,355
+		Arbuste éveillé (Awakened Shrub)/408,Black,notBold,notItalic,open,FitWidth,80
+		Autrache (Axe Beak)/408,Black,notBold,notItalic,open,FitWidth,549
+	B/405,Black,notBold,notItalic,closed,FitWidth,220
+		Babouin (Baboon)/408,Black,notBold,notItalic,open,FitWidth,165,532,0.0
+		Belette (Weasel)/408,Black,notBold,notItalic,open,FitWidth,558,532,0.0
+		Belette géante (Giant Weasel)/409,Black,notBold,notItalic,open,FitWidth,179,89,0.0
+		Blaireau (Badger)/409,Black,notBold,notItalic,open,FitWidth,576,89,0.0
+		Blaireau géant (Giant Badger)/409,Black,notBold,notItalic,open,FitWidth,179,532,0.0
+	C/405,Black,notBold,notItalic,closed,FitWidth,220
+		Cervidé géant (Elan) (Giant Elk)/409,Black,notBold,notItalic,closed,FitWidth,626
+			Cervidé géant (doublon) (Elan) (Giant Elk)/435,Black,notBold,notItalic,open,FitWidth,395
+		Chacal (Jackal)/410,Black,notBold,notItalic,open,FitWidth,548,89,0.0
+		Chameau (Camel)/410,Black,notBold,notItalic,open,FitWidth,258,532,0.0
+		Chat (Cat)/410,Black,notBold,notItalic,open,FitWidth,566,532,0.0
+		Chauve-souris (Bat)/411,Black,notBold,notItalic,open,FitWidth,176,89,0.0
+		Chauve-souris géante (Giant Bat)/411,Black,notBold,notItalic,open,FitWidth,568,89,0.0
+		Cheval de selle (Riding Horse)/411,Black,notBold,notItalic,open,FitWidth,176,532,0.0
+		Cheval de trait (Draft Horse)/411,Black,notBold,notItalic,open,FitWidth,480,532,0.0
+		Chèvre (Goat)/411,Black,notBold,notItalic,open,FitWidth,784,532,0.0
+		Chèvre géante (Giant Goat)/412,Black,notBold,notItalic,open,FitWidth,458,89,0.0
+		Chien du trépas (Death Dog)/412,Black,notBold,notItalic,open,FitWidth,179,532,0.0
+		Chien esquiveur (Blink Dog)/413,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		Chouette (Owl)/413,Black,notBold,notItalic,open,FitWidth,665,89,0.0
+		Chouette géante (Giant Owl)/413,Black,notBold,notItalic,open,FitWidth,326,532,0.0
+		Corbeau (Raven)/414,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		Crabe (Crab)/414,Black,notBold,notItalic,open,FitWidth,519,89,0.0
+		Crabe géant (Giant Crab)/414,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+		Crapaud géant (Giant Toad)/414,Black,notBold,notItalic,open,FitWidth,504,532,0.0
+		Crocodile (Crocodile)/415,Black,notBold,notItalic,open,FitWidth,429,89,0.0
+		Crocodile géant (Giant Crocodile)/415,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+	D/405,Black,notBold,notItalic,closed,FitWidth,220
+		Destrier (Warhorse)/415,Black,notBold,notItalic,open,FitWidth,649,532,0.0
+	E/405,Black,notBold,notItalic,closed,FitWidth,220
+		Éléphant (Elephant)/416,Black,notBold,notItalic,open,FitWidth,299,89,0.0
+		Épaulard (Killer Whale)/416,Black,notBold,notItalic,open,FitWidth,789,89,0.0
+	F/405,Black,notBold,notItalic,closed,FitWidth,220
+		Faucon (Hawk)/416,Black,notBold,notItalic,open,FitWidth,458,532,0.0
+		Faucon de sang (Blood Hawk)/417,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+	G/405,Black,notBold,notItalic,closed,FitWidth,220
+		Grand cervidé (Elan) (Helk)/417,Black,notBold,notItalic,open,FitWidth,634,89,0.0
+		Grand singe (Ape)/417,Black,notBold,notItalic,open,FitWidth,335,532,0.0
+		Grenouille (Frog)/417,Black,notBold,notItalic,open,FitWidth,746,532,0.0
+		Grenouille géante (Giant Frog)/418,Black,notBold,notItalic,open,FitWidth,428,89,0.0
+		Guêpe géante (Giant Wasp)/418,Black,notBold,notItalic,open,FitWidth,322,532,0.0
+	H/405,Black,notBold,notItalic,closed,FitWidth,220
+		Hippocampe (Sea Horse)/418,Black,notBold,notItalic,open,FitWidth,739,532,0.0
+		Hippocampe géant (Giant Sea Horse)/419,Black,notBold,notItalic,open,FitWidth,218,89,0.0
+		Hyène (Hyena)/419,Black,notBold,notItalic,open,FitWidth,732,89,0.0
+		Hyène géante (Giant Hyena)/419,Black,notBold,notItalic,open,FitWidth,423,532,0.0
+	L/405,Black,notBold,notItalic,closed,FitWidth,220
+		Lézard (Lizard)/420,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		Lézard géant (Giant Lizard)/420,Black,notBold,notItalic,open,FitWidth,399,89,0.0
+		Lion (Lion)/420,Black,notBold,notItalic,open,FitWidth,804,89,0.0
+		Loup (Wolf)/420,Black,notBold,notItalic,open,FitWidth,650,532,0.0
+		Loup arctique (Winter Wolf)/421,Black,notBold,notItalic,open,FitWidth,335,89,0.0
+		Loup sanguinaire (Dire Wolf)/421,Black,notBold,notItalic,open,FitWidth,365,532,0.0
+	M/405,Black,notBold,notItalic,closed,FitWidth,220
+		Mammouth (Mammoth)/422,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		Mille-pattes géant (Giant Centipede)/422,Black,notBold,notItalic,open,FitWidth,662,89,0.0
+		Molosse (Mastiff)/422,Black,notBold,notItalic,open,FitWidth,287,532,0.0
+		Mule (Mule)/423,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+	N/405,Black,notBold,notItalic,closed,FitWidth,220
+		Nuée d’insectes (Swarm of Insects)/423,Black,notBold,notItalic,closed,FitWidth,515,89,0.0
+			Variante : Nuées d’insectes (Variant: Insect Swarms)/423,Black,notBold,notItalic,open,FitWidth,284,532,0.0
+		Nuée de chauves-souris (Swarm of Bats)/423,Black,notBold,notItalic,open,FitWidth,639,532,0.0
+		Nuée de corbeaux (Swarm of Ravens)/424,Black,notBold,notItalic,open,FitWidth,427,89,0.0
+		Nuée de piranhas (Swarm of Quippers)/424,Black,notBold,notItalic,open,FitWidth,210,532,0.0
+		Nuée de rats (Swarm of Rats)/424,Black,notBold,notItalic,open,FitWidth,803,532,0.0
+		Nuée de serpents venimeux (Swarm of poisonous Snakes)/425,Black,notBold,notItalic,open,FitWidth,551,89,0.0
+	O/405,Black,notBold,notItalic,closed,FitWidth,220
+		Ours brun (Brown Bear)/425,Black,notBold,notItalic,open,FitWidth,350,532,0.0
+		Ours noir (Black Bear)/426,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		Ours polaire (Polar Bear)/426,Black,notBold,notItalic,open,FitWidth,557,89,0.0
+	P/405,Black,notBold,notItalic,closed,FitWidth,220
+		Panthère (Panther)/426,Black,notBold,notItalic,open,FitWidth,264,532,0.0
+		Petit cervidé (cerf, biche) (Deer)/427,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		Pieuvre (Octopus)/427,Black,notBold,notItalic,open,FitWidth,399,89,0.0
+		Pieuvre géante (Giant Octopus)/427,Black,notBold,notItalic,open,FitWidth,218,532,0.0
+		Piranha (Quipper)/428,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		Poney (Pony)/428,Black,notBold,notItalic,open,FitWidth,615,89,0.0
+	R/405,Black,notBold,notItalic,closed,FitWidth,220
+		Rat (Rat)/428,Black,notBold,notItalic,open,FitWidth,179,532,0.0
+		Rat géant (Giant Rat)/428,Black,notBold,notItalic,closed,FitWidth,542,532,0.0
+			Variante : Rats géants infectés (Variant: Diseased Giant Rats)/429,Black,notBold,notItalic,open,FitWidth,160,89,0.0
+		Requin de récif (Reef Shark)/429,Black,notBold,notItalic,open,FitWidth,404,89,0.0
+		Requin géant (Giant Shark)/429,Black,notBold,notItalic,open,FitWidth,275,532,0.0
+		Requin-chasseur (Hunter Shark)/430,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		Rhinocéros (Rhinoceros)/430,Black,notBold,notItalic,open,FitWidth,634,89,0.0
+	S/405,Black,notBold,notItalic,closed,FitWidth,220
+		Sanglier (Boar)/430,Black,notBold,notItalic,open,FitWidth,284,532,0.0
+		Sanglier géant (Giant Boar)/431,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		Scarabée de feu géant (Giant Fire Beetle)/431,Black,notBold,notItalic,open,FitWidth,581,89,0.0
+		Scorpion (Scorpion)/431,Black,notBold,notItalic,open,FitWidth,306,532,0.0
+		Scorpion géant (Giant Scorpion)/431,Black,notBold,notItalic,open,FitWidth,644,532,0.0
+		Serpent constricteur (Constrictor Snake)/432,Black,notBold,notItalic,open,FitWidth,341,89,0.0
+		Serpent constricteur géant (Giant Constrictor Snake)/432,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+		Serpent venimeux (Poisonous Snake)/432,Black,notBold,notItalic,open,FitWidth,515,532,0.0
+		Serpent venimeux géant (Giant Poisonous Snake)/433,Black,notBold,notItalic,open,FitWidth,91,89,0.0
+		Serpent volant (Flying Snake)/433,Black,notBold,notItalic,open,FitWidth,465,89,0.0
+		Singe géant (Giant Ape)/433,Black,notBold,notItalic,open,FitWidth,187,532,0.0
+	T/405,Black,notBold,notItalic,closed,FitWidth,220
+		Tigre (Tiger)/433,Black,notBold,notItalic,open,FitWidth,600,532,0.0
+		Tigre à dents de sabre (Saber-Toothed Tiger)/434,Black,notBold,notItalic,open,FitWidth,384,89,0.0
+	V/405,Black,notBold,notItalic,closed,FitWidth,220
+		Vautour (Vulture)/434,Black,notBold,notItalic,open,FitWidth,157,532,0.0
+		Vautour géant (Giant Vulture)/434,Black,notBold,notItalic,open,FitWidth,619,532,0.0
+	W/405,Black,notBold,notItalic,closed,FitWidth,220
+		Worg (Worg)/435,Black,notBold,notItalic,open,FitWidth,514
+Annexe MdM-B : Personnages non-joueurs/437,Black,notBold,notItalic,closed,FitWidth,78
+	Adapter un PNJ/437,Black,notBold,notItalic,open,FitWidth,308,89,0.0
+	Acolyte/437,Black,notBold,notItalic,open,FitWidth,765,89,0.0
+	Archimage/437,Black,notBold,notItalic,open,FitWidth,569,532,0.0
+	Assassin/438,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+	Bandit/439,Black,notBold,notItalic,open,FitWidth,277,89,0.0
+	Berserker/439,Black,notBold,notItalic,open,FitWidth,91,532,0.0
+	Capitaine bandit/439,Black,notBold,notItalic,open,FitWidth,574,532,0.0
+	Chevalier/440,Black,notBold,notItalic,open,FitWidth,643,89,0.0
+	Druide/440,Black,notBold,notItalic,open,FitWidth,679,532,0.0
+	Ecclésiastique (prêtre)/441,Black,notBold,notItalic,open,FitWidth,561,89,0.0
+	Éclaireur/441,Black,notBold,notItalic,open,FitWidth,731,532,0.0
+	Espion/442,Black,notBold,notItalic,open,FitWidth,573,89,0.0
+	Fanatique de secte/442,Black,notBold,notItalic,open,FitWidth,556,532,0.0
+	Garde/443,Black,notBold,notItalic,open,FitWidth,519,89,0.0
+	Gladiateur/443,Black,notBold,notItalic,open,FitWidth,165,532,0.0
+	Guerrier tribal/444,Black,notBold,notItalic,open,FitWidth,194,89,0.0
+	Mage/444,Black,notBold,notItalic,open,FitWidth,707,89,0.0
+	Malfrat/444,Black,notBold,notItalic,open,FitWidth,703,532,0.0
+	Noble/445,Black,notBold,notItalic,open,FitWidth,561,89,0.0
+	Roturier/445,Black,notBold,notItalic,open,FitWidth,390,532,0.0
+	Sectateur (membre de secte)/445,Black,notBold,notItalic,open,FitWidth,759,532,0.0
+	Vétéran/446,Black,notBold,notItalic,open,FitWidth,530,89,0.0
