@@ -1,0 +1,108 @@
+chaotic
+chaotique
+alignement
+OD&D
+
+chaos
+chaos
+terme de jeu
+OD&D
+
+goblinoid
+goblinoïde
+type de monstres
+OD&D
+
+lawful
+loyal
+alignement
+OD&D
+
+reptilian
+reptilien
+type de monstre
+OD&D
+
+0-level spell
+sort du niveau 0
+terme de magie
+
+1st-level character
+personnage de niveau 1
+terme de jeu
+
+1st-level spell
+sort du 1er niveau
+terme de magie
+
+–2 sword, cursed
+épée maudite –2
+objet magique
+
+2nd-level spell
+sort du 2e niveau
+terme de magie
+
+3rd-level spell
+sort du 3e niveau
+terme de magie
+
+4th-level spell
+sort du 4e niveau
+terme de magie
+
+5-foot step
+pas de placement
+terme de combat
+
+5th-level spell
+sort du 5e niveau
+terme de magie
+
+6th-level spell
+sort du 6e niveau
+terme de magie
+
+7th-level spell
+sort du 7e niveau
+terme de magie
+
+8th-level spell
+sort du 8e niveau
+terme de magie
+
+9th-level spell
+sort du 9e niveau
+
+a thousand faces
+mille visages
+aptitude de druide
+
+aasimar
+aasimar
+créature
+
+aberration
+aberration
+type de monstre
+abilities = caractéristiques ; monstre (masque de
+présentation).
+ability = caractéristique ; général.
+ability check = jet de caractéristique ; type de jet.
+ability damage = affaiblissement temporaire de
+caractéristique ; pouvoir spécial de monstre.
+ability damaged = caractéristique temporairement
+affaiblie ; état préjudiciable ; cf. GdM83.
+ability drain = diminution permanente de
+caractéristique ; pouvoir spécial de monstre.
+ability drained = caractéristique diminuée ; état
+préjudiciable ; cf. GdM83.
+Ability Focus = Pouvoir renforcé ; don.
+ability increase = augmentation de caractéristique ;
+général.
+ability modifier = modificateur de caractéristique ; type
+de modificateur.
+ability score = valeur de caractéristique ; général.
+ability score loss = affaiblissement ou diminution de
+caractéristique ; pouvoir spécial de monstre ; cf.
+GdM72 et MdM8.

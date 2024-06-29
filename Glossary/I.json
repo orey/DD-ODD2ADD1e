@@ -1,0 +1,26 @@
+{
+    "version" : 1,
+    "letter" : "i",
+    "glossary" :
+    [
+        {
+            "en" : [ "id insinuation" ],
+            "fr" : [ "imposition d'identité" ],
+            "type" : "mode d'attaque psionique",
+            "source" : [ "OD&D Eldritch Wizardry" ]
+        },
+        {
+            "en" : [ "intellect fortress" ],
+            "fr" : [ "forteresse intellectuelle" ],
+            "type" : "mode de défense psionique",
+            "source" : [ "OD&D Eldritch Wizardry" ]
+        },
+        {
+            "en" : [ "invisibility" ],
+            "fr" : [ "invisibilité" ],
+            "type" : "aptitude psionique",
+            "source" : [ "OD&D Eldritch Wizardry" ]
+        }
+    ]
+}
+    

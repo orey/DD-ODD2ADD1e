@@ -1,0 +1,44 @@
+{
+    "version" : 1,
+    "letter" : "e",
+    "glossary" :
+    [
+        {
+            "en" : [ "ego whip" ],
+            "fr" : [ "coup de fouet sur l'ego" ],
+            "type" : "mode d'attaque psionique",
+            "source" : [ "OD&D Eldritch Wizardry" ]
+        },
+        {
+            "en" : [ "empathy" ],
+            "fr" : [ "empathie" ],
+            "type" : "aptitude psionique",
+            "source" : [ "OD&D Eldritch Wizardry" ]
+        },
+        {
+            "en" : [ "energy control" ],
+            "fr" : [ "contrôle de l'énergie" ],
+            "type" : "aptitude psionique",
+            "source" : [ "OD&D Eldritch Wizardry" ]
+        },
+        {
+            "en" : [ "ESP", "extrasensory perception" ],
+            "fr" : [ "perception extrasensorielle" ],
+            "type" : "aptitude psionique",
+            "source" : [ "OD&D Eldritch Wizardry" ]
+        },
+        {
+            "en" : [ "etherealness" ],
+            "fr" : [ "forme éthérée" ],
+            "type" : "aptitude psionique",
+            "source" : [ "OD&D Eldritch Wizardry" ]
+        },
+        {
+            "en" : [ "expansion" ],
+            "fr" : [ "expansion" ],
+            "type" : "aptitude psionique",
+            "source" : [ "OD&D Eldritch Wizardry" ]
+        }
+    ]
+}
+    

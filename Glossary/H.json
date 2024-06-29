@@ -1,0 +1,38 @@
+{
+    "version" : 1,
+    "letter" : "h",
+    "glossary" :
+    [
+        {
+            "en" : [ "heat metal" ],
+            "fr" : [ "chauffer le métal" ],
+            "type" : "sort",
+            "source" : [ "OD&D Eldritch Wizardry" ]
+        },
+        {
+            "en" : [ "hell hound" ],
+            "fr" : [ "chien de l'enfer" ],
+            "type" : "monstre",
+            "source" : [ "OD&D Greyhawk" ]
+        },
+        {
+            "en" : [ "hireling" ],
+            "fr" : [ "suivant" ],
+            "type" : "terme",
+            "source" : [ "OD&D", "AD&D" ]
+        },
+        {
+            "en" : [ "horse bow" ],
+            "fr" : [ "arc monté" ],
+            "type" : "arme",
+            "source" : [ "OD&D Greyhawk" ]
+        },
+        {
+            "en" : [ "hypnosis" ],
+            "fr" : [ "hypnose" ],
+            "type" : "aptitude psionique",
+            "source" : [ "OD&D Eldritch Wizardry" ]
+        }
+    ]
+}
+    

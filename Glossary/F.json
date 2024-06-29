@@ -1,0 +1,14 @@
+{
+    "version" : 1,
+    "letter" : "f",
+    "glossary" :
+    [
+        {
+            "en" : [ "fighting-man" ],
+            "fr" : [ "guerrier", "combattant" ],
+            "type" : "classe de personnage",
+            "source" : [ "OD&D" ]
+        }
+    ]
+}
+    

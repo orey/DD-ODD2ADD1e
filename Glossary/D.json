@@ -1,0 +1,44 @@
+{
+    "version" : 1,
+    "letter" : "d",
+    "glossary" :
+    [
+        {
+            "en" : [ "detection of evil/good" ],
+            "fr" : [ "détection du Mal/du Bien" ],
+            "type" : "aptitude psionique",
+            "source" : [ "OD&D Eldritch Wizardry" ]
+        },
+        {
+            "en" : [ "detection of magic" ],
+            "fr" : [ "détection de la magie" ],
+            "type" : "aptitude psionique",
+            "source" : [ "OD&D Eldritch Wizardry" ]
+        },
+        {
+            "en" : [ "dimension door" ],
+            "fr" : [ "porte dimensionnelle" ],
+            "type" : "aptitude psionique",
+            "source" : [ "OD&D Eldritch Wizardry" ]
+        },
+        {
+            "en" : [ "dimension walking" ],
+            "fr" : [ "marche dimensionnelle" ],
+            "type" : "aptitude psionique",
+            "source" : [ "OD&D Eldritch Wizardry" ]
+        },
+        {
+            "en" : [ "dire wolf" ],
+            "fr" : [ "canis dirus", "loup sinistre" ],
+            "type" : "monstre",
+            "source" : [ "OD&D Eldritch Wizardry" ]
+        },
+        {
+            "en" : [ "displacer beast" ],
+            "fr" : [ "bête éclipsante" ],
+            "type" : "monstre",
+            "source" : [ "OD&D Greyhawk" ]
+        }
+    ]
+}
+    

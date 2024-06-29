@@ -1,0 +1,32 @@
+{
+    "version" : 1,
+    "letter" : "a",
+    "glossary" :
+    [
+        {
+            "en" : [ "amulet vs. crystal balls and ESP" ],
+            "fr" : [ "amulette de captation" ],
+            "type" : "objet magique",
+            "source" : [ "OD&D" ]
+        },
+        {
+            "en" : [ "animal telepathy" ],
+            "fr" : [ "télépathie animale", "télépathie avec les animaux" ],
+            "type" : "pouvoir psionique",
+            "source" : [ "OD&D Eldritch Wizardry" ]
+        },
+        {
+            "en" : [ "astral projection" ],
+            "fr" : [ "projection astrale" ],
+            "type" : "aptitude psionique",
+            "source" : [ "OD&D Eldritch Wizardry" ]
+        },
+        {
+            "en" : [ "aura alteration" ],
+            "fr" : [ "altération de l'aura" ],
+            "type" : "aptitude psionique",
+            "source" : [ "OD&D Eldritch Wizardry" ]
+        }
+    ]
+}
+    
